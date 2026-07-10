@@ -12,4 +12,4 @@
 
 | # | Title | Words |
 |---|---|---|
-| 001 | Unindexed | — |
+| 001 | [Unindexed](chapters/001-unindexed.md) | ~2,800 |
