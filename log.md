@@ -32,3 +32,17 @@ Lab notebook for meta and process work. One entry per session that touches proce
 - Deferred a dedicated continuity-editor skill: let the basic loop run first; add it if continuity errors actually slip through (that decision itself is data for the process criterion).
 
 **Next:** Owner greenlights a pitch (with any direction); then worldbuilding and arc planning begin.
+
+---
+
+## 2026-07-10 — Authors-voice skill rebuilt from the owner's voice notes
+
+**Asked:** Owner supplied a detailed voice guide ("Michael's preferred AI story voice"): clear, scene-first genre fiction; phone-readable; priority order clarity → character action → momentum → tension → emotional consequence → style; scene contract; lore through pressure; genre pleasures preserved; a long list of banned AI-prose patterns; 20 worked do/don't examples.
+
+**Done:**
+- Stored the guide verbatim at `.claude/skills/authors-voice/references/michaels-voice-notes.md` — it is the source of truth and wins over any summary.
+- Rewrote `SKILL.md` as the operational distillation. This replaces the first draft, which leaned too literary ("a little dry, craft hidden") — the owner's target is web-serial genre fiction where the prose disappears, not prestige-fantasy restraint.
+
+**Decisions of note:**
+- The reference file is required reading before a session's first draft; the revision checklist now leads with the owner's calibration test (profound-but-unclear → rewrite; mood-only paragraph → cut; thesis dialogue → make them want things and dodge).
+- Kept the guide's darker/sensual-fantasy section in both files even though no current work uses it — it applies if a future work goes that direction.
