@@ -46,3 +46,13 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Decisions of note:**
 - The reference file is required reading before a session's first draft; the revision checklist now leads with the owner's calibration test (profound-but-unclear → rewrite; mood-only paragraph → cut; thesis dialogue → make them want things and dodge).
 - Kept the guide's darker/sensual-fantasy section in both files even though no current work uses it — it applies if a future work goes that direction.
+
+---
+
+## 2026-07-10 — Second pitch slate: anime-fantasy
+
+**Asked:** Four more premises, more in line with the anime-fantasy feel of the voice notes.
+
+**Done:** `pitches/2026-07-10-anime-fantasy-slate.md` — Support Build (leaderboard world, untracked support class, worst team in the league), Calamity, Housebroken (failed hunter bonds a sealed calamity stuck as a housecat), Deadweight (oath-bound porter on the broadcast tower circuit breaks her oath on camera), The Thirteen Forms (duelling circuit where techniques have public prices; extinct school whose forms cost life). Leaned deliberately on the genre pleasures the voice notes protect: ranks, leagues, named techniques, declared costs, rival escalation, duo banter. Updated the README works table to point at both slates.
+
+**Next:** Owner greenlights one pitch from either slate.

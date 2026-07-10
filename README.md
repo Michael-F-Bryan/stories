@@ -22,4 +22,4 @@ The human provides direction and feedback. The AI does the planning, worldbuildi
 
 | Serial | Status | Chapters |
 |---|---|---|
-| — | Awaiting greenlight: see [`pitches/2026-07-10-fantasy-slate.md`](pitches/2026-07-10-fantasy-slate.md) | 0 |
+| — | Awaiting greenlight: two slates in [`pitches/`](pitches/) | 0 |
