@@ -22,4 +22,4 @@ The human provides direction and feedback. The AI does the planning, worldbuildi
 
 | Serial | Status | Chapters |
 |---|---|---|
-| — | Awaiting greenlight: two slates in [`pitches/`](pitches/) | 0 |
+| [Support Build](works/support-build/) | Active — Arc 1 | 0 |
