@@ -2,12 +2,15 @@
 
 *Backstory, personality, voice. Current arc positions live in `ledgers/character-state.md`. Voice notes are load-bearing: the dialogue check reads them every chapter.*
 
+*Register warning: bible wit stays in the bible. Narration takes only the facts; the good lines belong to characters.*
+
 ## Ren Okafor — protagonist
 
 - 18. Awakened this spring; class: **Attendant**. Tall, still-growing, keeps his hair short because clippers are free at home. Wears his dead-stock delivery jacket everywhere.
-- Family: mother **Ada** (night-shift sorter at the rail depot), sister **Bea** (14). Father left Year 14, a year after the District Nine Break; not dead, just gone — sends nothing. The family carries the **recovery levy** from the Break: 31,400 marks outstanding, 1,900 due quarterly. The levy letter lives on the fridge under a magnet shaped like a lemon.
-- The Break made him a reader of fine print. He spent his early teens watching his mother lose arguments with insurers and learned the family lesson: **the document says what it says, not what the person across the desk tells you it says.** He reads everything twice. He asks the question everyone skipped.
-- Wants (start of story): a licensed team contract — signing bonus plus stipend clears the levy arrears and keeps Bea in school without Ada taking a third shift.
+- Family: mother **Ada** (night-shift sorter at the rail depot), sister **Bea** (14). Father left Year 14, a year after the District Nine Break; not dead, just gone — sends nothing.
+- **The levy, pinned:** the Okafors' household share of the District Nine reconstruction bond is **31,400 marks remaining**, paid at **1,900 a quarter** (runs to Year 26), plus **3,800 in arrears** — two quarters missed in Year 20 when Ada's hours were cut — compounding penalty interest at a rate the Trust prints in six-point type. The levy letter lives on the fridge under a magnet shaped like a lemon. A League-minimum signing bonus (8,000) kills the arrears and the next quarter with room to spare; the stipend (2,600/month) holds the schedule after that. Ren has done this arithmetic many times.
+- The Break made him a reader of fine print. He spent his early teens watching his mother fight the Recovery Trust's payments office — misapplied instalments, phantom penalties, appeals denied for formatting — and learned the family lesson: **the document says what it says, not what the person across the desk tells you it says.** He reads everything twice. He asks the question everyone skipped.
+- Wants (start of story): a licensed team contract — see the arithmetic above. Secondarily, and less examined: to be *picked* for once.
 - Temperament: calm under humiliation (he's had practice), methodical, keeps score privately, generous with credit, slow to trust institutions and quick to trust competence.
 - Flaws to keep honest: conflict-avoidant until he's certain; hoards problems instead of sharing them; his fine-print instinct can read people like documents, which people notice and dislike.
 - **Voice:** polite, precise, economical. Asks short exact questions. Understatement as armour ("That went better than the last twelve"). Never swears in front of his mother; swears accurately elsewhere.
@@ -30,21 +33,21 @@
 ## Juno Vale — caster
 
 - 27. Class: **Pyrokinetic** (mid-rarity caster; heat projection and shaping). Broad, cheerful, burn-scarred forearms she doesn't cover. Team's unofficial cook.
-- Solid fundamentals, one chronic flaw: she over-casts. Puts 40 Focus of fire on a 15-Focus problem, greys out by the back third of a Gate. Every team she's played for tried to fix it with drills; nobody's tried to fix *why* (she'd rather be empty than watch someone get hit by the thing she could have stopped).
+- Solid fundamentals, one chronic flaw: she over-casts. Answers a candle problem with a furnace and greys out by the back third of a Gate. Every team she's played for tried to fix it with drills; nobody's tried to fix *why* (she'd rather be empty than watch someone get hit by the thing she could have stopped).
 - Flaws: her generosity is a resource-management problem; deflects concern by feeding people; believes she's the least talented person on the team and would rather grey out than test the theory.
 - **Voice:** run-ons, "okay so—" openings, narrates her own reasoning aloud, apologises mid-sentence and keeps going. Technical when calm, faster and *more* technical when scared.
 
 ## Pip Andrade — scout
 
-- 18. Class: **Tracker** (scout; bow, marking, terrain-reading kit). Small, quick, sleeps in the gym loft more than anyone admits knowing. Awakened at 16 — early — and went pro instead of finishing school.
+- 18. Class: **Tracker** (scout; bow, marking, terrain-reading kit). Small, quick, sleeps in the gym loft more than anyone admits knowing. Awakened at 16 — early — and went pro at 17, the League's minimum age with a guardian counter-signature, instead of finishing school.
 - Carries the division's fixture data, patch-nothing-notes, wipe statistics, and fatality tables in her head, and recites them at exactly the wrong moments. It isn't a System skill. She's just like that.
 - Flaws: statistics as anxiety management; will state the 8% fatality figure but not the "I'm scared"; freezes socially with strangers, fine mid-fight.
 - **Voice:** quiet, exact, numbers-first ("four teams have wiped there since Year 19; median time-to-wipe eleven minutes"), trails off when looked at. Never rounds.
 
 ## Doc Amara — mender
 
-- 56. Class: **Chaplain** (mender; the oldest recorded healing class — registry MND-002). Retired twice; came back both times because Cass asked. Knits between pulls; the needles live in his kit next to the trauma shears.
-- Field-medic before he awakened at 34 (late awakenings happen; his was during a Break, which he does not discuss and, unlike Cass, will cheerfully say he does not discuss).
+- 54. Class: **Chaplain** (mender; registry MND-002 — the second mender class ever recorded, and the oldest still walking around). Retired twice; came back both times because Cass asked. Knits between pulls; the needles live in his kit next to the trauma shears.
+- Field-medic before he awakened at 34, in Year 2, during one of the scramble era's many anonymous Breaks — late awakenings are rare and almost always Break-associated, and his is one, which he does not discuss and, unlike Cass, will cheerfully say he does not discuss.
 - Flaws: has watched teams die and rationed his attachments accordingly; his calm reads as detachment because some of it is.
 - **Voice:** unhurried, deadpan understatement ("That's going to inconvenience him"), calls everyone "child" except Cass. One-sentence verdicts that end arguments.
 

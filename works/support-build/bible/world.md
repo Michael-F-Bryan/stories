@@ -2,6 +2,8 @@
 
 *Records what is TRUE and established. Plans and secrets live in `plan/`, not here. Fast-changing facts live in `ledgers/`.*
 
+*Register warning: bible wit stays in the bible. Narration takes only the facts; the good lines belong to characters.*
+
 ## Orientation
 
 A modern world, close cousin to ours: phones, buses, streaming, rent, payday loans. Twenty-two years ago the Gates started opening and the System arrived with them. The world bent around that fact rather than breaking. Today Gate clearance is an industry, a public utility, and — through the Gate League — the biggest spectator sport on the planet.
@@ -10,12 +12,12 @@ Spelling and idiom: British/Australian English ("centre", "realised", "colour").
 
 ## Timeline of the Gate era
 
-Years are counted from the First Break. The story opens in **Year 22**, early spring, at the start of the League's registration window.
+Years are counted from the First Break. The story opens in **Year 22**, early spring, in the final days of the League's three-week registration window — rosters lock at the deadline, and Grave Society is a body short.
 
-- **Year 0 — the First Break.** A Gate nobody understood opened inside Corvel Central Station and burst nine days later. ~3,100 dead. During the Break, the first System panels appeared to survivors — the **First Eight Hundred**, the earliest awakened. Everything since is response.
+- **Year 0 — the First Break.** A Gate nobody understood opened inside Corvel Central Station and burst nine days later. ~3,100 dead. During the Break, the first System panels appeared to survivors — the **First Eight Hundred**, the earliest awakened. Every institution in this bible exists because of those nine days.
 - **Years 1–4 — the scramble.** Gates opening worldwide on no discernible schedule. Militaries fought gaunts with rifles and lost expensively; awakened teams with System skills won cheaply. National **Gate Authorities** were chartered to license teams, grade Gates, and buy essence.
 - **Year 7 — first broadcast clear.** A Corvel team wore cameras into a C-grade Gate to prove a sponsorship claim. Forty million people watched. The **Gate League** was chartered within eighteen months, folding the biggest teams into a divisioned, sponsored, televised circuit.
-- **Year 13 — the District Nine Break (Halden).** A C-grade Gate misgraded as D burst at 4:07 a.m. in a residential district. 41 dead, four blocks condemned. The Authority called it a grading error; the insurers called it an "extradimensional incursion" and invoked the exclusion clause. Residents got rebuilt housing and a thirty-year **recovery levy** to pay for it. (This is Ren's family's debt. See characters.)
+- **Year 13 — the District Nine Break (Halden).** A C-grade Gate misgraded as D burst at 4:07 a.m. in a residential district. 41 dead, four blocks condemned. The Authority called it a grading error; the insurers called it an "extradimensional incursion" and invoked the exclusion clause. Residents got rebuilt housing and a **recovery levy** to pay for it — the district reconstruction bond runs thirty years; each household carries its own share on its own schedule. (The Okafors' numbers are pinned in `characters.md`.)
 - **Year 15 — Grave Society founded** (see factions).
 - **Year 22 — now.** 215 teams hold national league licences. Gate terms are, according to forum statisticians, getting slightly shorter every year. The Authority disputes the methodology.
 
@@ -26,7 +28,7 @@ The country is a mid-sized coastal republic — everyone just says **the Republi
 - **Corvel** — the capital. Seat of the Authority and the League. Home of the majors, the money, and the First Break memorial. Corvel Central Station was never rebuilt; the fenced crater is a park now, sort of.
 - **Halden** — the story's home. Second-tier river-industrial city, population ~800k. Twelve numbered districts. Container port, rail yards, a famous fried-noodle culture, and a chip on its shoulder about Corvel. Gate frequency is average; prestige is not — no Halden team has ever ranked higher than Division B.
   - **District Seven** — old commercial strip, cheap rents. Grave Society's gym sits above **Marchetti's Laundry** on Corso Street. Smells like fabric softener and chalk.
-  - **District Nine** — partially rebuilt after the Year 13 Break. The condemned blocks are called **the Shelf**: fenced, Gate-scarred, popular with urban explorers and nobody else. The Okafors lived on the edge of it; they now rent in District Ten and pay the levy anyway, because the levy follows the person, not the address.
+  - **District Nine** — partially rebuilt after the Year 13 Break. The condemned blocks are called **the Shelf**: fenced, Gate-scarred, popular with urban explorers and nobody else. At its centre stands the dead aperture's **scar** — an inert grey seam, double-fenced, that still makes instruments tick (see mechanics: after a Break). The Okafors lived on the edge of it; they now rent in District Ten and pay the levy anyway, because the levy follows the person, not the address.
 - **Aldercourt** — northern city. Known nationally for one thing: the **Aldercourt Gate** incident in Year 15, the worst broadcast wipe in league history. People say "Aldercourt" the way people say "Chernobyl". (Established public knowledge only; details in `plan/` — do not elaborate in prose beyond what chapters have published.)
 
 ## How ordinary life works now

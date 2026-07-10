@@ -2,8 +2,8 @@
 
 *Overwritten each cycle. Next session starts here.*
 
-**Where things stand:** Greenlit, bible written and under editorial review (sub-agent audit for consistency/style/depth — revisions pending), plan complete (ending designed), ledgers scaffolded. No chapters published yet.
+**Where things stand:** Greenlit. Bible written, independently reviewed (22 findings), and revised — consistency blockers closed, teammate skill text canonized, bestiary and league ecosystem stocked. Plan complete including skill rulings. Ledgers scaffolded. No chapters published yet.
 
-**Next chapter needs to do:** Chapter 1 — run the full chapter loop. Beat plan intent: assessment-day humiliation → the "SIXTH WANTED, ANY CLASS" listing → Grave Society tryout → signed with the registration deadline breathing down everyone's neck → qualifier draw lands. Mini-resolution: both desperate parties solve each other's immediate problem. Consult `plan/arcs.md` Arc 1 for plant list.
+**Next chapter needs to do:** Chapter 1 — run the full chapter loop. Beat plan intent: assessment-day humiliation → the "SIXTH WANTED, ANY CLASS" listing → Grave Society tryout on deadline day → signed and registered with minutes to spare → qualifier draw lands (the Stacks: spec is fixed in `plan/arcs.md`). Mini-resolution: two desperate parties solve each other's immediate problem. Consult `plan/arcs.md` Arc 1 plant list and `plan/skill-rulings.md` before writing any skill demonstration.
 
-**Warnings:** None yet. Watch: don't front-load coined terms in ch. 1 (voice notes — ordinary words until needed); the assessment scene wants specific institutional texture, not cruelty theatre.
+**Warnings:** Don't front-load coined terms (voice notes — ordinary words until needed); the assessment scene wants institutional texture, not cruelty theatre. Timeline note: Ren's assessment is ~3 weeks before the registration deadline; the tryout is deadline day. Bible register warning applies — the bible's wit is not the narrator's.
