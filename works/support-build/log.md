@@ -51,3 +51,11 @@ Lab notebook for this serial: prompts, feedback, decisions, tasks. Newest entrie
 - *Reviewer's standing warning, adopted as a loop check:* the wry register is currently Ren-flavoured garnish but is the chapter's weakest habit — over 30 chapters it hardens into one droll narrator voice. Rule going forward: facts in narration, good lines in mouths. Added to handoff warnings.
 
 **Craft notes for future sessions:** the review also confirmed what passed, so it doesn't get "fixed" away: all canon numbers audit clean, panel privacy handled correctly throughout, voice differentiation passes cover-the-tags, and the closing "Yes" joke encodes stakes rather than deflating them. Protected lines listed in the review (e.g. "proposed and declined").
+
+---
+
+## 2026-07-11 — Owner feedback on ch. 1 (mid-read)
+
+**Owner:** Enjoying it so far, but the style has an "uncanny valley" quality — "almost, I dunno, clipped?" Cited: Cass's "It waits for a Gate. Contract." — "isn't something you would see from a typical human author," and notes many different AIs share this same style. Asked for help articulating the problem: find similar passages plus a near-miss version he'd like.
+
+**Action:** Diagnosis delivered in chat (punchline density / sculpted fragments / compression-personification / no slack — terseness as performance rather than economy). Awaiting owner's confirmation of the diagnosis before encoding a counter-rule into the authors-voice skill and revising ch. 1.
