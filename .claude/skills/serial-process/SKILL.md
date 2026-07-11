@@ -50,11 +50,12 @@ Run this ritual for every chapter, in order:
 3. **Plan the chapter.** A short beat plan (in the session, not committed) that must state: the chapter's own mini-resolution, what it advances in the current arc, any promises planted or paid off, and the closing beat — a question or turn that pulls toward the next chapter without cheap cliffhanging every time.
 4. **Draft** in the authors-voice skill's style. Target 2,000–3,500 words unless the chapter demands otherwise.
 5. **Revision pass.** Reread the full draft for prose quality against the authors-voice checklist. Fix, don't excuse.
-6. **Continuity check.** Verify the draft against all four ledgers and the bible: no contradicted facts, no character knowing something `knowledge.md` says they don't, names/dates/details consistent. Fix the draft, not the ledger — unless the ledger was wrong, in which case log it.
-7. **Update the ledgers.** Timeline entry for the chapter; knowledge changes; character-state changes; promises planted or paid (with chapter numbers).
-8. **Log.** Append to `works/<serial>/log.md`: date, chapter number, what was asked, notable decisions, anything the next session should know the reasoning behind.
-9. **Handoff.** Overwrite `handoff.md`: where the story stands, what the next chapter needs to do, any warnings (threads going stale, pacing debt).
-10. **Commit** the chapter, ledger updates, log entry, and handoff together. Commit message: chapter number and title only — no plot details.
+6. **Adversarial review.** Spawn an independent sub-agent to attack the draft: banned patterns and the slack rule, clarity/momentum, scene contracts, voice differentiation, canon/mechanics honesty (numbers audit!), genre pleasure. It must quote exact text, rank findings by severity, and state what passes so it doesn't get fixed away. Apply must-fixes and should-fixes; log the outcome. (Added after ch. 1 of Support Build, where this step caught a broken timeline, an empty demo, and an out-of-character beat.)
+7. **Continuity check.** Verify the draft against all four ledgers and the bible: no contradicted facts, no character knowing something `knowledge.md` says they don't, names/dates/details consistent. Fix the draft, not the ledger — unless the ledger was wrong, in which case log it.
+8. **Update the ledgers.** Timeline entry for the chapter; knowledge changes; character-state changes; promises planted or paid (with chapter numbers).
+9. **Log.** Append to `works/<serial>/log.md`: date, chapter number, what was asked, notable decisions, anything the next session should know the reasoning behind.
+10. **Handoff.** Overwrite `handoff.md`: where the story stands, what the next chapter needs to do, any warnings (threads going stale, pacing debt).
+11. **Commit** the chapter, ledger updates, log entry, and handoff together. Commit message: chapter number and title only — no plot details. If the owner is reviewing via PR, the chapter goes to a side branch and the PR description carries no plot details either.
 
 ## Ledger discipline
 

@@ -66,3 +66,13 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Change:** New section in `authors-voice/SKILL.md` — "The slack rule — one snap per beat" — with the owner-approved worked example, plus a cadence-audit step in the revision checklist and an explicit counterweight note on the punch-up steps. Owner's articulation of the goal, recorded verbatim: "there's no pressure to fill everything with smart quips, and it lets the story talk for itself rather than feeling like the author is trying to impress their readers with their literary skill."
 
 **Evidence note for the experiment:** this is the first style rule discovered through the owner's reader feedback rather than authored up front — the feedback loop working as intended.
+
+---
+
+## 2026-07-11 — Process change: adversarial review formalized in the chapter loop
+
+**Why:** The owner has requested an adversarial sub-agent review on both major artefacts so far (bible, ch. 1), and both times it caught blocker-grade problems (broken timeline, demo that proved nothing, out-of-character beat). Making it a standing loop step rather than an on-request extra.
+
+**Change:** `serial-process/SKILL.md` chapter loop gains step 6 (adversarial review with required scope: banned patterns + slack rule, clarity, scene contracts, voices, canon/numbers audit, genre pleasure; must quote text, rank severity, and record what passes). Also noted PR-based review flow in the commit step: chapter branches + spoiler-free PR descriptions, per owner's new workflow.
+
+**Also:** branch `claude/fiction-repo-setup-kstww0` renamed to `main` at owner's request; owner set it as GitHub default. (Old remote branch deletion returns 403 from this session — owner can remove it via the branches page.)
