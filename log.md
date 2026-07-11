@@ -104,3 +104,21 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Change:** "North Star — the positive model" section added to authors-voice: the confirmed shelf plus four operational upshots (earnest not ironic; interiority-is-character with the italicise test; wonder beats; growth as the long game). First skill section that says what to write TOWARD rather than what to avoid.
 
 **Note for ch. 3+:** Ren's interiority can carry more personality than ch. 1–2 gave it; the first Gate entry (ch. 4) is the serial's first real wonder beat and should be written as one.
+
+---
+
+## 2026-07-11 — Process overhaul after ch. 3 rejection (PR #2)
+
+**Why:** The owner rejected ch. 3 with 13 inline comments: "slipping into bad habits again and the adversarial review isn't catching them... I don't approve this PR to be merged without doing a massive overhaul." A mechanical device-counting audit (dispatched in response) proved the failure modes with a draft-vs-final diff. Three distinct failures:
+
+1. **Rule failure — the character-performance loophole was wrong.** The owner overruled it explicitly: pithy/clipped/epigrammatic speech is banned for characters too, not just the narrator ("It doesn't matter whether it's the narrator or a character saying it"). The audit found 8/8 speaking characters landing crafted beat-drops — one author in eight costumes.
+2. **Review-process failure — post-review revisions were unreviewed.** The audit's diff proved the revisions reinstalled the devices the review removed, including a literally duplicated simile fourteen lines apart that no reviewer ever saw together. Also: single-chapter reviews cannot see cross-chapter armature (3/3 identical opener shapes, 2 consecutive identical closers, 5th said-to-object attribution) — only counting across files exposes it. Also: shared-taste blind spots (a general reviewer reads diegetic-metaphor saturation as thematic coherence and callback density as payoff-craft).
+3. **Continuity-process failure — the knowledge ledger was written from the bible, not the page.** The owner: "Who are the Okafors? And what about District Nine?" Neither the surname nor the Break backstory nor Pip's bow had ever appeared in published text; the ledger claimed they had; the continuity check verified against the ledger's fiction.
+
+**Changes:**
+- `authors-voice/SKILL.md`: new section "The plain-speech rule — the pithy register is banned globally" (with the owner's rulings verbatim: full sentences for everyone; balanced epigrams and fragment-speech banned in dialogue; numbers-in-fragments banned; "just tell me" — implications must state their takeaway; "X was a Y with a Z" intangible-metaphor pattern banned). North Star interiority bullet corrected: voice-y means chatty/conversational, never compressed — the italicise test is necessary, not sufficient. Vary-the-snap gains hard structural budgets (triads ≤1 incl. dialogue, personification ≤1, callbacks ≤2, scene-exit buttons a minority), a no-fixed-armature rule for chapter openers/closers, and a diegetic-metaphor saturation rule. Cadence audit now explicitly runs on the FINAL text with re-audit on post-review edits.
+- `serial-process/SKILL.md`: continuity check gains the **first-mention audit** (every proper noun/backstory fact/gear verified against published chapter text by grep — the bible is what's true; the page is what's known) and a ledger-honesty rule; new loop step 8 **final-text style audit** (mechanical counting) after all revisions.
+
+**Owner content request logged:** equipment/kit texture ("the story has felt remarkably silent" on gear and how people fight) — ch. 3 overhaul adds a loadout scene; standing item for future chapters.
+
+**Meta-observation for the experiment:** the failure chain was rules→review→revision each individually passing while the composition failed. The counting audit (immune to shared taste) is the strongest tool added since the adversarial review itself.
