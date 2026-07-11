@@ -1,6 +1,6 @@
 # 2 — Cargo
 
-At two minutes to six on Saturday morning, Cass was already setting out cones, and the question of whether "six" had meant morning or evening answered itself: it meant both, and it meant mats down, and it meant Ren had joined a team whose captain owned a clipboard.
+At two minutes to six on Saturday morning, Cass was already setting out cones, which settled last night's question — six meant both sixes. It also meant Ren had joined a team whose captain owned a clipboard.
 
 "Escort first," she said, instead of good morning. "We know it works. Today we find out how it breaks."
 
@@ -18,21 +18,23 @@ Then the pillar. Pip ducked behind it, out of his sight for half a second, and t
 
 "I don't know yet."
 
-"Then we'll test hearing after lunch." She made a note. "Swap to Theo."
+"Then we'll test hearing tonight." She made a note. "Swap to Theo."
 
 Swapping charges took about a breath — designate, release, designate — and the breath was not negotiable. Cass timed it four times and wrote that down too. One charge at a time, a breath to change, and he had to keep whoever it was where he could perceive them. Those were the rules so far, and nobody had known any of them yesterday.
 
-The morning's other discovery arrived by accident. Theo, orbiting on cart duty, drifted in mid-drill with a question about whether Ren thought Juno's cooking constituted a signing benefit or a hazing ritual, and Ren, being polite, started to answer. The escort sagged. On the oiled patch, Pip's foot went out from under her for the first time in two days, and she landed flat on Doc's mats with the specific expression of a statistician updating a model.
+The morning's other discovery arrived by accident. Theo, orbiting on cart duty, drifted in mid-drill with a question about whether Ren thought Juno's cooking constituted a signing benefit or a hazing ritual, and Ren, being polite, started to answer. The escort sagged. On the oiled patch, Pip's foot went out from under her for the first time in two days, and she landed flat on Doc's mats.
+
+She sat up, looked at the patch, then at Ren. "What changed?"
+
+"I did. Sorry."
 
 "Okay, so, new rule," Juno said, hauling Pip up. "Nobody talks to him while he's working. He's not being rude, he's being *load-bearing*."
 
-"It's true," Ren said. "The skill runs on my attention. Conversation comes out of the same account."
-
-"Everything comes out of the same account," said Doc, from his chair.
+"It's true," Ren said. "The skill runs on my attention, and talking comes out of the same account."
 
 Cass wrote that down as well.
 
-Carry, after the water break, turned out to have opinions of its own. It took Doc's medical pack off him from across the room and settled the weight onto Ren's shoulders, same as yesterday. It refused to also take Juno's kit bag — the second designation simply didn't land, like pressing a button that wasn't connected to anything. One burden at a time, then.
+They moved to Carry after the water break. It took Doc's medical pack off him from across the room and settled the weight onto Ren's shoulders, same as yesterday. It refused to also take Juno's kit bag — the second designation simply didn't land, like pressing a button that wasn't connected to anything. One burden at a time, then.
 
 And when Ren tried to take the pack again after lunch, it wouldn't fire at all, because Doc, watching him steadily, had said, "No."
 
@@ -50,7 +52,7 @@ Cass stopped it. "You're guarding him like luggage."
 
 "He's the squishy one!"
 
-"He's the reason Pip can't fall down. Guard the stretcher." She reset the cones. "He works when you work. Nobody stands in front of him. Again."
+"He's the reason Pip can't fall down. Guard the stretcher." She reset the cones. "Keep him where he can see you and stay out of his way. Again."
 
 They ran it again. It went less badly. By the eleventh run it went well, and by then it was eleven o'clock, and Ren had somewhere to be before the counter closed at noon.
 
@@ -60,27 +62,33 @@ The Recovery Trust payments office kept Saturday half-days, on the theory that p
 
 "you're sweaty," she said, by way of hello. It was how she texted, too.
 
-"I ran. What's the number?"
+"I ran. Did it land?"
 
-"Three eight hundred arrears, two five two penalty, nineteen hundred for the quarter that's due anyway." She handed him the printout with one line highlighted. "Five nine five two, and then we're just... normal. People who owe money on schedule."
+"nine oh four this morning. league pays the mandated bonus straight onto roster confirmation, i checked the regs twice." She handed him a printout with one line highlighted. "three eight hundred arrears, two five two penalty, nineteen hundred for the quarter that's due anyway. five nine five two, and then we're just normal. people who owe money on schedule."
 
-The clerk at window two was the older one, the one who had watched Ada Okafor contest a misapplied instalment for eleven months in Year 20 and had, by the end, quietly started pulling their file before they reached the counter. He pulled it now.
+The clerk at window two was the older one, the one who had watched Ada Okafor contest a misapplied instalment for eleven months in Year 20 and had, by the end, quietly started pulling their file before they reached the counter. He pulled it now, and read his screen.
 
-"Arrears first, or all of it?"
+"Five thousand, nine hundred and eighty-nine."
+
+"no," Bea said, and slid her printout under the glass. "your system bills the penalty to month-end. it stops accruing at payment. two five two, not two eight nine."
+
+The clerk checked it against her printout, tapped something, and the screen dropped thirty-seven marks without argument. "You have to ask," he said.
+
+"we always ask."
 
 "All of it," Ren said. "Itemised receipt, please."
 
-"You'll want it stamped." It wasn't a question. The stamp came down three times, and the clerk slid the receipt across, and that was the whole ceremony: five years of the lemon-magnet letter, ended by a man with a rubber stamp who nodded once and called the next number.
+"You'll want it stamped." It wasn't a question. The stamp came down three times, and the clerk slid the receipt across, and that was the whole ceremony: two years of ARREARS: PENALTY ACCRUING in six-point type, ended by a man with a rubber stamp who nodded once and called the next number.
 
-Outside, on the bench by the bus stop, Bea updated the spreadsheet on her phone with great care. The cell at the bottom of the hole went from red to black. She looked at it for a while.
+Outside, on the bench by the bus stop, Bea updated the spreadsheet on her phone with great care. The arrears row went from red to black. The rest of the hole was still there — twenty-nine and a half thousand, four more years — but it was a hole with a schedule again, and nothing at the bottom of it was compounding.
 
 "mum's going to cry on the fridge," she said. "i'm going to let her."
 
 ---
 
-The evening session started at six with the corridor.
+The evening session started with the hearing test, which took ten minutes and settled nothing anyone had hoped. Pip behind the pillar, counting aloud: the escort let go the moment she stepped out of sight, voice or no voice. Cass amended her note to *sight, probably* and moved on, because the corridor was waiting.
 
-The corridor was Cass's invention: the length of the gym set up as a collapsed route — laundry carts to squeeze past, the oiled patch, a low scaffold to duck, and a forty-kilo sandbag on a stretcher standing in for a casualty. Theo threw tennis balls to be the skitters. The rule was simple: if a stretcher carrier stumbled or the sandbag touched the floor, the run reset. Their five-man record, Pip informed Ren, was seventy-four seconds, with two resets in the attempt.
+The corridor was Cass's copy of the League's standard extraction layout — the course qualifier telemetry times every team on — rebuilt from what the gym had: laundry carts to squeeze past, the oiled patch, a low scaffold to duck, and a forty-kilo sandbag on a stretcher standing in for a casualty. Theo threw tennis balls to be the skitters. The rule was simple: if a stretcher carrier stumbled or the sandbag touched the floor, the run reset. Their five-man record, Pip informed Ren, was seventy-four seconds, with two resets in the attempt.
 
 "Median extraction split for the division is sixty-five," she added. "We have never been under seventy."
 
@@ -92,15 +100,15 @@ Second: sixty-one.
 
 Third, with the swap timings called by Cass instead of guessed: fifty-eight seconds, no resets, and the sandbag came down on the far mats while Theo was still mid-throw.
 
-Nobody said anything for a second. Then Pip said, "Fifty-eight," and checked her own stopwatch against the wall clock, because one instrument was insufficient.
+Nobody said anything for a second. Then Pip said, "Fifty-eight," and checked her stopwatch against the wall clock anyway.
 
 "Do it twice more," Cass said. "If it's real, it repeats."
 
-It repeated. Fifty-nine, then fifty-seven. Juno sat down on the stretcher next to the sandbag and laughed at the ceiling, and Theo pointed at Ren with a tennis ball and said, "I want it noted I threw *well*," which from Theo was roughly a medal ceremony.
+It repeated. Fifty-nine, then fifty-seven. Juno sat down on the stretcher next to the sandbag and laughed at the ceiling, and Theo pointed at Ren with a tennis ball and said, "I want it noted I threw *well*."
 
 The last run was Ren's own fault. Cass asked if he had one more in him, and the honest answer was "one cheap one," and what he said instead was yes. Second session of the day; his account was low, and he knew it was low, and around the cart slalom the room started narrowing to a tube again. He kept the escort up. At the scaffold the sound flattened, Cass's count going distant and tinny, and he held the swap anyway, twenty more seconds, because the sandbag was almost home and some stubborn arithmetic in him said *finish*.
 
-The sandbag touched the mats at fifty-nine seconds. Ren sat down where he stood, and when he reached for Carry to give Doc his pack back, nothing answered. The buttons had gone out.
+The sandbag touched the mats at fifty-nine seconds. Half a second later Doc staggered as his pack arrived back on his shoulders all at once, and he turned around before anyone else understood, because he already knew what it meant. Ren sat down where he stood. He reached for the skills and nothing answered; the buttons had gone out.
 
 Doc crouched in front of him, took his pulse, and peeled back one of his eyelids without asking.
 
@@ -116,20 +124,20 @@ The preview was the League's qualifier-week show, Division D edition. They gathe
 
 "Lovely club," said Kef, warmly. "Zero-flag record, you have to respect it. Terrible odds. We've got them finishing seventy-first of seventy-one."
 
-They also had a clip of Dree Vann, immaculate in Kestrel colours, being asked about her old division rival signing an Attendant. She smiled like a press release. "I think it's wonderful when clubs get creative. Development is a broad church."
+They also had a clip of Dree Vann, immaculate in Kestrel colours, being asked about her old division rival signing an Attendant. She smiled. "I think it's wonderful when clubs get creative. Development is a broad church."
 
 The chat scrolled too fast to read, except that Pip could read it, and Ren watched her decide not to say what was in it. He saw it anyway. Somebody had posted the Ganz Freeze — the old clip, forty-one seconds of Theo not moving, ClearanceSale's watermark in the corner — and the laughing emotes were still climbing.
 
-Theo had been halfway through a joke about Vann's dental work. He didn't finish it. He picked up his bag, said, "Six is disgusting, see you all at the other six," and took the stairs at his normal speed, which was the strange part; Theo did everything fast except leave.
+Theo had been halfway through a joke about Vann's dental work. He didn't finish it. He picked up his bag, said, "Six is disgusting, see you all at the other six," and went down the stairs at an ordinary walking pace, which on Theo looked wrong.
 
 Juno started after him. Doc didn't look up from packing his needles.
 
 "Let him get to the corner first," Doc said. "Then go."
 
-She gave him to the corner. Cass turned off the projector, and told the rest of them to sleep, and stood for a moment looking at the whiteboard where the corridor times were written in a column: 74, with two resets. Then 66, 61, 58, 59, 57.
+She gave him to the corner. Cass turned off the projector, and told the rest of them to sleep, and stood for a moment looking at the whiteboard where the corridor times were written in a column: 74, with two resets. Then 66, 61, 58, 59, 57. She had not written up the last run, the one that had cost Ren his evening, and she didn't write it up now.
 
 "Eight days," she said, and rubbed the numbers out.
 
-The bus home was mostly empty. Ren ate the protein bar Doc had put in his pocket, and read the assignment email again with eyes that kept sliding off the words — *the Stacks, C-grade, scheduled clearance broadcast* — and did what he always did with numbers, which was arithmetic. Eight days of training left. Two sessions a day. His account refilling overnight, mostly, if Doc was right about the food.
+The bus home was mostly empty. Ren ate the protein bar Doc had put in his pocket, and read the assignment email again with eyes that kept sliding off the words — *the Stacks, C-grade, scheduled clearance broadcast* — and did what he always did with numbers, which was arithmetic. Eight days to the Gate, so seven more mornings of training. Two sessions a day. His account refilling overnight, mostly, if Doc was right about the food.
 
 He fell asleep somewhere in the middle of the sums and missed his stop by three.

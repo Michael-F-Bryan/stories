@@ -67,3 +67,19 @@ Lab notebook for this serial: prompts, feedback, decisions, tasks. Newest entrie
 **Done — de-clipping pass on ch. 1 (~13 revisions):** the three owner-approved rewrites applied verbatim (the Attend/"Contract." passage, the "room read her reading it" mirror, the tech's three-step aphorism → "reads like tax law"); Cass's beat-drop dialogue decompressed throughout ("Licence?" → "Have you got a licence?", "Questions." → "Any questions?", "Again." → "Go again", "a question with edges" → plain statement); narration fragment-closers folded into ordinary sentences ("Twenty-two minutes of margin", the "Still on the strap. Still visibly there." stack, the Index-61 opening fragments); one em-dash apposition explaining an emotional beat trimmed. Kept, deliberately: the chapter's earned snaps — one per beat — including "proposed and declined", "He didn't touch the bag...", "Friday was tomorrow", "It rounds up", "Sign her too", and the closing "Yes".
 
 **Ledger sync:** two promises-ledger quotes and one knowledge-ledger note updated to match revised text. Handoff now carries the slack rule as a standing warning with ch. 1 as the calibration example.
+
+---
+
+## 2026-07-11 — Chapter 2: "Cargo"
+
+**Owner:** "plan and write the next chapter in a side branch and make a PR once you are done? I'll provide feedback on the chapter using review comments." New review workflow: chapter branches + PRs; owner comments inline.
+
+**Done:** Full chapter loop on branch `chapter/002`. Beat plan: first training day (edge-mapping Escort/Carry honestly), the bonus meets the levy (Trust office with Bea), the corridor drill proves the build (74s → 57s, checkable), Ren's first true grey-out prices the envelope, qualifier-week preview sets rivalry temperature and re-opens Theo's wound. Closing note: sober cost, against ch. 1's warm joke. Draft 1,975 words → adversarial review (now standing loop step 6) → final ~2,150.
+
+**Adversarial review outcome (verdict: publishable after must-fixes; slack rule confirmed holding, "pendulum has not swung to limpness"):**
+- *Must-fixes:* the 8,000 bonus was spent without arriving on-page (fixed: League pays on roster confirmation, Bea verified the 9:04 transfer); "five years of the lemon-magnet letter, ended" was doubly wrong — arrears date from Year 20 and nothing ended (fixed: two years of the penalty line ended; the hole is 29,500 with a schedule); the "load-bearing" beat stacked four quotables (thinned — Pip's reaction played plain, Doc's topper cut).
+- *Should-fixes:* the on-page "test hearing tonight" promise now gets its result (sight, probably); the grey-out now visibly drops Carry (Doc's pack returns mid-stride — deliberately established as canon the Gate chapters will need); Theo's exit de-riddled; personification count brought inside budget; the corridor calibrated to the League's standard extraction layout so the median comparison is honest; division-median stack trimmed.
+- *Considers adopted:* bus arithmetic corrected (eight days, seven mornings); Cass visibly declines to whiteboard the grey-out run; Trust scene gained a 37-mark counter-snag (opposition the office's canon demands — and Bea wins it).
+- Reviewer confirmed passing: Focus ladder order, all money arithmetic, voices cover-the-tags, broadcast cast against factions.md, closing-note variation. Flagged for ch. 3: don't make it three light endings in a row; Juno's overcasting is overdue to be *shown*.
+
+**Ledgers:** timeline/knowledge/character-state/promises all updated; first promise marked paid (levy payment landed on-page, ch. 2); seven new promises registered.

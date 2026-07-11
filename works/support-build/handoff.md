@@ -2,14 +2,12 @@
 
 *Overwritten each cycle. Next session starts here.*
 
-**Where things stand:** Chapter 1 ("Unindexed", ~2,800 words) published: Ren assessed, rejected league-wide, signed by Grave Society on deadline day, roster confirmed 6/6, qualifier drawn — the Stacks, C-grade, nine days out. Escort and Carry demonstrated in training (with honest costs); Attend deferred. All four ledgers updated.
+**Where things stand:** Ch. 2 ("Cargo", ~2,150 words) complete on branch `chapter/002`, PR open for owner review — the owner now reviews chapters via inline PR comments; fold every comment into the log and the next revision. Story time: Saturday night, day 1 of 9; eight days to the Stacks, seven training mornings left.
 
-**Next chapter (ch. 2) needs to do:** Training week begins — first of the two training chapters per the arc plan (`plan/arcs.md`, ch. 2–3). Must: pick up the tabled escort-verb/range question (Cass promised "we'll find the edges in training"); start the Carry "burden" ladder at its trivial rung; establish team dynamics under drill pressure (Theo's history and Juno's flaw are both unshown — at least one should surface in action); first stipend/levy beat if it fits (Bea texture); the Stacks prep (Juno's flood-map thread from ch. 1 close is a live hook). Check `plan/skill-rulings.md` before ANY skill demonstration. Owner feedback since ch. 1: none yet — check the log before drafting.
+**Next chapter (ch. 3) needs to do:** Second training chapter per `plan/arcs.md` (ch. 2–3), then the Stacks begins ch. 4. Must: **show Juno's overcasting in action** (flagged overdue by the ch. 2 review — it's been told, never shown); the Carry "burden" ladder's next rung per `plan/skill-rulings.md` (the upkeep experiment — with its full price); the Theo thread needs a beat (the Freeze surfaced in ch. 2 and nobody spoke — don't resolve it, but don't let it go quiet either); Stacks prep turns concrete (flood maps, loadout, Pip's route plan — the stale-survey warning must be built INTO their plan so its failure at the Gate is fair); possibly the escort-range test outdoors (gym too small — established). Owner PR feedback on ch. 2, if any, shapes all of this: check the log first.
 
 **Warnings:**
-- **Register rule (from the adversarial review — enforce every chapter):** facts in narration, good lines in mouths. The wry-narrator habit is the serial's biggest style risk. Scene-1-of-ch.-1 density is the ceiling, not the norm.
-- **The slack rule (owner feedback on ch. 1 — now in the authors-voice skill):** one snap per beat; terse means fewer words, not sculpted words; bit players speak plainly; let ordinary sentences be ordinary. Ch. 1 was revised under this rule — it is the calibration example. Run the cadence audit on every draft.
-- Vary the closing note from ch. 1 (ended warm joke over dread). Ch. 2 should close differently.
-- Ren's 4-minute envelope is now a promised hard limit — training should make it worse before the Stacks makes it matter.
-- Don't answer "burden" or the escort edges too fast; the tabled questions are arc fuel, one rung per chapter.
-- Timeline spine: ch. 1 ended Friday evening (deadline day); the Stacks is nine days out from Friday. Keep day counts auditable — readers have been trained to check.
+- **Closing note:** ch. 1 warm joke, ch. 2 sober-wry. The review warns against three light endings in a row — ch. 3 should close on a different register (tension, quiet dread, or plain resolve; it's the last night before the Gate).
+- **Slack rule holding but watch the residue:** the ch. 2 review found the failure localized to celebration/ensemble beats (stacked quotables when everyone reacts at once). Watch exactly those moments in ch. 3.
+- Doc's on-page warning ("in a Gate it costs whoever you were holding") is now the loaded gun for the Stacks. Don't defuse it in training.
+- Timeline spine: Saturday = day 1. Keep the day-count auditable; ch. 3 probably compresses days 2–8 and must do the compression honestly (voiced summary is allowed; the reader should always know what day it is when scenes slow down).

@@ -11,7 +11,14 @@
 | Assessment tech: Ren's skill text is unusually clean ("the cleanest text I've projected all month") | 1 | minor | open | — |
 | SVC-001 registry code shown on the projected panel | 1 | minor | open | — |
 | The Stacks qualifier in nine days; four wipes since Y19, median eleven minutes; team has never cleared a C | 1 | major | open (arc 1) | — |
-| Okafor levy: 31,400 / 1,900 / 3,800 arrears; bonus arithmetic stated — first payment must land on-page | 1 | minor | open | — |
+| Okafor levy: 31,400 / 1,900 / 3,800 arrears; bonus arithmetic stated — first payment must land on-page | 1 | minor | **paid** | 2 |
 | Marc Osei's two-way with Kestrel Nine; Theo's "eleven years / four years, it rounds up" wound | 1 | minor | open | — |
 | Ren's 4-minute high-demand envelope — a hard limit that must bite, not just get mentioned | 1 | major | open | — |
 | Clause nine cap (Cass's initialled margin figure) — contract detail; keep available, no obligation | 1 | minor | open | — |
+| Escort perception boundary: "sight, probably" — hearing ruled out on-page; smell/other senses and range untested | 2 | major | open (develops ch. 1 promise) | — |
+| Grey-out drops sustained effects — Doc's warning: "in there it costs whoever you were holding" | 2 | major | open | — |
+| The Ganz Freeze clip surfaced on-page; the incident behind it untold; Theo left mid-joke | 2 | major | open | — |
+| The Stacks survey is from Year 20, two years stale; water table moved twice — Juno's flood budget depends on it | 2 | major | open (arc 1 — must matter at the Stacks) | — |
+| Preview prediction: GS 71st of 71; Kef cited their zero-flag record on air | 2 | minor | open | — |
+| Dree Vann's "Development is a broad church" — rivalry temperature set | 2 | minor | open | — |
+| Cass left the grey-out run off the whiteboard — small unremarked kindness/doctrine | 2 | minor | open | — |
