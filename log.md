@@ -170,3 +170,13 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Verification:** Real temporary books cover ordered chapters, covered and coverless editions, EPUB metadata, embedded CSS, forbidden paths and references, and PATH-portable Pandoc invocation. `pnpm test` and two consecutive `pnpm build` runs pass.
 
 **Notes:** EPUB generation receives only discovered chapter and cover paths. It adds files to publisher-owned output without recursively reading or copying a work directory.
+
+---
+
+## 2026-07-11 — Task 4: GitHub Pages CI/deploy workflow added
+
+**Asked:** Wire up CI so pull requests and pushes validate the publish pipeline, while only `main` publishes `_site` to GitHub Pages.
+
+**Done:** Added the workflow contract test, the Pages workflow, and a README publishing section. The workflow keeps Pages permissions off PR builds, runs install/test/build on every validation run, uploads `_site` only on `main`, and deploys from the dedicated Pages job.
+
+**Verification:** Targeted workflow test was red before the workflow existed, then the full test/build path and diff check passed after implementation.

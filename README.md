@@ -18,6 +18,16 @@ The human provides direction and feedback. The AI does the planning, worldbuildi
 - Every prompt, piece of feedback, and completed task is logged (`log.md` at the root, plus one per work).
 - The writing process itself is versioned: the skills in `.claude/skills/` define the author's voice and the chapter-writing loop, and their git history records how the process evolved.
 
+## Publishing
+
+- Start with `corepack enable`, then install with `pnpm install --frozen-lockfile`.
+- Validate locally with `pnpm test` and `pnpm build`. Narrow checks remain available through `pnpm run build:site`, `pnpm run build:epub`, and `pnpm run verify:output`.
+- Publishable source is intentionally small: `works/*/README.md`, optional `cover.jpg` / `cover.png` / `cover.webp`, and chapter files named `works/*/chapters/NNN-slug.md`.
+- Private process files stay private: the build never recursively copies `works/`, and the verifier rejects any generated reference to `plan/`, `bible/`, `ledgers/`, `log.md`, or `handoff.md`.
+- The published inventory is the catalogue, per-book pages, per-chapter pages, and per-book EPUBs under `_site`, rooted at the `/stories/` base path via `STORIES_BASE_PATH` / `STORIES_SITE_BASE_PATH`.
+- One-time GitHub setup: Settings → Pages → Build and deployment → Source → GitHub Actions.
+- Pull requests run validation only; pushes to `main` also upload the `_site` artifact and deploy GitHub Pages.
+
 ## Works
 
 | Serial | Status | Chapters |
