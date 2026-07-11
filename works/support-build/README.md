@@ -15,3 +15,4 @@
 | 001 | [Unindexed](chapters/001-unindexed.md) | ~3,200 |
 | 002 | [Cargo](chapters/002-cargo.md) | ~2,100 |
 | 003 | [Burn Rate](chapters/003-burn-rate.md) | ~2,850 |
+| 004 | [The Stacks](chapters/004-the-stacks.md) | ~2,150 |

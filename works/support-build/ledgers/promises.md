@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | "Cannot stumble" — definition has unexplored edges; escort-verb/range question explicitly tabled by Cass ("we don't know where its edges are yet... we'll find out in training") | 1 | major | open | — |
 | Carry's "burden" undefined — Doc: "Interesting word, burden" | 1 | major | open — rung 2 paid ch. 3 (upkeep proven; ladder continues) | — |
-| [Attend] untested — "waits for a Gate" | 1 | minor | open | — |
+| [Attend] untested — "waits for a Gate" | 1 | minor | **paid** — first 30-second Gate test establishes borrowed sight/hearing, dulled own senses, nausea, and low stationary drain | 4 |
 | Unindexed formally means unmeasured, not zero — tech: "it prints the same either way" | 1 | major | open | — |
 | Assessment tech: Ren's skill text is unusually clean ("the cleanest text I've projected all month") | 1 | minor | open | — |
 | SVC-001 registry code shown on the projected panel | 1 | minor | open | — |
@@ -18,17 +18,18 @@
 | Escort perception boundary: "sight, probably" — hearing ruled out on-page; smell/other senses and range untested | 2 | major | open (develops ch. 1 promise) | — |
 | Grey-out drops sustained effects — Doc's warning: "in there it costs whoever you were holding" | 2 | major | open | — |
 | The Ganz Freeze clip surfaced on-page; the incident behind it untold; Theo left mid-joke | 2 | major | open | — |
-| The Stacks survey is from Year 20, two years stale; water table moved twice — Juno's flood budget depends on it | 2 | major | open (arc 1 — must matter at the Stacks) | — |
+| The Stacks survey is from Year 20, two years stale; water table moved twice — Juno's flood budget depends on it | 2 | major | **paid** — actual water exceeds even Pip's wet map at the first junction | 4 |
 | Preview prediction: GS 71st of 71; Kef cited their zero-flag record on air | 2 | minor | open | — |
 | Dree Vann's "Development is a broad church" — rivalry temperature set | 2 | minor | open | — |
 | Cass left the grey-out run off the whiteboard — small unremarked kindness/doctrine | 2 | minor | open | — |
 | Escort range: ~60 m open-ground, tracking-dependent; cover breaks it — and the Stacks "is nothing but cover" (Pip) | 3 | major | open (must matter at the Gate) | — |
 | "Break-glass only": upkeep-Carry reserved for emergencies — a loaded gun | 3 | major | open | — |
-| Cass's kit: a dented shield corner "from some old fight," and a hammer Ren has never seen her train with | 3 | minor | open (quiet plants) | — |
-| Juno's banked-coal pots, triple-wrapped against the Stacks' water — ember-starts cost a fraction of cold starts | 3 | minor | open (Chekhov gear) | — |
-| The two-map junction protocol + retreat threshold — the plan the Gate will test | 3 | major | open (arc 1 climax) | — |
-| Attend's 30-second door test — first Attend use pending | 3 | major | open (pays ch. 1's "waits for a Gate") | — |
-| Theo enters a broadcast Gate with a live camera problem; formation shields him from the rig's entry side | 3 | major | open | — |
-| Juno's diagnosis ("you want to spend it all so nothing gets through") — does it change her in the Gate? | 3 | major | open | — |
+| Cass's kit: a dented shield corner "from some old fight," and a hammer Ren has never seen her train with | 3 | minor | open — hammer identified as the Core-breaker in ch. 4; dent remains unexplained | — |
+| Juno's banked-coal pots, triple-wrapped against the Stacks' water — ember-starts cost a fraction of cold starts | 3 | minor | **paid** — wrapping stays dry and a banked coal kills a palp | 4 |
+| The two-map junction protocol + retreat threshold — the plan the Gate will test | 3 | major | **paid** — reality exceeds the wet map and Cass orders immediate retreat without debate | 4 |
+| Attend's 30-second door test — first Attend use pending | 3 | major | **paid** — test completed at the receiving platform | 4 |
+| Theo enters a broadcast Gate with a live camera problem; formation shields him from the rig's entry side | 3 | major | open — shielded position saves his first live chain in ch. 4; larger camera arc continues | — |
+| Juno's diagnosis ("you want to spend it all so nothing gets through") — does it change her in the Gate? | 3 | major | open — she stops a narrow first cast cleanly in ch. 4; fear test continues | — |
 | Ada's "read it twice" blessing — thematic charge on the Gate | 3 | minor | open | — |
 | Ada swapped a Saturday shift (cost unstated on-page) | 3 | minor | open | — |
+| Ilyas dragged underwater by a sodden while the live camera keeps broadcasting | 4 | major | open | — |

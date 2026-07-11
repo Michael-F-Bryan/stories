@@ -195,3 +195,17 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 - Ch. 3: Theo's "full runs against dummies, telemetry-scored, no cameras" (fragment-list dialogue — the same pattern as PR #2's producer line → full conversational clauses); "Everything else on the maps was the walk there and back." (epigram button → plain); Pip's marks/signs antithesis (→ plain causal sentence).
 
 **Re-audit of the replacements:** no fragments, no balanced pairs, no personification, no new triads; takeaways stated. Lesson reinforced for future sessions: the final-text audit is not optional after ANY edit, including edits made in response to a review — that is the third time this exact lesson has been paid for.
+
+## 2026-07-11 — Chapter 4: "The Stacks"
+
+**Owner:** "I want you to continue writing the 'Support Build' story. There's a handover note in `/Users/work/Documents/stories/works/support-build/handoff.md`, and some skills in that `/Users/work/Documents/stories` repo that should come in handy."
+
+**Done:** Chapter 4 drafted on `chapter/004` using the repo-local serial process and author voice. The chapter covers the opening minutes of Grave Society's first Gate: first aperture crossing, Attend's planned door test, the first clean broadcast pull, and the two-map protocol meeting a flood level beyond its worst case. Final draft ~2,150 words.
+
+**Independent adversarial review:** no blocker-level canon break. One must-fix caught sloppy Focus wording after the Attend test; fixed by scoping Carry as the only skill kept running after the test. Should-fixes applied: Core-breaker pronoun made literal, and the first wonder beat given more room. The review explicitly passed gaunt/regard grounding, Attend mechanics, Theo's shielded camera position, the junction turn, clock arithmetic, and dialogue differentiation.
+
+**Independent continuity/first-mention audit:** one blocker caught Cass's pre-entry instruction saying Ren would keep "his skills" off despite using Carry before the door test. Rewritten to name Carry as the exception and keep Escort/Attend off. The audit passed every new world term and gaunt introduction, the published back-references, exact mechanics, timestamp arithmetic (00:18 to 07:18 = seven minutes), and future-material isolation.
+
+**Process incident caught before shipping:** after review fixes, an on-disk read showed four fixes had reverted despite both review agents reporting read-only work. The stale-write regression was caught by the required final read, the fixes were reapplied against current text, and all final scans were rerun. This is another concrete reason the post-review final-text audit remains mandatory.
+
+**Final-text audit:** banned-prose quick scan reports zero hits across its high-signal patterns; the serial pattern scan reports no matches; final-copy scaffold scan is clean. Manual budgets: one action triad (Juno's banked-coal cast), one mild personification/metaphor candidate (training "held together"), two explicit callbacks, no attribution stunts, and three of four scene exits are plain action or transit. No prior opener/closer armature repeated.

@@ -16,6 +16,10 @@ Translucent floating sacs, head-height to ceiling-height, drifting on nothing. N
 
 Wall- and ceiling-clinging ambushers, flat as luggage until they drop. Regard keys to *noise directly beneath them*. Kill-pattern: drop, wrap, constrict — a palp on a player's shoulders is a two-person problem. Scouts exist substantially because palps do. Counter: eyes up, marks up, and never let the formation bunch under an overhang.
 
+## Sodden (C)
+
+Waterlogged grapplers that lie flat beneath dark water and can pass for drowned debris until they move. Regard keys to ripples and vibration through submerged flooring; movement in the water draws them, while a still target may be released for a louder disturbance. Kill-pattern: seize a limb, pull the target under, and hold them against the floor until they stop fighting. Counter: stay out of the water where possible; when contact is unavoidable, move one person at a time while the rest keep still, and use deliberate splashes away from the route to redirect them.
+
 ## Doorkeepers (C)
 
 Bear-sized, slab-armoured, territorial. Squat at chokepoints — literal doorways, sluice gates, stair heads — and do not pursue beyond them. Regard keys to *proximity to the threshold they've claimed*. Kill-pattern: short, brutal charges that stop dead at their territory's edge. Counter: they must be tanked and killed at their own door, or the door found a way around; you cannot bait them out. Wardens measure themselves against doorkeepers.
