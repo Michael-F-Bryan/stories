@@ -2,7 +2,7 @@
 
 *Overwritten each cycle. Next session starts here.*
 
-**Where things stand:** Ch. 2 ("Cargo", ~2,150 words) complete on branch `chapter/002`, PR open for owner review — the owner now reviews chapters via inline PR comments; fold every comment into the log and the next revision. Story time: Saturday night, day 1 of 9; eight days to the Stacks, seven training mornings left.
+**Where things stand:** Ch. 2 ("Cargo", ~2,150 words) merged to main (PR #1) after two rounds of owner review — three inline comments plus a follow-up that produced the "vary the snap" rule in authors-voice. Published canon runs through ch. 2. Story time: Saturday night, day 1 of 9; eight days to the Stacks, seven training mornings left. Workflow for ch. 3: write on a side branch (`chapter/003`), open a spoiler-free PR, subscribe to its activity, fold inline comments into revisions before merge.
 
 **Next chapter (ch. 3) needs to do:** Second training chapter per `plan/arcs.md` (ch. 2–3), then the Stacks begins ch. 4. Must: **show Juno's overcasting in action** (flagged overdue by the ch. 2 review — it's been told, never shown); the Carry "burden" ladder's next rung per `plan/skill-rulings.md` (the upkeep experiment — with its full price); the Theo thread needs a beat (the Freeze surfaced in ch. 2 and nobody spoke — don't resolve it, but don't let it go quiet either); Stacks prep turns concrete (flood maps, loadout, Pip's route plan — the stale-survey warning must be built INTO their plan so its failure at the Gate is fair); possibly the escort-range test outdoors (gym too small — established). Owner PR feedback on ch. 2, if any, shapes all of this: check the log first.
 
