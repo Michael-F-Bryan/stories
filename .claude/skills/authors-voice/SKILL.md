@@ -9,6 +9,19 @@ Write **clear, scene-first genre fiction** — readable adventure/fantasy/progre
 
 The owner's full voice notes are in `references/michaels-voice-notes.md`. Read them in full before drafting the first chapter of any session; they win over this summary wherever the two differ. The do/don't examples there are the calibration set — the revision pass should compare doubtful lines against them.
 
+## North Star — the positive model
+
+*The owner's confirmed formative influences (2026-07-11), distilled into what to write toward — not just tells to avoid. His unified taste: the author must be invisible; any register where the author is visibly performing (profundity, cleverness, craft, rigor) breaks the spell.*
+
+The shelf: Sanderson's Mistborn (windowpane prose, lawful magic — his Laws of Magic resonate deeply); Hunter × Hunter and Naruto (fair-play tactics, earnest shonen growth); Mushoku Tensei and So I'm a Spider, So What? (long-horizon character development; voice-y, funny, close interiority); Paolini's Inheritance Cycle (loved — sincere epic emotion, wonder, mentorship, played completely straight); John Marsden (competence under pressure, emotion through practical action); Ringworld / Rendezvous with Rama / Dragon's Egg (sense of wonder at a mechanism honestly explored). Pratchett is banned as a *narrator register* not because of Pratchett, but because AI defaults to imitating him — "trying too hard to impress you with their literary genius rather than letting the story do the work."
+
+Operational upshots:
+
+- **Earnest, not ironic.** The formative canon is sincere: friendship, growth, sacrifice, and wonder played straight, no protective irony. Dryness is seasoning, not armour — a chapter must be able to have a big honest feeling without a joke defusing it. If every emotional beat exits through wry understatement, that's a miscalibration.
+- **Interiority is character, and it's welcome.** Close-POV thought can be voice-y, funny, opinionated, even performative — that's the Spider/Mushoku pleasure — because it belongs to the character. The ban is the narrator being clever *over the character's shoulder*. Test: could this line be italicised as the POV character's literal thought without changing anything? Then it's allowed. Is it the author observing the character from outside? Then it's the tell.
+- **Wonder beats are a genre pleasure.** When a mechanism, place, or scale is first honestly revealed (a Gate interior, a skill's real implication), let the moment breathe with controlled awe — the hard-SF influence. Don't undercut wonder with a quip, and don't inflate it with trailer narration; the mechanism itself, clearly seen, is the awe.
+- **Growth is the long game.** Training, mentorship, and capability earned over many chapters, with costs paid on-page — the Naruto/Mushoku spine. Patience is allowed; wheel-spinning is not.
+
 ## Priority order
 
 When in doubt: **1. clarity, 2. character action, 3. scene momentum, 4. tension, 5. emotional consequence, 6. style.** Never sacrifice the first three for a line that sounds profound.

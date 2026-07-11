@@ -92,3 +92,15 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Why:** Owner follow-up on ch. 2 (from phone, after his three inline comments were applied): "we're still falling back into old habits... it's less about individual words or passages, and more about how frequently the same techniques are used close together." He asked me to infer the specifics. Inference, confirmed by inventorying ch. 2: the slack rule policed snap *density* (one per beat) but not snap *diversity* — the chapter's snaps were overwhelmingly one species (the wry qualifying tail), plus a running clipboard gag, duplicate greeting-intros, and a repeated simile formula. Same register in every beat = still machine-patterned, even at legal density.
 
 **Change:** "Vary the snap" bullet added to the authors-voice slack-rule section, and the cadence-audit checklist step now requires a by-type inventory of surviving snaps across the chapter — any device used twice gets its second use converted or cut. Chapter 2 swept accordingly on the PR branch (8 edits, prose commit separate from this one). Third reader-taught rule in two days: slack (density) → numbers-are-stakes (content) → vary-the-snap (distribution).
+
+---
+
+## 2026-07-11 — Voice refinement: the North Star section
+
+**Why:** Owner asked what I've learned about his style and which authors likely influenced him; my inference ("the author must be invisible — every flagged failure is the author visibly performing") was confirmed, and he corrected/completed the influence map: HxH, Naruto, Mushoku Tensei, So I'm a Spider So What? (early-twenties anime binge); Sanderson's Mistborn + Laws of Magic; Paolini's Inheritance Cycle ("one of the best written series I've ever read"); John Marsden (late teens); Ringworld / Rendezvous with Rama / Dragon's Egg. Pratchett clarified: banned as narrator register because AI overuses his techniques — "trying too hard to impress you with their literary genius rather than letting the story do the work."
+
+**What the corrections changed in the model:** (1) Earnestness — Paolini/Naruto/Mushoku are sincere and played straight, so dryness is seasoning, not armour; big honest feelings are allowed without a defusing joke. This corrects a real miscalibration: my drafts default to wry exits on emotional beats. (2) Voice-y interiority is welcome (Spider/Mushoku) — personality inside the POV is character, not narrator performance; new test: "could this line be the character's literal italicised thought?" (3) Wonder beats as genre pleasure (the hard-SF shelf) — first honest reveal of a mechanism gets to breathe.
+
+**Change:** "North Star — the positive model" section added to authors-voice: the confirmed shelf plus four operational upshots (earnest not ironic; interiority-is-character with the italicise test; wonder beats; growth as the long game). First skill section that says what to write TOWARD rather than what to avoid.
+
+**Note for ch. 3+:** Ren's interiority can carry more personality than ch. 1–2 gave it; the first Gate entry (ch. 4) is the serial's first real wonder beat and should be written as one.
