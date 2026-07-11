@@ -158,3 +158,15 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Verification:** `pnpm test` ✅, `pnpm build` ✅, and browser checks confirmed the styled catalogue and chapter pages load without console errors or horizontal overflow at desktop width.
 
 **Notes:** Rendering consumes only the explicit files returned by discovery. EPUB links are present but their artefacts are added by the next publishing stage.
+
+---
+
+## 2026-07-11 — Downloadable EPUB editions added
+
+**Asked:** Publish a downloadable EPUB3 edition for each discovered story from the same ordered chapter sources used by the website.
+
+**Done:** Added explicit Pandoc rendering with shared author and language metadata, optional embedded covers, ebook-specific styling, archive-level navigation and spine inspection, and complete public-output verification.
+
+**Verification:** Real temporary books cover ordered chapters, covered and coverless editions, EPUB metadata, embedded CSS, forbidden paths and references, and PATH-portable Pandoc invocation. `pnpm test` and two consecutive `pnpm build` runs pass.
+
+**Notes:** EPUB generation receives only discovered chapter and cover paths. It adds files to publisher-owned output without recursively reading or copying a work directory.

@@ -6,6 +6,10 @@ export const CHAPTER_FILENAME_PATTERN = /^(?<number>\d{3})-(?<slug>[a-z0-9]+(?:-
 export const PREMISE_LABEL = '**Premise (spoiler-free):**';
 
 export const SITE_TITLE = 'Stories';
+export const EPUB_AUTHOR = 'Michael F. Bryan';
+export const EPUB_LANGUAGE = 'en-AU';
+export const OUTPUT_MARKER_FILENAME = '.story-publish-output';
+export const OUTPUT_MARKER_CONTENTS = 'stories-publisher\n';
 
 export const DEFAULT_BASE_PATH = '/';
 

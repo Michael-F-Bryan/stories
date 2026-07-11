@@ -5,7 +5,10 @@
   "type": "module",
   "packageManager": "pnpm@11.1.2",
   "scripts": {
-    "build": "node publishing/build-site.js",
+    "build": "pnpm run build:site && pnpm run build:epub && pnpm run verify:output",
+    "build:site": "node publishing/build-site.js",
+    "build:epub": "node publishing/build-epubs.js",
+    "verify:output": "node publishing/verify-output.js",
     "test": "node --test"
   },
   "engines": {

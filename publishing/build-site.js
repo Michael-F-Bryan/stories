@@ -6,7 +6,14 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { discoverBooks } from './books.js';
-import { DEFAULT_BASE_PATH, SITE_TITLE, joinBasePath, normalizeBasePath } from './config.js';
+import {
+  DEFAULT_BASE_PATH,
+  OUTPUT_MARKER_CONTENTS,
+  OUTPUT_MARKER_FILENAME,
+  SITE_TITLE,
+  joinBasePath,
+  normalizeBasePath,
+} from './config.js';
 
 const markdownIt = new MarkdownIt({
   html: false,
@@ -17,8 +24,6 @@ const markdownIt = new MarkdownIt({
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const siteInputDir = path.join(repoRoot, 'site');
-const outputMarkerFilename = '.story-publish-output';
-const outputMarkerContents = 'stories-publisher\n';
 
 function trimBlankEdges(lines) {
   let start = 0;
@@ -252,11 +257,11 @@ function assertOwnedExistingOutput(outputDir) {
     throw error;
   }
 
-  const markerPath = path.join(outputDir, outputMarkerFilename);
+  const markerPath = path.join(outputDir, OUTPUT_MARKER_FILENAME);
   try {
     const markerStats = lstatSync(markerPath);
     const markerContents = readFileSync(markerPath, 'utf8');
-    if (!outputStats.isDirectory() || markerStats.isSymbolicLink() || !markerStats.isFile() || markerContents !== outputMarkerContents) {
+    if (!outputStats.isDirectory() || markerStats.isSymbolicLink() || !markerStats.isFile() || markerContents !== OUTPUT_MARKER_CONTENTS) {
       throw unsafeOutputError(outputDir, 'existing output is not owned by the stories publisher');
     }
   } catch (error) {
@@ -309,7 +314,7 @@ export async function buildSite({ worksRoot, outputDir, pathPrefix = DEFAULT_BAS
 
   await rm(safeOutputDir, { recursive: true, force: true });
   await mkdir(safeOutputDir, { recursive: true });
-  await writeFile(path.join(safeOutputDir, outputMarkerFilename), outputMarkerContents, 'utf8');
+  await writeFile(path.join(safeOutputDir, OUTPUT_MARKER_FILENAME), OUTPUT_MARKER_CONTENTS, 'utf8');
 
   await createRenderer({ books: preparedBooks, chapters: flatChapters, site, outputDir: safeOutputDir });
   await copyStaticAssets(safeOutputDir);
