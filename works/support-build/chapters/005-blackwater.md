@@ -2,13 +2,19 @@
 
 Ren let Doc's pack go.
 
-The weight returned to Doc hard enough to make him catch the rail. Ren was already designating Pip as his Attend charge.
+The weight returned to Doc hard enough to make him catch the rail. Ilyas was not in the party, so none of Ren's skills would reach him — but Pip was, and Ren needed her eyes on whatever had hold of him before anyone could cut him loose.
 
-Ilyas was not in Grave Society's party, so Ren's skills could not target him. Ren designated Pip because he needed to see what had him before the others could cut him free.
+Cass still had one hand locked around Ilyas's shoulder strap. The pull from below had dragged her down to the last dry step, where she had planted and used [HOLD FAST], so the next pull washed water over her boots instead of moving her.
 
-"I need your eyes under there," he said.
+Cass had ruled, nine days ago in a gym with crash mats down, that Attend stayed still until they trained it moving. They had not trained it. Ren designated Pip and reached for the skill anyway.
 
-Pip dropped her bow on the stairs and drew the long knife from her belt. Cass still had one hand locked around Ilyas's shoulder strap. The pull from below had dragged her down to the last dry step. She had planted there and used [HOLD FAST], stopping the next pull from moving her while water washed over the toes of her boots.
+"I'm putting Attend on Pip while she moves — the part we never trained," he told Cass.
+
+Cass did not look away from the water. "Do it. Keep talking to me."
+
+"I need your eyes under there," Ren said to Pip.
+
+Pip pushed her bow around onto her back and drew the long knife from her belt.
 
 "Three more are coming towards Cass," Pip said. "Everyone else stay still. Theo, throw something past the far pillar. Make it loud."
 
@@ -18,21 +24,23 @@ Pip went under.
 
 Attend took hold as she left the step. Ren's own view lost colour, and he began seeing through Pip's eyes at the same time.
 
-The water was almost black from above. Through her eyes he could see a little farther. The torch on her shoulder lit rusted stair supports and long strips of weed moving in the current. Ilyas hung sideways beneath the bottom step. One sodden had both arms around his right leg. Its pale, swollen body lay face-down against the submerged floor. The camera frame had caught under a diagonal brace and was helping hold him below.
+The water was almost black from above. Through her eyes he could see a little farther. The torch on her shoulder lit rusted stair supports and long strips of weed hanging from them. Ilyas hung sideways beneath the bottom step. One of the sodden had both arms around his right leg. Its pale, swollen body lay face-down against the submerged floor. The camera frame had caught under a diagonal brace and was helping hold him below.
 
 Pip marked the sodden. A red outline appeared through the water for the whole party.
 
-"The camera is caught under the stairs," Ren said. Speaking while he watched through Pip made the two sets of sound slide across each other. He kept his eyes on the back of her head beneath the surface. "Cut the shoulder strap first. Theo, the marked arm will come up beside Cass's shield."
+None of it was reaching Ren's body. He stood dry on the step while, through Pip's eyes, the black water closed over Ilyas and the swollen thing holding him under. He kept his weight on his own feet and made himself talk.
+
+"The camera is caught under the stairs," Ren said. Speaking while he watched through Pip made the two sets of sound slide across each other. He kept his eyes on the back of her head beneath the surface. "Cut the camera strap first. Theo, the marked arm will come up beside Cass's shield."
 
 Pip hooked two fingers under the camera strap and sawed at it. The viewpoint rolled with her body. Ren put one hand on the rail and held his position.
 
-Attend drained faster than it had at the door while Pip moved through the water.
+While Pip moved through the water, Attend drained faster than it had at the door.
 
 Cass pulled again. The sodden's upper arm broke the surface against the shield.
 
 Theo cut through the elbow joint.
 
-The severed hand stayed locked around Ilyas's leg. Pip drove her knife through the joint of the second wrist and twisted until that arm released him as well. She cut the camera strap, shoved the rig away, and put both hands under Ilyas's back. Cass hauled. Ilyas came out of the water face-first across the step, with Pip climbing behind him.
+The severed hand stayed locked around Ilyas's leg. Pip drove her knife through the wrist of the other arm and twisted until it let go of him as well. She cut the camera strap, shoved the rig away, and put both hands under Ilyas's back. Cass hauled. Ilyas came out of the water face-first across the step, with Pip climbing behind him.
 
 Ren released Attend before she stood up. The stairs pitched sideways in his normal vision, though nothing had moved yet. He sat down on the step. Pip checked the stopwatch inside her jacket as soon as she could get one hand to it. It read 07:54.
 
@@ -60,11 +68,11 @@ Another bolt bent with a slow, rising squeal.
 
 The staircase hung over the water at an angle. The gap between its upper landing and the mezzanine was already wider than Ren could step across. Their route to the aperture was on the far side of that gap.
 
-Doc examined Ilyas where he lay across three steps. The sodden had cut through the armour around his calf and twisted the knee badly. Ilyas was awake, but every breath ended in a wet cough.
+Doc examined Ilyas where he lay across three steps. The sodden had dragged his leg across the submerged racking; the calf armour was torn open and the knee twisted badly. Ilyas was awake, but every breath ended in a wet cough.
 
 Doc cut the damaged armour away from Ilyas's calf and checked the wound with two fingers. He pressed one hand over it and used [MEND]. His skill closed what was open. Ilyas's body paid half the cost, and Doc paid the rest. Ilyas gripped the stair rail while the torn skin pulled itself together under Doc's palm. When it was done, Doc had to brace his free hand against the step before he could sit upright.
 
-"The knee still won't hold him," Doc said. "I closed the wound. I can't make torn ligaments untorn with that skill."
+"The knee still won't hold him," Doc said. "I closed the wound, but the skill won't fix a torn ligament."
 
 "Can he climb?" Cass asked.
 
@@ -96,15 +104,15 @@ Pip reached the maintenance platform and clipped the rope around its main uprigh
 
 Ren released Escort. The draining stopped. His vision remained clear, but when he turned his head too quickly, Pip's underwater view seemed to roll through him again.
 
-"Still dizzy," he said to Cass. "No tunnel vision."
+"I'm still dizzy, but that's all it is — no tunnel vision," he told Cass.
 
 She nodded and went back to watching the bolts.
 
-Theo crossed on the rope first and joined Pip on the platform. Juno passed her coal satchel across before she followed. Theo caught it and strapped it to the main upright so the ceramic pots could not fall into the water. Juno crossed sideways with both hands on the rope. A bolt cracked while she was halfway over, and she stopped until Cass told her the stair would fail faster if they waited. She finished the crossing without looking down. Everyone else held still until she had both feet on the platform.
+Theo crossed on the rope first and joined Pip on the platform. Juno passed her coal satchel across before she followed. Theo caught it and strapped it to the main upright so the wrapped pots could not fall into the water. Juno crossed sideways with both hands on the rope. A bolt cracked while she was halfway over, and she stopped until Cass told her the stair would fail faster if they waited. She finished the crossing without looking down. Everyone else held still until she had both feet on the platform.
 
-Doc opened his pack and unfolded the stretcher. They strapped Ilyas in and passed a second rope through the frame. Theo and Juno used it to lift him clear of the stairs while Cass guided the stretcher past the broken edge. Ilyas kept one hand over his face. He had lost the shoulder camera, and the fixed cameras at the aperture could no longer see any of them.
+Doc opened his pack and unfolded the stretcher. They strapped Ilyas in and passed a second rope through the frame. Theo and Juno used it to lift him clear of the stairs while Cass guided the stretcher past the broken edge. Ilyas kept one hand over his face. He had lost the shoulder camera, and it had been the only lens that followed them inside.
 
-Ren could not use Carry on the stretcher because Ilyas was outside the party. He took the lower rope instead and kept the frame away from the torn metal while Theo and Juno pulled. He used his arms and spent no Focus.
+Ren could not use Carry on the stretcher because Ilyas was outside the party. He took the lower rope instead and kept the frame away from the torn metal while Theo and Juno pulled.
 
 Doc packed the remaining supplies and handed the bag to Ren before crossing. Ren put it on and followed him across the rope and brace without a skill. The water below was moving now. Pale backs passed beneath the surface where the noise had gathered them.
 
@@ -134,7 +142,7 @@ Ilyas looked towards the water. A few bubbles rose where the camera had gone dow
 
 "We're not going back for it. We have to move you."
 
-Ren handed the pack back once Doc was on the maintenance platform. Doc put it on, and Ren used Carry to take its weight again before they moved at 15:40. Theo and Juno carried the stretcher. Doc walked beside Ilyas and watched his breathing, with both hands free if the coughing became worse. Cass led with her shield. Pip stayed one span ahead and marked every sound support in green.
+Ren handed the pack back to Doc, who put it on, and Ren used Carry to take its weight again before they moved. Theo and Juno carried the stretcher. Doc walked beside Ilyas and watched his breathing, with both hands free if the coughing became worse. Cass led with her shield. Pip stayed one span ahead and marked every solid support in green.
 
 Without the shoulder camera, Theo moved like he had in the gym. He crossed each marked span at the pace the stretcher set and kept both swords sheathed. There was nothing useful for him to attack on the walkway.
 
@@ -146,7 +154,7 @@ Pip stopped at 18:08 and pointed to a concrete structure ahead. The sluice tower
 
 A gaunt crouched in front of the door.
 
-It stood when Cass stepped onto the bridge. The gaunt was as broad as her shield and covered in overlapping grey slabs. Its forelimbs reached the floor. The head sat low between its shoulders, facing the threshold behind it.
+It stood when Cass came to the mouth of the bridge. The gaunt was as broad as her shield and covered in overlapping grey slabs. Its forelimbs reached the floor. The head sat low between its shoulders, facing the threshold behind it.
 
 "Doorkeeper," Pip said. "They claim one doorway and stay with it. That one won't leave the bridge, and it's sitting in front of the only solid stair we can reach."
 

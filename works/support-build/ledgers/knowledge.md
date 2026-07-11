@@ -16,6 +16,8 @@ An outside reader bounced off ch. 1 scene 1 — the prose used world terms as if
 
 - **Party boundary made explicit:** Ilyas is not in Grave Society's System party. Ren's support skills cannot target him; physical rescue, Mend, rope, and the stretcher remain available.
 - **Attend under emergency movement:** Pip moves and dives while designated. Ren receives her underwater sight, relays what she sees, experiences more drain than during the stationary door test, and reports nausea without tunnel vision or hearing loss.
+- **Ch. 4's "no moving Attend until trained" ruling is consciously overridden on-page, not ignored:** Ren names the transgression to Cass ("the part we never trained"), and Cass — who set the rule — makes it her call ("Do it. Keep talking to me."). The ruling still stands as doctrine; the emergency is an authorized exception, with the captain reasserting the first-symptom stop as the safety valve.
+- **Attend's viewpoint split has a felt cost for Ren:** relaying while his senses are lent to a drowning teammate takes deliberate effort ("He kept his weight on his own feet and made himself talk"). His clinical status reports are discipline, not absence of reaction.
 - **[MEND] first shown on-page:** the skill closes an open calf wound; the patient pays half the cost and Doc pays the rest. It does not repair Ilyas's torn knee ligaments.
 - **Hold Fast's structural boundary:** Cass remains fixed to the stair under the sodden's pull, but the staircase bolts and landing can still fail around her.
 - **Escort's footing boundary paid in live danger:** Pip cannot stumble while crossing a shaking diagonal brace, but Ren states that the skill cannot save her if the brace itself breaks.

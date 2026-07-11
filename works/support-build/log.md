@@ -223,3 +223,23 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Clock:** 07:18→07:54 = 36 seconds; 07:54→14:26 = 6 minutes 32 seconds; 14:26→15:40 = 1 minute 14 seconds; 15:40→18:08 = 2 minutes 28 seconds. Total chapter action: 10 minutes 50 seconds. Monotonic and plausible.
 
 **Final-text audit after the last review edit:** one action triad remains; scene exits are two plain operational consequences plus one threat ending; no repeated opener/closer armature; banned-prose and serial-pattern scans have no blocking matches; final-copy scaffold scan is clean. The lone broad search hit for "something" is ordinary dialogue ("throw something past the far pillar"), not vague narration.
+
+## 2026-07-11 — Chapter 5 adversarial review + fixes
+
+**Owner:** "Do an adversarial review of chapter 5 and fix everything I wouldn't like about it. Commit your changes and push afterwards."
+
+**Process:** Loaded serial-process + authors-voice (incl. the full voice-notes source of truth), read ch. 5, ch. 4, all four ledgers, and the bible (characters, mechanics, bestiary). Spawned an independent adversarial sub-agent to attack the draft while doing my own line-level pass, then merged findings.
+
+**Sub-agent verdict:** the chapter is the most mechanically disciplined in the run — banned-pattern list, first-mention/cold-reader, and clock/mechanics audits all pass. The real weaknesses were dramatic, not stylistic. Two must-fixes and a set of should-fixes applied:
+
+- **Ren silently broke Cass's own ch. 4 doctrine** ("no moving Attend until trained") with zero recoil — four chapters of setup fired on a shrug. Fix: Ren names the transgression; Cass takes ownership and authorizes the emergency exception, reasserting the first-symptom stop. Turns a dropped beat into a character beat and adds stakes.
+- **Pip's bow was dropped on the staircase that then falls into the flood** — a gear-continuity hole (her primary weapon, and the handoff already assumed she kept it). Fix: she slings it and retains it.
+- **POV was emotionally muted** — Ren watched a drowning through a teammate's eyes and registered only clinical symptoms. Added one embodied beat so the horror lands and his clinical control reads as discipline, not coldness.
+- **Mechanics seam:** sodden (grapplers) "cut through" armour — recast the calf wound as damage from being dragged across submerged racking.
+- Clarity/continuity: "One of the sodden" (misparse), "the wrist of the other arm" (Theo cut an elbow), "camera strap" vs Cass's "shoulder strap", doorkeeper described entering the bridge twice, "solid support" not "sound", pot label, camera-line accuracy, Doc's clipped ligament line, two dizziness fragments merged, removed bookkeeping "15:40" and a stale spatial clause.
+
+**Deferred to the independent eye:** the sub-agent explicitly praised the camera motif (Ilyas's fretting vs Cass choosing the man over the points, "Nobody looked back towards the camera") as the best character work in the chapter. My earlier instinct to soften Ilyas's pointed lines was overruled — kept them.
+
+**Not done (judged out of scope / over-engineering):** a new near-miss beat to re-fang the sodden during the dive (ranked should-consider) — the deliberate regard-redirect is a fair competence play, and Ren's new felt reaction supplies the menace without added choreography. Cass's last-out leap left as a signposted desperate move.
+
+**Final-text audit after the last edit:** banned patterns none; triads 0; personification 1 ("noise had gathered them"); callbacks continuity-only, none as scene-exit buttons; all three scene exits plain; opener/closer distinct from ch. 4; surviving timestamps (07:54, 14:26, 18:08) each carry stakes. Ledgers (timeline, knowledge, character-state) updated for the authorized-override event; handoff review-state rewritten. Still on `chapter/005`, not merged — published canon remains through ch. 4.
