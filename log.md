@@ -122,3 +122,15 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Owner content request logged:** equipment/kit texture ("the story has felt remarkably silent" on gear and how people fight) — ch. 3 overhaul adds a loadout scene; standing item for future chapters.
 
 **Meta-observation for the experiment:** the failure chain was rules→review→revision each individually passing while the composition failed. The counting audit (immune to shared taste) is the strongest tool added since the adversarial review itself.
+
+---
+
+## 2026-07-11 — The cold-reader rule (outside-reader feedback on Support Build)
+
+**Why:** The owner had a second person read Support Build; they stopped at the end of ch. 1 scene 1. Their diagnosis, relayed by the owner: the author worldbuilt extensively, then wrote as if the reader had the lore already — "tossing lore-specific terminology like 'Striker' around like it's common knowledge." The failure class is the ch. 3 Okafors bug generalized: the bible is what's true, the page is what's known — and no page had ever established the premise. The first-mention audit added after ch. 3 was scoped to story facts (surnames, backstory, gear) and was never run against the premise vocabulary or against ch. 1–2 retroactively. A rule gap and a scope gap, not just an execution gap.
+
+**Changes:**
+- `authors-voice/SKILL.md`: new section "The cold-reader rule — the page owes the reader the world." Write for a reader who has only the published chapters; being used is not being introduced (first use owes enough context to say roughly what a term is); chapter 1 owes the premise itself, plainly — "lore through pressure" governs how lore arrives, not whether; budget ungrounded coinages (1–2 in flight, resolved within a page); revision test = quote the grounding sentence for every coined term or introduce/cut; and the counterweight — orientation as wiki-voice or stacked exposition paragraphs is the same failure inverted.
+- `serial-process/SKILL.md`: first-mention audit extended to world terminology (classes, institutions, jargon, system terms), with "introduced means grounded, not merely used" and an instruction to run it hardest against the opening pages.
+
+**Meta-observation:** every reader-taught rule so far (slack, vary-the-snap, plain-speech, numbers-as-stakes, now cold-reader) is a "the writer knows too much" failure in a different costume — style rules kept fixing how sentences perform while this one is about what the reader has been given. Worth noting that it took a SECOND human reader to surface it: the owner had the README premise and the pitch discussions in his head, so even he couldn't read ch. 1 cold. Outside readers are a detection instrument the process didn't have.

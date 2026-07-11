@@ -58,6 +58,17 @@ Do not literary-clean the fun out. Named techniques, ranks and status, visible p
 
 Lore enters through pressure: practical rules, bad advice, arguments, symptoms, prices, marks, rumours, someone needing the answer before the book gives it. No glossary stacks, no invented terms before they're needed — ordinary words until a coined term is needed, repeated, and clear.
 
+## The cold-reader rule — the page owes the reader the world
+
+*Added 2026-07-11 after an outside reader stopped at the end of ch. 1 scene 1 of Support Build: the prose used invented terms ("Striker", the Index, Gates, the League) as if the reader already had the worldbuilding in their head. The bible is for the writer; the reader gets only the page.*
+
+- Write every scene for a reader who has read nothing but the published chapters — not the bible, not the pitch, not the README blurb.
+- **Being used is not being introduced.** At first use, an invented term owes the reader enough on-page context to say roughly what it is — a plain apposition, a grounding action, or someone needing it explained. If the sentence would lose a stranger on the bus, the term isn't ready.
+- **Chapter 1 owes the reader the premise itself.** "Lore through pressure" governs how lore arrives; it is not a licence to never deliver the frame. A short, plain orientation early in chapter 1 — what happened to the world, what the institutions are, why this scene matters — beats thirty pages of confident confusion. Premise facts are plot-critical facts: state them plainly, anchor them in the POV character's context, and get back to the scene.
+- **Budget the unknowns.** At most one or two ungrounded coinages in flight at any moment, each resolved within a page or cut. An opening line may spend one for hook value; the grounding must land within the scene.
+- **The revision test:** list every coined term, proper noun, and back-reference in the chapter, and for each quote the earlier published sentence that grounds it. No quote — introduce it here or cut it.
+- The opposite failure is also a failure: orientation delivered as a wiki entry, repeated re-explanation, or three consecutive exposition paragraphs is a glossary stack wearing a different hat. Ground each thing once, plainly, then move.
+
 ## Darker / sensual material
 
 When a work goes dark or sensual: close third anchored in bodily subjectivity, social danger, shame and leverage and aftermath kept on-page, sensuality without coyness, explicitness only in service of story. Not purple gothic excess — specific, embodied, psychologically exact, still phone-readable. Controlled lyricism is permitted for magic, pain, hunger, awe, surrender, transformation — then return fast to clarity: where we are, who is present, what changed.
