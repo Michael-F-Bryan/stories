@@ -1,0 +1,11 @@
+---
+layout: layouts/chapter.njk
+pagination:
+  data: chapters
+  size: 1
+  alias: chapter
+permalink: "{{ chapter.outputPath }}"
+eleventyComputed:
+  title: "{{ chapter.title }}"
+---
+{{ chapter.bodyHtml | safe }}

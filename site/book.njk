@@ -1,0 +1,56 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: books
+  size: 1
+  alias: book
+permalink: "{{ book.bookOutputPath }}"
+eleventyComputed:
+  title: "{{ book.title }}"
+---
+<section class="book-page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="{{ site.homeUrl }}">Catalogue</a>
+  </nav>
+
+  <header class="book-header">
+    <div class="book-header__copy">
+      <p class="eyebrow">Book {{ book.cataloguePosition }}</p>
+      <h1>{{ book.title }}</h1>
+      <p class="book-synopsis">{{ book.synopsisHtml | safe }}</p>
+
+      <p class="book-header__actions">
+        <a class="button" href="{{ book.startReadingUrl }}">Start reading</a>
+        <a class="button button--ghost" href="{{ book.epubUrl }}">Download EPUB</a>
+      </p>
+    </div>
+
+    <figure class="book-cover book-cover--typographic{% if book.coverUrl %} book-cover--illustrated{% endif %}">
+      {% if book.coverUrl %}
+        <img src="{{ book.coverUrl }}" alt="" loading="lazy" decoding="async">
+      {% endif %}
+      <figcaption>
+        <span class="book-cover__label">{{ book.title }}</span>
+        <span class="book-cover__detail">{{ book.chapterCount }} chapters</span>
+      </figcaption>
+    </figure>
+  </header>
+
+  <section class="book-chapters" aria-labelledby="ordered-chapters">
+    <div class="section-heading">
+      <p class="eyebrow">Navigation</p>
+      <h2 id="ordered-chapters">Ordered chapters</h2>
+    </div>
+
+    <ol class="chapter-list">
+      {% for chapter in book.chapters %}
+        <li class="chapter-list__item{% if chapter.url == book.startReadingUrl %} chapter-list__item--start{% endif %}">
+          <a class="chapter-list__link" href="{{ chapter.url }}">
+            <span class="chapter-list__number">{{ chapter.positionLabel }}</span>
+            <span class="chapter-list__title">{{ chapter.title }}</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ol>
+  </section>
+</section>

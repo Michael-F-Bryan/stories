@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <title>{{ title }}{% if title != site.title %} · {{ site.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ site.stylesUrl }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+
+    <div class="site-shell">
+      <header class="site-header" role="banner">
+        <div class="site-branding">
+          <p class="site-brand"><a href="{{ site.homeUrl }}">{{ site.title }}</a></p>
+          <p class="site-tagline">Sequential fiction, built for quiet reading.</p>
+        </div>
+
+        <nav class="site-nav" aria-label="Primary">
+          <a href="{{ site.homeUrl }}">Catalogue</a>
+        </nav>
+      </header>
+
+      <main id="content" class="site-main">
+        {{ content | safe }}
+      </main>
+
+      <footer class="site-footer">
+        <p>Phone-friendly, no scripting, no hidden content.</p>
+      </footer>
+    </div>
+  </body>
+</html>

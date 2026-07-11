@@ -146,3 +146,15 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Verification:** `pnpm exec node --test test/books.test.js` ✅ and `pnpm test` ✅
 
 **Notes:** Discovery reads only `README.md`, `cover.{jpg,png,webp}`, and `chapters/NNN-slug.md`; it returns explicit source paths for later renderers and ignores unpublished work areas with no chapter files.
+
+---
+
+## 2026-07-11 — Sequential HTML rendering added
+
+**Asked:** Render every conventionally structured work as a multi-book site with one page per chapter, using the approved editorial paperback direction.
+
+**Done:** Added an Eleventy renderer with prefix-safe catalogue, book, and chapter routes; safe Markdown rendering; explicit cover copying; previous/next navigation; responsive light and dark styling; and temporary-filesystem integration coverage. Browser review caught and fixed a catalogue cover overlap, literal Markdown in the premise, and chapter fragments missing the base document shell.
+
+**Verification:** `pnpm test` ✅, `pnpm build` ✅, and browser checks confirmed the styled catalogue and chapter pages load without console errors or horizontal overflow at desktop width.
+
+**Notes:** Rendering consumes only the explicit files returned by discovery. EPUB links are present but their artefacts are added by the next publishing stage.

@@ -1,0 +1,52 @@
+---
+layout: layouts/base.njk
+---
+<article class="chapter-page">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="{{ site.homeUrl }}">Catalogue</a>
+    <span aria-hidden="true">/</span>
+    <a href="{{ chapter.bookUrl }}">{{ chapter.bookTitle }}</a>
+  </nav>
+
+  <header class="reading-header">
+    <p class="folio">{{ chapter.bookTitle }} · {{ chapter.positionLabel }}</p>
+    <h1>{{ title }}</h1>
+  </header>
+
+  <div class="chapter-prose">
+    {{ content | safe }}
+  </div>
+
+  <nav class="chapter-nav" aria-label="Chapter navigation">
+    <div class="chapter-nav__item">
+      <span class="chapter-nav__label">Previous</span>
+      {% if chapter.previousUrl %}
+        <a rel="prev" href="{{ chapter.previousUrl }}">{{ chapter.previousTitle }}</a>
+      {% else %}
+        <span aria-disabled="true">Beginning</span>
+      {% endif %}
+    </div>
+
+    <div class="chapter-nav__item chapter-nav__item--next">
+      {% if chapter.nextUrl %}
+        <span class="chapter-nav__label">Next</span>
+        <a rel="next" href="{{ chapter.nextUrl }}">{{ chapter.nextTitle }}</a>
+      {% endif %}
+    </div>
+  </nav>
+
+  <p class="chapter-return">
+    <a href="{{ chapter.bookUrl }}">Return to book</a>
+  </p>
+
+  <aside class="chapter-index" aria-label="Book chapters">
+    <h2>In order</h2>
+    <ol class="chapter-index__list">
+      {% for item in chapterIndexList or chapter.bookChapters %}
+      <li{% if item.url == chapter.url %} aria-current="page"{% endif %}>
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      </li>
+      {% endfor %}
+    </ol>
+  </aside>
+</article>
