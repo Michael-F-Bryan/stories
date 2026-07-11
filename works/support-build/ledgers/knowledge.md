@@ -12,6 +12,15 @@ An outside reader bounced off ch. 1 scene 1 — the prose used world terms as if
 - **Removed as unpublished/wrong:** "the skitters" (gaunts still have never appeared on a page — ch. 4 debt stands); "the colour of the grey" (the scar was never published); "his entire class was a rumour" (banned metaphor shape); Ren's "nineteen days" (timeline error → "a month"); Tan's "twenty seasons" (impossible vs League chartered ~Year 8 — bible corrected to fourteen).
 - **Reader still does NOT know:** what gaunts are (no Gate fauna ever shown); the aperture/crossing experience; anything about Cass's past; why a 214th-ranked team drew a C-grade (the grading gloss makes this visibly anomalous — treat as an open on-page question, not a seam).
 
+## New in ch. 4
+
+- **World terms first published and grounded:** gaunts (the animals inside Gates); regard (the observed pattern by which gaunts choose targets); skitters (dog-sized six-legged pack hunters that follow movement); sodden (submerged grapplers that follow ripples and pull victims under); palps (pale racking ambushers that lie flat overhead and drop).
+- **Cass's combat kit now public:** [DRAW REGARD] forces nearby enemies to attend to her first; [HOLD FAST] fixes her in place while her body still takes the impact. Her ch. 3 hammer is explicitly the Core-breaker; Cores break more reliably under blunt force than blades.
+- **[Attend] now tested:** at Rank I Ren receives a charge's sight and hearing while his own senses dull. The charge feels nothing. A stationary 30-second use costs little Focus, but conflicting viewpoints cause immediate nausea; Cass rules out moving use until trained.
+- **Broadcast/team state:** Ilyas is the shoulder-rig operator inside the Gate. Cass's shielded formation lets Theo complete a clean chain on camera. Juno's triple-wrapped coal pot stays dry, and she ends a narrow cast as soon as it has done enough.
+- **The maps fail on-page:** at the first junction, actual water stands more than a metre above Pip's wet map. Cass obeys the retreat threshold immediately. Before the team can leave, a sodden drags Ilyas underwater while the live camera keeps broadcasting.
+- **Reader still does NOT know:** why the flood has risen beyond the wet map; whether Ilyas is in the System party; whether the team can still retreat; anything about Cass's past.
+
 ## New in ch. 3 (overhauled text is the record)
 
 - **First published in ch. 3:** the surname Okafor (League roster page + backstory paragraph); the District Nine Break backstory in full (Year 13 Break four streets from their home, the insurers' exclusion clause, the levy's origin — the fridge letter finally has its explanation on-page); Pip's bow (scene 1); the team's full physical loadout (Cass's dented shield + an untrained-with hammer; Theo's three swords; Pip's broadheads + chalk marking arrows; Juno's wax-wrapped banked-coal pots — banked via a skill of hers, coal-starts a fraction of cold starts (see 2026-07-11 pass above); Doc's bag + folding stretcher; Ren's weaponless kit + the knife Cass issues).

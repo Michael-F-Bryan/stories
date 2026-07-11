@@ -2,6 +2,16 @@
 
 *Current arc position vs the bible's starting states. Updated when it moves.*
 
+## As of ch. 4 (inside the Stacks, ~07:18 elapsed)
+
+- **Ren:** Has crossed his first aperture. [Attend] is now mapped at its safest edge: low stationary drain, borrowed sight/hearing, own senses dulled, severe viewpoint nausea. He follows the spending plan after the test, keeping only Carry running. Immediate problem: Ilyas is underwater and may not be a valid party target.
+- **Cass:** Her preparation works through the clean opening pull. She obeys the two-map retreat rule without hesitation when reality exceeds the wet map. Last shown holding Ilyas's armour strap while sodden pull him under.
+- **Theo:** Shielded camera position works under live conditions. He notices the lens, shortens one step, then recovers when Cass blocks the shot and completes the chain.
+- **Juno:** Uses one banked coal, shapes a narrow sheet, and stops immediately after the palp dies. First evidence that the ch. 3 diagnosis has changed her live resource use; fear has not yet tested it hard.
+- **Pip:** Her briefing grounds gaunt/regard mechanics for Ren and the reader. Her dry and wet maps are both invalidated at the first junction; her protocol still produces the correct retreat call.
+- **Doc:** Pack remains on Ren under Carry after the door test. No medical expenditure yet.
+- **Ilyas:** League shoulder-rig operator, introduced on-page. Dragged underwater by a sodden while his camera continues broadcasting; party status unestablished.
+
 ## As of ch. 3 (eve of the Stacks)
 
 - **Ren:** Envelope mapped and respected — called "Symptom" at first onset (growth from ch. 2's push-through). Has a formal spending plan for the Gate and has internalized the stakes ("I'm not going grey inside a Gate"). Read Juno's bill from the inside; the team's trust in him is now personal, not just tactical. Home: fed, blessed ("read it twice"), slept badly.
