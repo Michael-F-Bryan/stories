@@ -16,7 +16,7 @@ The commercial body: seasons, broadcasts, sponsorships, the Potential Index, ass
 
 Wants: narratives, ratings, sponsor renewals, no on-air fatalities. The League doesn't fix what the Index misses because the Index isn't broken *for its purpose* — its purpose is selling strikers to shampoo brands. (That last phrasing is a Theo line. He's not wrong.)
 
-**Broadcast apparatus:** qualifier and fixture feeds run with shoulder-rig camera crews (a convention since Year 7) plus fixed aperture-side coverage. The Division D booth is **Ambrose Tan** (play-by-play; twenty seasons; has seen everything twice) and **"Kef" Keffler** (colour; ex-striker; loud, generous, statistically illiterate in ways Pip finds physically painful).
+**Broadcast apparatus:** qualifier and fixture feeds run with shoulder-rig camera crews (a convention since Year 7) plus fixed aperture-side coverage. The Division D booth is **Ambrose Tan** (play-by-play; has called every League season since the first, fourteen of them; has seen everything twice) and **"Kef" Keffler** (colour; ex-striker; loud, generous, statistically illiterate in ways Pip finds physically painful).
 
 ## The majors (S-division)
 

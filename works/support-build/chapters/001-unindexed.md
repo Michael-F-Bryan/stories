@@ -2,9 +2,11 @@
 
 The kid at station four came up Striker with a Potential Index of 61, and the recruiters reached him before his printout did.
 
-Ren watched from the plastic chairs. Six of them had converged — windbreakers in guild colours, tablets out, all talking at once while the kid's mother cried into his shoulder. Somebody from Vesper Youth was already walking him toward the consultation booths with a hand on his back, like the kid might otherwise wander into traffic.
+Ren watched from the plastic chairs. Six of them had converged — windbreakers in club colours, tablets out, all talking at once while the kid's mother cried into his shoulder. Somebody from Vesper Youth was already walking him toward the consultation booths with a hand on his back, like the kid might otherwise wander into traffic.
 
-An Index of 61 was a one-in-a-thousand number. The hall had applauded, even though the signage asked people not to.
+Ren had grown up inside all of it, like everyone his age, so the facts sat in his head next to road safety. Twenty-two years ago the first Gate had torn open — a standing hole in the air, with somewhere else on the far side — and the things living in that somewhere came out, and three thousand people died. The System arrived the same year, from nowhere anyone could name, and it chose people: roughly one in eight hundred, each issued a class — a name and a short list of skills, set out as exact text on a panel only its owner could perceive. Gates had kept opening ever since, each on its own term clock, and a Gate nobody cleared from the inside burst when the clock ran out. So clearing them became work for the awakened, and the Gate League — which had learned early that forty million people would watch a clearance with cameras inside it — turned that work into the biggest sport in the country. People counted the years from that first Gate. This was Year 22.
+
+Verification was the last compulsory step of assessment: a new panel had to be brought to a hall like this one within thirty days and read out by an Authority terminal, in public, where it couldn't be faked — which was why the recruiters worked these halls. Striker was the commonest class the System issued; nearly a third of the awakened came up Striker, and its skills were built for damage, which was what the sport measured and what the clubs paid for. The Potential Index put a number on all of it — the League's own forecast, run off assessment telemetry, of how much damage a new player's kit would someday deal. An Index of 61 was a one-in-a-thousand number. The hall had applauded, even though the signage asked people not to.
 
 "One-seventeen."
 
@@ -34,7 +36,7 @@ CLASS: ATTENDANT (SVC-001)
 
 A supervisor drifted over — a big man with reading glasses pushed up into his hair. He looked at the wall, then at Ren, then back at the wall.
 
-"Service category," he said. "You don't see that. We had one come through Corvel, must be six years back now. Carries bags for one of Meridian's aces these days. Good money, apparently. Excellent money." It was the tone Ren knew from the Trust's counter: bad news, delivered as if it were a kind of luck.
+"Service category," he said. "You don't see that. We had one come through Corvel, must be six years back now. Carries bags for one of Meridian's aces these days. Good money, apparently. Excellent money." It was the tone Ren knew from the Recovery Trust's counter: bad news, delivered as if it were a kind of luck.
 
 The man at the desk behind her laughed. Once, through his nose. Then he apologised, which was worse.
 
@@ -66,21 +68,23 @@ He thanked her. Nobody said anything kinder to him for the rest of the week.
 
 ---
 
-He had started applying the day the panel arrived, class self-declared, verification pending. The application to Brickyard Union came back in four hours: *Thank you for your interest. Our composition is complete.* The Palisades took two days and attached a feedback form. Coldharbour FC never replied at all, which Ren respected more; postage was money.
+He had started applying to teams the day the panel arrived, class self-declared, verification pending. The application to Brickyard Union came back in four hours: *Thank you for your interest. Our composition is complete.* The Palisades took two days and attached a feedback form. Coldharbour FC never replied at all, which Ren respected more; postage was money.
 
 Twelve applications in four weeks, the last one sent with the assessment printout attached, as if the official stamp under the word ATTENDANT might read differently than the word alone. He kept a list, because he kept lists — team, date sent, date declined, method. The method column was the depressing one. Nobody had said no to *him*. They'd said no to a line on a form, sight unseen, same as the Index had.
 
-In between he did delivery shifts in the dead-stock jacket and read his panel until he could recite it backwards, which was useless, because reciting wasn't the problem. The problem was that all three skills wanted a party member, and he didn't have a party. The buttons sat grey. Twenty-nine days of owning three skills and he had never once used any of them. As far as actual evidence went, his entire class was a rumour that he happened to be in.
+In between he did delivery shifts in the dead-stock jacket and read his panel until he could recite it backwards, which was useless, because reciting wasn't the problem. The problem was that all three skills needed a party member. A party was a System structure — a real invitation, sent from one panel to another and accepted the same way — and nobody had ever invited him to one. The buttons sat grey. Twenty-nine days of owning three skills and he had never once used any of them.
 
-The forums had nothing. One thread, "ATTENDANT — anyone have footage?", eleven posts, last reply Year 19. The consensus, such as it was: nobody had ever seen the skills used in a Gate, the two known Attendants worked as valets for majors, and — final post, forty-one upvotes — "bro the class description says he waits on people. it's a butler. let it go."
+The forums had nothing. One thread, "ATTENDANT — anyone have footage?", eleven posts, last reply Year 19. The consensus, such as it was: nobody had ever seen the skills used in a Gate, the two known Attendants worked as valets for players in the majors — the eight clubs at the top of the sport — and — final post, forty-one upvotes — "bro the class description says he waits on people. it's a butler. let it go."
 
 On the fridge at home, under the magnet shaped like a lemon, the quarterly letter from the Recovery Trust said what it always said, in six-point type near the bottom where the numbers lived. 31,400 remaining. 1,900 due. ARREARS: 3,800. PENALTY ACCRUING. Bea tracked it in a spreadsheet she'd named "the hole." She was fourteen and had opinions about compounding interest that she delivered like weather reports.
 
 A League-minimum signing bonus was eight thousand marks. Eight thousand killed the arrears and the next quarter in one hit, with change, and the monthly stipend held the schedule after that. Two signatures, and the hole stopped growing. Ren had done that arithmetic so many times the numbers had stopped meaning anything, which is how he knew to be careful when he did it again anyway, at the kitchen table, at 1 a.m., over the registry's open-tryouts page.
 
-The filter was set to Division D, radius: Halden. There was one result.
+The filter was set to Division D — the bottom of the league's four — radius: Halden. There was one result.
 
 GRAVE SOCIETY (D — 214). SIXTH WANTED BEFORE FRIDAY 1700. ANY CLASS CONSIDERED. MUST HOLD OR PASS LICENSING BY DEADLINE. SERIOUS APPLICANTS ONLY. WE ARE SERIOUS. PLEASE.
+
+Ren looked up the rank. There were two hundred and fifteen licensed teams in the country.
 
 The address was in District Seven, above a laundromat.
 
@@ -120,7 +124,7 @@ She read it. Theo drifted over to read it too, and she angled the page away from
 
 "What's yours?"
 
-"I don't have one yet." He kept his voice level, the way he did at the Trust's counter. "The skills only target party members. I've never been in a party. Nineteen days, and I've never fired any of them. I can tell you what the text says, and I can tell you the text is exact, because it always is. That's everything I've got."
+"I don't have one yet." He kept his voice level, the way he did at the Trust's counter. "The skills only target party members, and I've never been in a party — I've owned them a month and never fired one. I can tell you what the text says, and I can tell you the text is exact, because it always is. That's everything I've got."
 
 "It's a butler class," Theo said, to the ceiling, like a man asking for strength. "We waited all season and the universe sent us a butler."
 
@@ -206,15 +210,17 @@ Pip filed the roster amendment from the lockbox, both thumbs going, at 16:22 on 
 
 The second email arrived at 17:04, four minutes after lock.
 
-"Assignments," Theo said. "The second the rosters close. They've never once considered giving anybody an evening first."
+"Qualifier assignments," Theo said. "The League hands every team its first Gates the second the rosters close. They've never once considered giving anybody an evening first."
 
 Cass read it off the laptop, flat as a shipping notice. "Qualifier one. The Stacks. C-grade. We're scheduled in nine days."
 
-The tidying stopped again. Theo said, "The Stacks is a *C*," in a voice with nothing performed in it at all, and that was what told Ren the grade meant something.
+The tidying stopped again. The grading scale was news-ticker knowledge: the Authority graded every Gate off what its instruments read at the mouth, E to S, mildest to worst. Division D teams drew E's and D's.
+
+Theo said, "The Stacks is a *C*," in a voice with nothing performed in it at all.
 
 "Four teams have wiped in the Stacks since Year Nineteen," Pip said, to her phones. "Median time-to-wipe, eleven minutes."
 
-"Okay, so," Juno said, "flood maps. Tonight. Because if the low thirds are still under water, then heat's half useless below the racking, which means budgeting for—"
+"Okay, so," Juno said, "flood maps. Tonight. Because if the low thirds are still under water, then my fire's half useless below the racking, which means budgeting for—"
 
 "Training's at six," Cass said, and closed the laptop.
 

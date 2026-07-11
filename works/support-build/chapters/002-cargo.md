@@ -66,7 +66,7 @@ The Recovery Trust payments office kept Saturday half-days. Bea was already in t
 
 "nine oh four this morning. the league pays the bonus straight onto roster confirmation, i checked." She handed him a printout with the total highlighted — the arrears, the penalty, the quarter that was due anyway. "pay all of it and we're just normal again. people who owe money on schedule."
 
-The clerk at window two was the older one, the one who had watched Ada Okafor contest a misapplied instalment for eleven months in Year 20 and had, by the end, quietly started pulling their file before they reached the counter. He pulled it now, read his screen, and quoted a figure a little higher than Bea's.
+The clerk at window two was the older one, the one who had watched their mother contest a misapplied instalment for eleven months in Year 20 and had, by the end, quietly started pulling their file before they reached the counter. He pulled it now, read his screen, and quoted a figure a little higher than Bea's.
 
 "no," Bea said, and slid the printout under the glass. "your system keeps charging penalty to the end of the month. it stops when we pay."
 
@@ -86,7 +86,7 @@ Outside, on the bench by the bus stop, Bea updated the spreadsheet on her phone 
 
 The evening session started with the hearing test. Pip stood behind the pillar counting aloud, and the escort let go the moment she stepped out of sight, voice or no voice. Cass amended her note to *sight, probably* and moved on.
 
-The corridor was Cass's copy of the League's standard extraction layout — the course qualifier telemetry times every team on — rebuilt from what the gym had: laundry carts to squeeze past, the oiled patch, a low scaffold to duck, and a forty-kilo sandbag on a stretcher standing in for a casualty. Theo threw tennis balls to be the skitters. The rule was simple: if a stretcher carrier stumbled or the sandbag touched the floor, the run reset. Their five-man record, Pip informed Ren, was seventy-four seconds, with two resets in the attempt.
+The corridor was Cass's copy of the standard extraction drill — the one every club in the league trains and times the same way — rebuilt from what the gym had: laundry carts to squeeze past, the oiled patch, a low scaffold to duck, and a forty-kilo sandbag on a stretcher standing in for a casualty. Theo threw tennis balls to stand in for whatever the Gate would actually throw. The rule was simple: if a stretcher carrier stumbled or the sandbag touched the floor, the run reset. Their five-man record, Pip informed Ren, was seventy-four seconds, with two resets in the attempt.
 
 "Median extraction split for the division is sixty-five," she added. "We have never been under seventy."
 
@@ -116,15 +116,15 @@ Ren nodded, which made the room swim. His hands had gone stupid; it took him thr
 
 "Ninety more seconds," Pip said, "and the preview's up."
 
-The preview was the League's qualifier-week show, Division D edition. They gathered around Pip's phone with the lights half-off: Ambrose Tan's familiar delivery, twenty seasons of it, running the table from the top. Kestrel Nine, first, obviously. He reached Grave Society forty seconds before the end.
+The preview was the League's qualifier-week show, Division D edition. They gathered around Pip's phone with the lights half-off: Ambrose Tan's familiar delivery running the table from the top. Kestrel Nine first, obviously — the club Marc had left them for. He reached Grave Society forty seconds before the end.
 
 "—and at the bottom of the card, Grave Society, who did make the roster deadline, we're told, with a signing I genuinely cannot evaluate for you." He left the pause in. "Kef?"
 
-"Lovely club," said Kef, warmly. "Zero-flag record, you have to respect it. Terrible odds. We've got them finishing seventy-first of seventy-one."
+"Lovely club," said Kef, warmly. "Zero casualty flags in seven seasons — nobody has ever been carried out of a Gate on their watch, and you have to respect it. Terrible odds, though. We've got them finishing seventy-first of seventy-one."
 
-They also had a clip of Dree Vann, immaculate in Kestrel colours, being asked about her old division rival signing an Attendant. She smiled. "I think it's wonderful when clubs get creative. Development is a broad church."
+They also had a clip of Dree Vann, Kestrel's captain, immaculate in club colours, being asked about the bottom of her division signing an Attendant. She smiled. "I think it's wonderful when clubs get creative. Development is a broad church."
 
-The chat scrolled too fast to read, except that Pip could read it, and Ren watched her decide not to say what was in it. He saw it anyway. Somebody had posted the Ganz Freeze — the old clip, forty-one seconds of Theo not moving, ClearanceSale's watermark in the corner — and the laughing emotes were still climbing.
+The chat scrolled too fast to read, except that Pip could read it, and Ren watched her decide not to say what was in it. He saw it anyway. Somebody had posted the Ganz Freeze — the old clip, forty-one seconds of Theo not moving in the middle of a fixture, watermarked by ClearanceSale, the channel that lived off league failures — and the laughing emotes were still climbing.
 
 Theo had been halfway through a joke about Vann's dental work. He didn't finish it. He picked up his bag, said, "Six is disgusting, see you all at the other six," and went down the stairs at an ordinary walking pace. Theo didn't do anything at an ordinary pace.
 

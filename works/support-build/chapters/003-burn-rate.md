@@ -1,6 +1,6 @@
 # 3 — Burn Rate
 
-Ren heard the arrows before he saw them. It was Sunday morning, day two, and the sound came from the far end of the rail easement — a flat snap, a pause, then another snap. Pip stood in the gravel shooting at a fence post, and he stopped and watched her for a moment, adjusting to the sight. He hadn't known she used a bow. Nobody had mentioned it. He'd spent a week learning what this team's skills said and almost nothing about what any of them held in their hands while using them. The bow suited her, though. It was a scout's weapon, and she shot the way she talked — short accurate bursts, with long gaps in between where she just looked at things.
+Ren heard the arrows before he saw them. It was Sunday morning, day two, and the sound came from the far end of the rail easement — a flat snap, a pause, then another snap. Pip stood in the gravel shooting at a fence post, and he stopped and watched her for a moment, adjusting to the sight. He hadn't known she used a bow. Nobody had mentioned it. He'd spent two days learning what this team's skills said and almost nothing about what any of them held in their hands while using them. The bow suited her, though. It was a scout's weapon, and she shot the way she talked — short accurate bursts, with long gaps in between where she just looked at things.
 
 Cass had moved training out here because the gym was too small for the morning's question. The question was range: how far away could a charge get before the escort gave out?
 
@@ -28,7 +28,7 @@ Theo put the training sword back on the rack with exaggerated care. Then he came
 
 "I wasn't going to ask."
 
-"Everyone asks eventually." He watched the producer pack up her checklist. "You know what the worst part is, Butler? I'm actually good. The ratings have me in the top fifty of the whole division. Put me in an empty gym and I will take apart anyone in this league at my weight." He bounced his heel off the floor, twice, fast. "Forty million people watch this sport, and when a lens points at me, I can feel every single one of them on the other end of it."
+"Everyone asks eventually." He watched the producer pack up her checklist. "You know what the worst part is, Butler? I'm actually good. The League runs training sims — full runs against dummies, telemetry-scored, no cameras — and the sim ladder has me in the top fifty of the whole division. Put me in an empty gym and I will take apart anyone in this league at my weight." He bounced his heel off the floor, twice, fast. "Forty million people watch this sport, and when a lens points at me, I can feel every single one of them on the other end of it."
 
 Ren thought about the assessment hall, and the recruiters looking at his projected panel and glancing away in one movement.
 
@@ -36,7 +36,7 @@ Ren thought about the assessment hall, and the recruiters looking at his project
 
 "Good. I'd have hated that." Theo got up, rolled his shoulders, and went back to the dummies. Once the camera was gone, his chain ran clean for the rest of the morning.
 
-That evening Cass rewrote the Stacks formation on the whiteboard. In the new diagram, Theo's opening position sat on the far side of the group from where the broadcast rig would come through the aperture. Theo studied it for a while, worked out exactly why she had drawn it that way, and didn't make her say it out loud.
+That evening Cass rewrote the Stacks formation on the whiteboard. In the new diagram, Theo's opening position sat on the far side of the group from where the broadcast rig would come in. Theo studied it for a while, worked out exactly why she had drawn it that way, and didn't make her say it out loud.
 
 "Solid plan," he said.
 
@@ -50,13 +50,13 @@ It was Cass's experiment, but Doc was the one who ran it, and Ren understood the
 
 Juno called fire to her hands, a working flame about the size of a loaf of bread, and shaped it into a slow ring. Ren reached for it with the same motion he'd used on her duffel bag, and the feed came across.
 
-He understood within about a second that this was going to be nothing like the duffel bag. There was no weight anywhere. Instead, attention started pouring out of him and into the ring, far more of it than made any sense for a flame that size. The transfer was exact — that was the whole point of the experiment — which meant he was paying whatever Juno actually fed the thing, moment to moment. And Juno fed it far more than it needed. He could feel her habit arriving along with the cost: the flame asked, and she gave, and then she gave again before it asked.
+He understood within about a second that this was going to be nothing like the duffel bag. There was no weight anywhere. Instead, attention started pouring out of him and into the ring, far more of it than made any sense for a flame that size. The transfer was exact — that was the whole point of the experiment — which meant he was paying whatever Juno actually fed the thing, moment to moment. And Juno fed it far more than it needed. He could feel her habit arriving along with the cost: she fed the flame more than it needed, and topped it up again before it had used what it already had.
 
 He held it for a minute, and then another. The ring burned on, and Juno stood there with her hands open and empty of effort, watching it.
 
 At three minutes the edges of the room began to narrow. Ren called the symptom the way he'd promised to, Doc stopped the timer, and the feed snapped back to Juno, who closed her fist and put the ring out.
 
-Ren sat down on the mat and worked through what he'd just paid. Three minutes of simply holding one small steady flame had cost him most of what he usually had for a whole morning.
+Ren sat down on the mat and worked through what he'd just paid.
 
 "Juno." He waited until she looked at him. "That rate. Is that your baseline? For a little ring, held still?"
 
@@ -70,7 +70,7 @@ The gym was quiet. Juno looked at her hands.
 
 "That's not — ration schedules are for people who are trying to save. You're not trying to save." Ren thought of his mother, working a third shift so that Bea wouldn't have to know the word *arrears*. "You want to spend it all, every time, so that nothing gets through to anyone."
 
-Juno laughed, wobbly. "Okay. New rule. Nobody gets to audit me except the butler." She dug a container of leftover noodles out of her bag and set it in front of him with great firmness. "Eat. You've gone the same colour as the grey."
+Juno laughed, wobbly. "Okay. Fine. If anyone's going to audit me, it can be you." She dug a container of leftover noodles out of her bag and set it in front of him with great firmness. "Eat. You've gone the colour of old porridge."
 
 He ate. Behind him, he heard Doc telling Cass quietly that the trick was for emergencies only, and heard Cass agree.
 
@@ -78,13 +78,13 @@ He ate. Behind him, he heard Doc telling Cass quietly that the trick was for eme
 
 By Saturday night, day eight, the plan filled the whiteboard, and the team's gear was spread across the gym floor for checking.
 
-It was the first time Ren had seen everything the team actually carried into a Gate laid out in one place. Cass's shield was a scuffed slab of layered composite nearly as tall as she was, with a dent in the top corner from some old fight, and next to it sat a short one-handed hammer that he had never once seen her train with. Theo laid out two short swords and then strapped a third across his lower back; when Ren looked at it, Theo said he threw the first one more often than Cass approved of. Pip had the bow, a long knife, and two quivers — one of broadheads and one of blunt arrows tipped with chalk, for marking routes on surfaces her skill couldn't reach. Juno's satchel held ceramic pots of banked coals wrapped in wax cloth, because calling fire up from a live ember cost her a fraction of what calling it from nothing did, and every pot was getting triple-wrapped against the Stacks' water. Doc repacked his medical bag twice and added a folding stretcher.
+It was the first time Ren had seen everything the team actually carried into a Gate laid out in one place. Cass's shield was a scuffed slab of layered composite nearly as tall as she was, with a dent in the top corner from some old fight, and next to it sat a short one-handed hammer that he had never once seen her train with. Theo laid out two short swords and then strapped a third across his lower back; when Ren looked at it, Theo said he threw the first one more often than Cass approved of. Pip had the bow, a long knife, and two quivers — one of broadheads and one of blunt arrows tipped with chalk. She explained the chalk without being asked: her marking skill could flag anything she could see, but only the six of them would ever see those marks, so the chalk was for leaving signs that anyone could read. Juno's satchel held ceramic pots of coals wrapped in wax cloth. The coals were banked fire — she had a skill for setting a called flame aside and keeping it — and starting from a banked coal cost her a fraction of what calling fire up from nothing did, so every pot was getting triple-wrapped against the Stacks' water. Doc repacked his medical bag twice and added a folding stretcher.
 
 Ren's own pile was the strange one. No weapon. Water for six, spare gloves, spare rope, chalk, food bars, and the stretcher harness. Cass looked at the pile for a moment, went to her own kit, and handed him a knife in a moulded sheath.
 
 "Everyone carries one," she said. "You'll probably never draw it. Carry it anyway."
 
-Once the gear was packed, they turned to the plan. Pip had drawn two maps of the Stacks, because the survey was two years old. The dry map showed the interior exactly as the Year 20 survey recorded it. The wet map showed the same interior with two more years of flooding added: deeper water in the low aisles, and the sluice gate half-drowned.
+Once the gear was packed, they turned to the plan. Pip had drawn two maps of the Stacks, because the survey was two years old. The dry map showed the interior exactly as the Year 20 survey recorded it. The wet map showed the same interior with two more years of flooding added: deeper water in the low aisles, and the sluice gate half-drowned. Both maps ended at the same cross in the far corner: the Core, the mass every Gate kept somewhere inside itself. That was what a clear meant — you broke the Core, and the Gate closed itself within minutes. Everything else on the maps was the walk there and back.
 
 "The first junction is the test," she said, tapping it. "The survey says the water mark sits at the second pillar. If the water is higher than that when we get there, then the survey is wrong everywhere, and we switch to the wet map and climb over the racking early instead of wading the aisles. Nobody argues about it in the moment. We see water where the chart says floor, and we switch."
 
@@ -106,7 +106,7 @@ It took the six of them three trips to carry everything down to the van.
 
 When Ren got home, the flat smelled like garlic, which stopped him in the doorway — his mother worked Saturday nights at the depot, and nobody cooked in that kitchen on a Saturday. But there she was at the stove. She had swapped the shift. She talked about the depot and about the neighbours' dog, and she fed him until he pushed the plate away, and then she put one more spoonful on it anyway.
 
-If she was frightened about tomorrow, she had better reasons than most people in Halden. Nine years ago the Okafors had lived in District Nine, four streets from a Gate that the Authority had graded wrong. It broke at four in the morning. Ren had been nine years old, and he remembered that night only in pieces — being carried, and a neighbour's door standing open on an empty flat. What came afterwards he remembered fine, because it never stopped. Their building was condemned. The insurers called the Break an "extradimensional incursion" and pointed to an exclusion clause, and they never paid out a single mark. Then the city billed every surviving household a recovery levy for the rebuild, and that levy became the letter on their fridge under the lemon magnet, every quarter, for nine years. It was why his mother read fine print like a lawyer, and why she had raised both of her children to do the same. Tomorrow morning, on every screen in the city, her son was going to walk into one of the things that had come out at their family.
+If she was frightened about tomorrow, she had better reasons than most people in Halden. Nine years ago the Okafors had lived in District Nine, four streets from a Gate that the Authority had graded wrong. It broke at four in the morning. Ren had been nine years old, and he remembered that night only in pieces — being carried, and a neighbour's door standing open on an empty flat. What came afterwards he remembered fine, because it never stopped. Their building was condemned. The insurers called the Break an "extradimensional incursion" and pointed to an exclusion clause, and they never paid out a single mark. Then the city billed every surviving household a recovery levy for the rebuild, and that levy became the letter on their fridge under the lemon magnet, every quarter, for nine years. Tomorrow morning, on every screen in the city, her son was going to walk into the same kind of thing that had once broken open over their street.
 
 "Your sister showed me the spreadsheet," Ada said, sitting down across from him. "The black row."
 
