@@ -1,0 +1,7 @@
+.worktrees/
+node_modules/
+.npm/
+coverage/
+_site/
+.DS_Store
+npm-debug.log*
