@@ -209,3 +209,37 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Process incident caught before shipping:** after review fixes, an on-disk read showed four fixes had reverted despite both review agents reporting read-only work. The stale-write regression was caught by the required final read, the fixes were reapplied against current text, and all final scans were rerun. This is another concrete reason the post-review final-text audit remains mandatory.
 
 **Final-text audit:** banned-prose quick scan reports zero hits across its high-signal patterns; the serial pattern scan reports no matches; final-copy scaffold scan is clean. Manual budgets: one action triad (Juno's banked-coal cast), one mild personification/metaphor candidate (training "held together"), two explicit callbacks, no attribution stunts, and three of four scene exits are plain action or transit. No prior opener/closer armature repeated.
+
+## 2026-07-11 — Chapter 5: "Blackwater"
+
+**Owner:** "Merged! Let's continue on with chapter 5."
+
+**Done:** Verified PR #3 merged into `main`, created `chapter/005`, and drafted chapter 5 at ~2,050 words. The chapter resolves the immediate underwater rescue, pays live boundaries for Attend, Escort, Carry, Hold Fast, and Mend, then advances the extraction problem to the sluice bridge.
+
+**Independent adversarial review:** no blockers or valid must-fixes. It passed rescue clarity, literal skill limits, dialogue differentiation, plain speech, scene exits, and the earned physical ending. Its sole should-fix quoted "Their training held together inside the Gate" as chapter 5 line 127, but that sentence exists in chapter 4 and was never present in the reviewed chapter 5 file; no chapter 5 change was made from that stale citation.
+
+**Independent continuity/mechanics audit:** no blocker. One must-fix correctly caught that the draft claimed moving Attend cost more without showing the observation; the revised scene now states the increased drain during Pip's movement before Ren reports it. One should-fix caught muddy pack handoffs around the rope crossing; the text now shows Doc handing the physical pack to Ren before crossing, Ren returning it on the platform, Doc putting it on, and Carry resuming before movement. The audit explicitly passed Ilyas's outside-party status, Escort's footing boundary, Hold Fast versus structural failure, Mend's exact cost, Theo's third sword, Juno's coal satchel, camera/feed continuity, first mentions, geography, and clock arithmetic.
+
+**Clock:** 07:18→07:54 = 36 seconds; 07:54→14:26 = 6 minutes 32 seconds; 14:26→15:40 = 1 minute 14 seconds; 15:40→18:08 = 2 minutes 28 seconds. Total chapter action: 10 minutes 50 seconds. Monotonic and plausible.
+
+**Final-text audit after the last review edit:** one action triad remains; scene exits are two plain operational consequences plus one threat ending; no repeated opener/closer armature; banned-prose and serial-pattern scans have no blocking matches; final-copy scaffold scan is clean. The lone broad search hit for "something" is ordinary dialogue ("throw something past the far pillar"), not vague narration.
+
+## 2026-07-11 — Chapter 5 adversarial review + fixes
+
+**Owner:** "Do an adversarial review of chapter 5 and fix everything I wouldn't like about it. Commit your changes and push afterwards."
+
+**Process:** Loaded serial-process + authors-voice (incl. the full voice-notes source of truth), read ch. 5, ch. 4, all four ledgers, and the bible (characters, mechanics, bestiary). Spawned an independent adversarial sub-agent to attack the draft while doing my own line-level pass, then merged findings.
+
+**Sub-agent verdict:** the chapter is the most mechanically disciplined in the run — banned-pattern list, first-mention/cold-reader, and clock/mechanics audits all pass. The real weaknesses were dramatic, not stylistic. Two must-fixes and a set of should-fixes applied:
+
+- **Ren silently broke Cass's own ch. 4 doctrine** ("no moving Attend until trained") with zero recoil — four chapters of setup fired on a shrug. Fix: Ren names the transgression; Cass takes ownership and authorizes the emergency exception, reasserting the first-symptom stop. Turns a dropped beat into a character beat and adds stakes.
+- **Pip's bow was dropped on the staircase that then falls into the flood** — a gear-continuity hole (her primary weapon, and the handoff already assumed she kept it). Fix: she slings it and retains it.
+- **POV was emotionally muted** — Ren watched a drowning through a teammate's eyes and registered only clinical symptoms. Added one embodied beat so the horror lands and his clinical control reads as discipline, not coldness.
+- **Mechanics seam:** sodden (grapplers) "cut through" armour — recast the calf wound as damage from being dragged across submerged racking.
+- Clarity/continuity: "One of the sodden" (misparse), "the wrist of the other arm" (Theo cut an elbow), "camera strap" vs Cass's "shoulder strap", doorkeeper described entering the bridge twice, "solid support" not "sound", pot label, camera-line accuracy, Doc's clipped ligament line, two dizziness fragments merged, removed bookkeeping "15:40" and a stale spatial clause.
+
+**Deferred to the independent eye:** the sub-agent explicitly praised the camera motif (Ilyas's fretting vs Cass choosing the man over the points, "Nobody looked back towards the camera") as the best character work in the chapter. My earlier instinct to soften Ilyas's pointed lines was overruled — kept them.
+
+**Not done (judged out of scope / over-engineering):** a new near-miss beat to re-fang the sodden during the dive (ranked should-consider) — the deliberate regard-redirect is a fair competence play, and Ren's new felt reaction supplies the menace without added choreography. Cass's last-out leap left as a signposted desperate move.
+
+**Final-text audit after the last edit:** banned patterns none; triads 0; personification 1 ("noise had gathered them"); callbacks continuity-only, none as scene-exit buttons; all three scene exits plain; opener/closer distinct from ch. 4; surviving timestamps (07:54, 14:26, 18:08) each carry stakes. Ledgers (timeline, knowledge, character-state) updated for the authorized-override event; handoff review-state rewritten. Still on `chapter/005`, not merged — published canon remains through ch. 4.

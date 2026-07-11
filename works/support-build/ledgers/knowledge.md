@@ -12,6 +12,19 @@ An outside reader bounced off ch. 1 scene 1 — the prose used world terms as if
 - **Removed as unpublished/wrong:** "the skitters" (gaunts still have never appeared on a page — ch. 4 debt stands); "the colour of the grey" (the scar was never published); "his entire class was a rumour" (banned metaphor shape); Ren's "nineteen days" (timeline error → "a month"); Tan's "twenty seasons" (impossible vs League chartered ~Year 8 — bible corrected to fourteen).
 - **Reader still does NOT know:** what gaunts are (no Gate fauna ever shown); the aperture/crossing experience; anything about Cass's past; why a 214th-ranked team drew a C-grade (the grading gloss makes this visibly anomalous — treat as an open on-page question, not a seam).
 
+## New in ch. 5
+
+- **Party boundary made explicit:** Ilyas is not in Grave Society's System party. Ren's support skills cannot target him; physical rescue, Mend, rope, and the stretcher remain available.
+- **Attend under emergency movement:** Pip moves and dives while designated. Ren receives her underwater sight, relays what she sees, experiences more drain than during the stationary door test, and reports nausea without tunnel vision or hearing loss.
+- **Ch. 4's "no moving Attend until trained" ruling is consciously overridden on-page, not ignored:** Ren names the transgression to Cass ("the part we never trained"), and Cass — who set the rule — makes it her call ("Do it. Keep talking to me."). The ruling still stands as doctrine; the emergency is an authorized exception, with the captain reasserting the first-symptom stop as the safety valve.
+- **Attend's viewpoint split has a felt cost for Ren:** relaying while his senses are lent to a drowning teammate takes deliberate effort ("He kept his weight on his own feet and made himself talk"). His clinical status reports are discipline, not absence of reaction.
+- **[MEND] first shown on-page:** the skill closes an open calf wound; the patient pays half the cost and Doc pays the rest. It does not repair Ilyas's torn knee ligaments.
+- **Hold Fast's structural boundary:** Cass remains fixed to the stair under the sodden's pull, but the staircase bolts and landing can still fail around her.
+- **Escort's footing boundary paid in live danger:** Pip cannot stumble while crossing a shaking diagonal brace, but Ren states that the skill cannot save her if the brace itself breaks.
+- **Gear/camera state:** Theo's third/spare sword is thrown into the flooded junction; he retains two swords. Juno's coal satchel and pots cross dry. Ilyas's shoulder camera is cut free and remains underwater while its feed continues broadcasting.
+- **New gaunt:** a doorkeeper claims one doorway and does not leave it. One blocks the sluice bridge and the only solid stair currently available to the team.
+- **Reader still does NOT know:** whether the upper gantry route remains usable; whether the submerged camera captured enough to explain the rescue; why the Stacks' flooding and structural decay exceed both maps; whether Grave Society can still reach the aperture.
+
 ## New in ch. 4
 
 - **World terms first published and grounded:** gaunts (the animals inside Gates); regard (the observed pattern by which gaunts choose targets); skitters (dog-sized six-legged pack hunters that follow movement); sodden (submerged grapplers that follow ripples and pull victims under); palps (pale racking ambushers that lie flat overhead and drop).
