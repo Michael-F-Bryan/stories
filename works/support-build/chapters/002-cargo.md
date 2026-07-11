@@ -6,7 +6,7 @@ At two minutes to six on Saturday morning, Cass was already setting out cones, w
 
 They spent the first hour breaking it on purpose.
 
-Pip walked the cone line as his charge while Cass called out changes and wrote down what they cost him. Flat floor at a walking pace was cheap — he could have held it all morning. The oiled patch cost more. Pip at a jog cost more again, and Pip jogging backwards through the carts while reciting fixture statistics cost enough that Ren had to stop answering questions with actual words.
+Pip walked the cone line as his charge while Cass called out changes and wrote down what they cost him. Flat floor at a walking pace was cheap — he could have held it all morning. The oiled patch cost more. Pip at a jog cost more again, and Pip jogging backwards through the carts while reciting fixture statistics cost enough that when Cass asked him how it felt, the best he could send back was a grunt and a so-so tilt of one hand.
 
 Then the pillar. Pip ducked behind it, out of his sight for half a second, and the skill let go of her. He felt it happen — like a rope going slack in his hand.
 
@@ -42,9 +42,9 @@ And when Ren tried to take the pack again after lunch, it wouldn't fire at all, 
 
 "Course it didn't. I'm not willing." Doc picked the pack up himself. "Now I am. Try."
 
-The weight came across. Doc nodded slowly, the way he nodded at a wound that was doing what wounds should.
+The weight came across. Doc nodded slowly.
 
-"It asks first," he said. "I've known menders who don't."
+"Polite," he said, and went back to his chair.
 
 The last hour of the morning was formation work, and it went badly in an instructive way. Theo kept positioning himself between Ren and the imaginary threat, the way you'd shield a client, and the whole shape of the drill bent around protecting the one person who wasn't carrying, hitting, or scouting anything.
 
@@ -64,15 +64,13 @@ The Recovery Trust payments office kept Saturday half-days, on the theory that p
 
 "I ran. Did it land?"
 
-"nine oh four this morning. league pays the mandated bonus straight onto roster confirmation, i checked the regs twice." She handed him a printout with one line highlighted. "three eight hundred arrears, two five two penalty, nineteen hundred for the quarter that's due anyway. five nine five two, and then we're just normal. people who owe money on schedule."
+"nine oh four this morning. the league pays the bonus straight onto roster confirmation, i checked." She handed him a printout with the total highlighted — the arrears, the penalty, the quarter that was due anyway. "pay all of it and we're just normal again. people who owe money on schedule."
 
-The clerk at window two was the older one, the one who had watched Ada Okafor contest a misapplied instalment for eleven months in Year 20 and had, by the end, quietly started pulling their file before they reached the counter. He pulled it now, and read his screen.
+The clerk at window two was the older one, the one who had watched Ada Okafor contest a misapplied instalment for eleven months in Year 20 and had, by the end, quietly started pulling their file before they reached the counter. He pulled it now, read his screen, and quoted a figure a little higher than Bea's.
 
-"Five thousand, nine hundred and eighty-nine."
+"no," Bea said, and slid the printout under the glass. "your system keeps charging penalty to the end of the month. it stops when we pay."
 
-"no," Bea said, and slid her printout under the glass. "your system bills the penalty to month-end. it stops accruing at payment. two five two, not two eight nine."
-
-The clerk checked it against her printout, tapped something, and the screen dropped thirty-seven marks without argument. "You have to ask," he said.
+The clerk checked, tapped something, and the screen came down to her number. "You have to ask," he said.
 
 "we always ask."
 
@@ -80,7 +78,7 @@ The clerk checked it against her printout, tapped something, and the screen drop
 
 "You'll want it stamped." It wasn't a question. The stamp came down three times, and the clerk slid the receipt across, and that was the whole ceremony: two years of ARREARS: PENALTY ACCRUING in six-point type, ended by a man with a rubber stamp who nodded once and called the next number.
 
-Outside, on the bench by the bus stop, Bea updated the spreadsheet on her phone with great care. The arrears row went from red to black. The rest of the hole was still there — twenty-nine and a half thousand, four more years — but it was a hole with a schedule again, and nothing at the bottom of it was compounding.
+Outside, on the bench by the bus stop, Bea updated the spreadsheet on her phone with great care. The arrears row went from red to black. The rest of the hole was still there, four more years of it, but it was a hole with a schedule again, and nothing at the bottom of it was compounding.
 
 "mum's going to cry on the fridge," she said. "i'm going to let her."
 

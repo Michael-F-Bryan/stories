@@ -83,3 +83,15 @@ Lab notebook for this serial: prompts, feedback, decisions, tasks. Newest entrie
 - Reviewer confirmed passing: Focus ladder order, all money arithmetic, voices cover-the-tags, broadcast cast against factions.md, closing-note variation. Flagged for ch. 3: don't make it three light endings in a row; Juno's overcasting is overdue to be *shown*.
 
 **Ledgers:** timeline/knowledge/character-state/promises all updated; first promise marked paid (levy payment landed on-page, ch. 2); seven new promises registered.
+
+---
+
+## 2026-07-11 — Owner PR review comments on ch. 2 (PR #1), applied
+
+Three inline comments; all applied and pushed to `chapter/002`:
+
+1. **Line 9 — "stop answering questions with actual words" unclear.** The owner had to ask what physically happened, which is the calibration test failing by definition. Rewritten concrete: a grunt and a so-so tilt of one hand.
+2. **Line 47 — Doc's "It asks first" too profound.** Owner's instinct matches the slack rule better than the line did. Doc's beat is now "Polite," — dry, small, no thesis. Also cut the propping simile ("the way he nodded at a wound...") and the dark-hint clause ("menders who don't"), which was unearned foreshadow anyway.
+3. **Line 83 — the Trust counter scene reads uncanny: "AIs like to generate lots of logistics/accounting-ish prose."** A new named diagnosis from the owner: the *event* (they misbilled; Bea caught it) is what the reader needs, not the reconciliation transcript. Scene rewritten — no figures spoken at the counter, no itemised read-back; the clerk "quoted a figure a little higher than Bea's" and the screen "came down to her number." Bench beat de-numbered too. NOTE: the itemised version had been added on the adversarial reviewer's advice (it wanted the scene's opposition beat + auditable numbers). The owner's ruling refines, not reverses: keep the opposition, lose the arithmetic. True figures stay in the ledgers.
+
+Comment 3 is a second reader-taught style rule → encoded in authors-voice ("numbers are stakes, not bookkeeping"), committed separately on main per conventions.
