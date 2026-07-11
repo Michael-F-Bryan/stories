@@ -56,3 +56,13 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Done:** `pitches/2026-07-10-anime-fantasy-slate.md` — Support Build (leaderboard world, untracked support class, worst team in the league), Calamity, Housebroken (failed hunter bonds a sealed calamity stuck as a housecat), Deadweight (oath-bound porter on the broadcast tower circuit breaks her oath on camera), The Thirteen Forms (duelling circuit where techniques have public prices; extinct school whose forms cost life). Leaned deliberately on the genre pleasures the voice notes protect: ranks, leagues, named techniques, declared costs, rival escalation, duo banter. Updated the README works table to point at both slates.
 
 **Next:** Owner greenlights one pitch from either slate.
+
+---
+
+## 2026-07-11 — Process change: the slack rule added to authors-voice
+
+**Why:** Owner feedback on Support Build ch. 1 identified an "uncanny valley… clipped" quality and confirmed the diagnosis: AI prose spends maximum craft on every line — sculpted fragments, beat-drop dialogue ("Contract."), personified abstractions, uniform quotability — so nothing on the page is allowed to be ordinary, and the reader feels performed at. The existing checklist made this *worse*: "rewrite the weakest sentences" and "cut the flabbiest 5%," applied uniformly, systematically remove slack.
+
+**Change:** New section in `authors-voice/SKILL.md` — "The slack rule — one snap per beat" — with the owner-approved worked example, plus a cadence-audit step in the revision checklist and an explicit counterweight note on the punch-up steps. Owner's articulation of the goal, recorded verbatim: "there's no pressure to fill everything with smart quips, and it lets the story talk for itself rather than feeling like the author is trying to impress their readers with their literary skill."
+
+**Evidence note for the experiment:** this is the first style rule discovered through the owner's reader feedback rather than authored up front — the feedback loop working as intended.

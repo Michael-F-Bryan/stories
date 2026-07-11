@@ -66,6 +66,17 @@ Never in narration except very rarely and deliberately:
 
 Watch the texture-word cluster too — silence, ash, bones, memory, debt, history, hollow, blood, weight, proof, names. None banned alone; they become a tell as default seasoning.
 
+## The slack rule — one snap per beat
+
+*Added from owner feedback on Support Build ch. 1: the prose read "clipped… uncanny valley." The named failure: AI prose spends maximum craft on every line — every sentence compressed, every paragraph ending on its snappiest unit, every speech quotable. No individual line is bad; the uniformity is the tell. Human writers spend attention unevenly, and the ordinary sentences are what make the good ones land.*
+
+- **One snap per beat.** At most one compressed, quotable, or fragment-shaped unit per paragraph or dialogue exchange. If two land in a row, decompress one — usually the second.
+- **Terse means fewer words, not sculpted words.** Clipped characters speak with lazy grammar — "sign this," "any questions?" — not metrically perfect beat-drops ("Contract."). A one-word dialogue closer is allowed about once per scene, and only if it's a word a person would actually say alone.
+- **Personification-compression on a strict budget.** Giving objects and abstractions tidy agency ("the skill waits for a Gate," "the text knows what it's saying," "the room read her reading it") makes any line sound written. At most once per chapter, only when it clarifies a concrete action, never in a bit player's mouth.
+- **Bit players speak plainly.** Not everyone is a phrasemaker. Ensemble texture comes from uneven polish — a tired clerk says "most of them read like tax law," not a balanced three-step epigram.
+- **Let ordinary sentences be ordinary.** Carry transitions with physical action, not spoken gear-shifts. Deliver information in plain syntax. Slack is texture, not flab.
+- Worked example (owner-approved). Uncanny: *"Attend needs somewhere worth perceiving. It waits for a Gate. Contract."* Human: *"We're not testing that one in a gym. It can wait until there's a Gate around it." She went back to the table and dug the contract out from under the laptop. "Come sign before I remember what I'm agreeing to."* Same information; the performance is gone.
+
 ## Revision checklist
 
 Run on every full draft:
@@ -75,5 +86,7 @@ Run on every full draft:
 3. Check every paragraph: does something happen, change, become clearer, become worse, or force a choice? If not, cut or rewrite.
 4. Check the scene contract for each scene: want, opposition, turn. No turn, no scene.
 5. Read dialogue per character — identifiable without tags? Check voice notes in `bible/characters.md`.
-6. Opening: in motion, no throat-clearing recap. Closing: a concrete hook (the ledger opens to the burned page), never "everything changed." Vary the closing note from the previous chapter's.
-7. Cliffhanger honesty: the hook shows the actual problem, it doesn't withhold it.
+6. **Cadence audit (the slack rule):** scan for fragment-closers, one-word dialogue beat-drops, stacked compression, and personified abstractions. Keep the single best snap per beat; decompress the rest into ordinary sentences. If every line in a scene is landing, that's the problem — reintroduce slack.
+7. Opening: in motion, no throat-clearing recap. Closing: a concrete hook (the ledger opens to the burned page), never "everything changed." Vary the closing note from the previous chapter's.
+8. Cliffhanger honesty: the hook shows the actual problem, it doesn't withhold it.
+9. Counterweight to steps that punch up prose ("rewrite the weakest sentences," "cut the flabbiest 5%"): these rules remove slack, and applied uniformly they produce the clipped, over-edited texture the slack rule exists to prevent. Cut flab, then check the page still has ordinary sentences in it.
