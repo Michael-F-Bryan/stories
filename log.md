@@ -76,3 +76,11 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Change:** `serial-process/SKILL.md` chapter loop gains step 6 (adversarial review with required scope: banned patterns + slack rule, clarity, scene contracts, voices, canon/numbers audit, genre pleasure; must quote text, rank severity, and record what passes). Also noted PR-based review flow in the commit step: chapter branches + spoiler-free PR descriptions, per owner's new workflow.
 
 **Also:** branch `claude/fiction-repo-setup-kstww0` renamed to `main` at owner's request; owner set it as GitHub default. (Old remote branch deletion returns 403 from this session — owner can remove it via the branches page.)
+
+---
+
+## 2026-07-11 — Process change: "numbers are stakes, not bookkeeping" added to authors-voice
+
+**Why:** Owner PR-review comment on ch. 2 (the Trust counter scene): "AIs like to generate lots of logistics/accounting-ish prose, when really the reader doesn't care too much for the specific details… it's important that she notices they've messed up a payment and is correcting them, but we don't need to go into so much detail." Second style rule taught by the owner-as-reader (after the slack rule). Notable tension resolved: the adversarial reviewer had pushed *toward* on-page figures (auditability); the refined rule keeps both masters — events on the page, arithmetic in the ledgers.
+
+**Change:** New bullet in the authors-voice slack-rule section. Chapter 2's Trust scene revised accordingly on the `chapter/002` PR branch (prose commit, separate from this one).
