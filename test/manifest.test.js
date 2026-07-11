@@ -11,12 +11,13 @@ async function readJson(filePath) {
   return JSON.parse(await readFile(filePath, 'utf8'));
 }
 
-test('package metadata pins Node 22.23.1', async () => {
+test('package metadata pins Node 22.23.1 and pnpm 11.1.2', async () => {
   const [packageJson, nvmrc] = await Promise.all([
     readJson(path.join(repoRoot, 'package.json')),
     readFile(path.join(repoRoot, '.nvmrc'), 'utf8'),
   ]);
 
   assert.equal(packageJson.engines.node, '22.23.1');
+  assert.equal(packageJson.packageManager, 'pnpm@11.1.2');
   assert.equal(nvmrc.trim(), '22.23.1');
 });

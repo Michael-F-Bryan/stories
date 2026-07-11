@@ -1,7 +1,7 @@
 .worktrees/
 node_modules/
-.npm/
+.pnpm-store/
 coverage/
 _site/
 .DS_Store
-npm-debug.log*
+pnpm-debug.log*

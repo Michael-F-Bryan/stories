@@ -141,8 +141,8 @@ Lab notebook for meta and process work. One entry per session that touches proce
 
 **Asked:** Implement Task 1 for the story publishing worktree: pinned Node project plus a convention-driven discovery module, using strict TDD and no mocks.
 
-**Done:** Wrote temporary-filesystem tests first, confirmed the red `ERR_MODULE_NOT_FOUND` failure, added `publishing/config.js` and `publishing/books.js`, generated `package-lock.json` with `npm install`, and verified discovery behaviour for multiple books, chapter ordering, README title/premise extraction, optional covers, empty workdirs, malformed chapter filenames, missing titles/premises/chapter headings, duplicate/non-contiguous chapter numbers, and ambiguous covers.
+**Done:** Wrote temporary-filesystem tests first, confirmed the red `ERR_MODULE_NOT_FOUND` failure, added `publishing/config.js` and `publishing/books.js`, generated `pnpm-lock.yaml` with pnpm, and verified discovery behaviour for multiple books, chapter ordering, README title/premise extraction, optional covers, empty workdirs, malformed chapter filenames, missing titles/premises/chapter headings, duplicate/non-contiguous chapter numbers, and ambiguous covers.
 
-**Verification:** `npm test -- test/books.test.js` ✅ and `npm test` ✅
+**Verification:** `pnpm exec node --test test/books.test.js` ✅ and `pnpm test` ✅
 
 **Notes:** Discovery reads only `README.md`, `cover.{jpg,png,webp}`, and `chapters/NNN-slug.md`; it returns explicit source paths for later renderers and ignores unpublished work areas with no chapter files.
