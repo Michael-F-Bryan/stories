@@ -22,8 +22,10 @@
 | Preview prediction: GS 71st of 71; Kef cited their zero-flag record on air | 2 | minor | open | — |
 | Dree Vann's "Development is a broad church" — rivalry temperature set | 2 | minor | open | — |
 | Cass left the grey-out run off the whiteboard — small unremarked kindness/doctrine | 2 | minor | open | — |
-| Escort range: ~60 m open-ground, tracking-dependent; "clutter is the enemy" — the Stacks is clutter | 3 | major | open (must matter at the Gate) | — |
-| "Break-glass only": upkeep-Carry reserved for "the day nothing else is left" — a loaded gun | 3 | major | open | — |
+| Escort range: ~60 m open-ground, tracking-dependent; cover breaks it — and the Stacks "is nothing but cover" (Pip) | 3 | major | open (must matter at the Gate) | — |
+| "Break-glass only": upkeep-Carry reserved for emergencies — a loaded gun | 3 | major | open | — |
+| Cass's kit: a dented shield corner "from some old fight," and a hammer Ren has never seen her train with | 3 | minor | open (quiet plants) | — |
+| Juno's banked-coal pots, triple-wrapped against the Stacks' water — ember-starts cost a fraction of cold starts | 3 | minor | open (Chekhov gear) | — |
 | The two-map junction protocol + retreat threshold — the plan the Gate will test | 3 | major | open (arc 1 climax) | — |
 | Attend's 30-second door test — first Attend use pending | 3 | major | open (pays ch. 1's "waits for a Gate") | — |
 | Theo enters a broadcast Gate with a live camera problem; formation shields him from the rig's entry side | 3 | major | open | — |
