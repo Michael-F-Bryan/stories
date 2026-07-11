@@ -1,6 +1,6 @@
 # 2 — Cargo
 
-At two minutes to six on Saturday morning, Cass was already setting out cones, which settled last night's question — six meant both sixes. It also meant Ren had joined a team whose captain owned a clipboard.
+At two minutes to six on Saturday morning, Cass was already setting out cones, which settled last night's question: six meant both sixes.
 
 "Escort first," she said, instead of good morning. "We know it works. Today we find out how it breaks."
 
@@ -18,9 +18,9 @@ Then the pillar. Pip ducked behind it, out of his sight for half a second, and t
 
 "I don't know yet."
 
-"Then we'll test hearing tonight." She made a note. "Swap to Theo."
+"Then we'll test hearing tonight. Swap to Theo."
 
-Swapping charges took about a breath — designate, release, designate — and the breath was not negotiable. Cass timed it four times and wrote that down too. One charge at a time, a breath to change, and he had to keep whoever it was where he could perceive them. Those were the rules so far, and nobody had known any of them yesterday.
+Swapping charges took about a breath — designate, release, designate — and the breath was not negotiable. Cass timed it four times. One charge at a time, a breath to change, and he had to keep whoever it was where he could perceive them. Those were the rules so far, and nobody had known any of them yesterday.
 
 The morning's other discovery arrived by accident. Theo, orbiting on cart duty, drifted in mid-drill with a question about whether Ren thought Juno's cooking constituted a signing benefit or a hazing ritual, and Ren, being polite, started to answer. The escort sagged. On the oiled patch, Pip's foot went out from under her for the first time in two days, and she landed flat on Doc's mats.
 
@@ -46,7 +46,7 @@ The weight came across. Doc nodded slowly.
 
 "Polite," he said, and went back to his chair.
 
-The last hour of the morning was formation work, and it went badly in an instructive way. Theo kept positioning himself between Ren and the imaginary threat, the way you'd shield a client, and the whole shape of the drill bent around protecting the one person who wasn't carrying, hitting, or scouting anything.
+The last hour of the morning was formation work, and it went badly in an instructive way. Theo kept positioning himself between Ren and the imaginary threat, the way a bodyguard shields a client, and the whole shape of the drill bent around protecting the one person who wasn't carrying, hitting, or scouting anything.
 
 Cass stopped it. "You're guarding him like luggage."
 
@@ -58,9 +58,9 @@ They ran it again. It went less badly. By the eleventh run it went well, and by 
 
 ---
 
-The Recovery Trust payments office kept Saturday half-days, on the theory that people who owed money also had jobs. Bea was already in the queue when Ren got there, holding a printed spreadsheet and wearing the expression she reserved for financial institutions.
+The Recovery Trust payments office kept Saturday half-days. Bea was already in the queue when Ren got there, holding a printed spreadsheet.
 
-"you're sweaty," she said, by way of hello. It was how she texted, too.
+"you're sweaty," she said. It was how she texted, too.
 
 "I ran. Did it land?"
 
@@ -76,7 +76,7 @@ The clerk checked, tapped something, and the screen came down to her number. "Yo
 
 "All of it," Ren said. "Itemised receipt, please."
 
-"You'll want it stamped." It wasn't a question. The stamp came down three times, and the clerk slid the receipt across, and that was the whole ceremony: two years of ARREARS: PENALTY ACCRUING in six-point type, ended by a man with a rubber stamp who nodded once and called the next number.
+"You'll want it stamped." The stamp came down three times. The clerk slid the receipt across, nodded once, and called the next number, and two years of ARREARS: PENALTY ACCRUING in six-point type were over.
 
 Outside, on the bench by the bus stop, Bea updated the spreadsheet on her phone with great care. The arrears row went from red to black. The rest of the hole was still there, four more years of it, but it was a hole with a schedule again, and nothing at the bottom of it was compounding.
 
@@ -84,7 +84,7 @@ Outside, on the bench by the bus stop, Bea updated the spreadsheet on her phone 
 
 ---
 
-The evening session started with the hearing test, which took ten minutes and settled nothing anyone had hoped. Pip behind the pillar, counting aloud: the escort let go the moment she stepped out of sight, voice or no voice. Cass amended her note to *sight, probably* and moved on, because the corridor was waiting.
+The evening session started with the hearing test. Pip stood behind the pillar counting aloud, and the escort let go the moment she stepped out of sight, voice or no voice. Cass amended her note to *sight, probably* and moved on.
 
 The corridor was Cass's copy of the League's standard extraction layout — the course qualifier telemetry times every team on — rebuilt from what the gym had: laundry carts to squeeze past, the oiled patch, a low scaffold to duck, and a forty-kilo sandbag on a stretcher standing in for a casualty. Theo threw tennis balls to be the skitters. The rule was simple: if a stretcher carrier stumbled or the sandbag touched the floor, the run reset. Their five-man record, Pip informed Ren, was seventy-four seconds, with two resets in the attempt.
 
@@ -118,7 +118,7 @@ Ren nodded, which made the room swim. His hands had gone stupid; it took him thr
 
 The preview was the League's qualifier-week show, Division D edition. They gathered around Pip's phone with the lights half-off: Ambrose Tan's familiar delivery, twenty seasons of it, running the table from the top. Kestrel Nine, first, obviously. He reached Grave Society forty seconds before the end.
 
-"—and at the bottom of the card, Grave Society, who did make the roster deadline, we're told, with a signing I genuinely cannot evaluate for you." A pause you could hear him choosing to leave. "Kef?"
+"—and at the bottom of the card, Grave Society, who did make the roster deadline, we're told, with a signing I genuinely cannot evaluate for you." He left the pause in. "Kef?"
 
 "Lovely club," said Kef, warmly. "Zero-flag record, you have to respect it. Terrible odds. We've got them finishing seventy-first of seventy-one."
 
@@ -126,7 +126,7 @@ They also had a clip of Dree Vann, immaculate in Kestrel colours, being asked ab
 
 The chat scrolled too fast to read, except that Pip could read it, and Ren watched her decide not to say what was in it. He saw it anyway. Somebody had posted the Ganz Freeze — the old clip, forty-one seconds of Theo not moving, ClearanceSale's watermark in the corner — and the laughing emotes were still climbing.
 
-Theo had been halfway through a joke about Vann's dental work. He didn't finish it. He picked up his bag, said, "Six is disgusting, see you all at the other six," and went down the stairs at an ordinary walking pace, which on Theo looked wrong.
+Theo had been halfway through a joke about Vann's dental work. He didn't finish it. He picked up his bag, said, "Six is disgusting, see you all at the other six," and went down the stairs at an ordinary walking pace. Theo didn't do anything at an ordinary pace.
 
 Juno started after him. Doc didn't look up from packing his needles.
 
