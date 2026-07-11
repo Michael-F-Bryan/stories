@@ -2,6 +2,15 @@
 
 *Who knows what, when they learned it (chapter), and what they wrongly believe. Also defines what the READER can be assumed to know — if it isn't on the page, it isn't known.*
 
+## New in ch. 3 (overhauled text is the record)
+
+- **First published in ch. 3:** the surname Okafor (League roster page + backstory paragraph); the District Nine Break backstory in full (Year 13 Break four streets from their home, the insurers' exclusion clause, the levy's origin — the fridge letter finally has its explanation on-page); Pip's bow (scene 1); the team's full physical loadout (Cass's dented shield + an untrained-with hammer; Theo's three swords; Pip's broadheads + chalk marking arrows; Juno's wax-wrapped banked-coal pots — ember-starts cost her a fraction of cold starts, new published mechanic; Doc's bag + folding stretcher; Ren's weaponless kit + the knife Cass issues).
+- **Mechanics now public:** escort holds ~60 m in open ground and depends on continuous tracking, not distance (clutter is the enemy); Carry's "burden" includes skill upkeep — the transfer is exact (payer receives the owner's actual feed, unsoftened); upkeep-Carry costs Ren most of a morning per ~3 minutes at Juno's rate; team rule: break-glass only in a Gate. Theo's chain mechanically dies under a live camera (seen on-page).
+- **Character knowledge:** the whole team has now seen Theo's problem happen (and adapted the Stacks formation around it — Theo knows why and accepted it); Juno's over-feeding flaw is diagnosed openly in the team, with her old-team backstory ("uneconomical," failed ration drills) on-page; Ren knows what her casting costs from the inside — the only person who ever has.
+- **The plan (reader knows in full):** two maps, junction decision at the second-pillar water mark, retreat threshold, Ren's three-hazard spending plan + hard stop, Attend's 30-second door test. The stale-survey risk is explicitly planned for — if the Gate is worse than the wet map, that's beyond the plan's assumptions, fairly.
+- **Ada (first appearance):** knows her son enters a Gate on broadcast tomorrow; her doctrine and its origin (nine years of Trust combat) on-page.
+- **Reader still does NOT know:** anything about Cass's past; the Freeze incident itself (only its existence and mechanics); what the Stacks actually holds now (nobody does — that's the point); Attend's cost profile.
+
 ## New in ch. 2
 
 - **Mechanics now public to reader and team:** escort requires perceiving the charge (sight, probably — hearing insufficient); attention is the fuel (conversation degrades it); swap lag ≈ one breath; one charge / one burden at a time; Carry's willing-gate is live per-use; **grey-out drops sustained effects** (established when Doc's pack returned mid-stride); envelope shrinks with same-day reuse (second session ≈ shorter).
@@ -14,7 +23,7 @@
 
 - Ren's three skill texts verbatim; the exact-text folk rule (via Ren's trust in it); unindexed formally = unmeasured; Attendant = SVC-001, 11 ever, two valets, no footage of the skills in use. (Note: the tech's remark about his text is now "cleanest text I've projected all month" — the "knows what it's saying" phrasing was removed in the slack-rule revision.)
 - Escort demonstrated (cannot-stumble incl. shoulder-check; ~4-minute envelope at high demand); Carry demonstrated (touchless transfer, load lands on Ren); Attend untested.
-- Okafor finances in full; GS's desperation, rank (214), rent situation implied (building, taped gear); Marc→Kestrel Nine defection; the Stacks assignment + wipe stats.
+- The family finances in full (levy amounts, arrears, the Recovery Trust) — **but NOT the surname "Okafor", NOT District Nine, and NOT the Break backstory: none of that appeared on a published page until ch. 3.** (CORRECTION: this entry originally claimed otherwise — it had been written from the bible, not the page. The owner caught it: "Who are the Okafors?") GS's desperation, rank (214); Marc→Kestrel Nine defection; the Stacks assignment + wipe stats. Pip's bow likewise never appeared on-page in ch. 1–2 despite being bible canon.
 - **The reader does NOT yet know:** anything about Cass's past (no Vantage/Aldercourt mention on-page); GS's zero-casualty licence-survival record; the relegation stakes mechanics; Theo's on-camera history; term-drift; anything from `plan/`.
 
 ## Per character (ch. 1 state)

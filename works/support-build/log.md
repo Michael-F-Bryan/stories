@@ -103,3 +103,57 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Inference (confirmed by inventorying ch. 2's devices):** the slack rule fixed snap *density* but not snap *diversity*. Each beat had one snap, but the snaps were the same species — the wry qualifying tail ("...on the theory that people who owed money also had jobs", "...wearing the expression she reserved for financial institutions", "...which on Theo looked wrong", "that was the whole ceremony", "It wasn't a question."), a four-beat clipboard/note-taking running gag, two "said X instead of a greeting" intros, two "the way X does Y" similes. One register humming under everything = still reads authored-by-pattern.
 
 **Done — technique-declustering sweep of ch. 2 (8 edits):** clipboard gag cut to one payoff beat; wry tails converted to plain statements or different shapes (Theo's exit now a flat declarative pair; the stamp beat plain action; "He left the pause in"); greeting-intro deduped (Cass keeps hers, Bea's cut); simile-formula reduced ("the way a bodyguard shields a client" made specific; "expression she reserved for financial institutions" cut); second personification ("the corridor was waiting") cut, keeping only the rope-slack image. Third reader-taught rule → encoded in authors-voice as "vary the snap" (separate commit on main).
+
+---
+
+## 2026-07-11 — Chapter 3: "Burn Rate"
+
+**Owner:** "let's do it! write chapter 3 in its own branch so we can review it." First chapter written under the complete voice: three reader-taught rules + the North Star (earnest beats straight, voice-y interiority, wonder reserved for the Gate).
+
+**Done:** Full loop on `chapter/003`. Beat plan per handoff: days 2–8 compressed with explicit day labels; escort range test (clutter is the enemy); Theo's camera problem shown mechanically at the media day, answered by Cass's silent formation redraw; the upkeep experiment — Carry's burden ladder rung 2, which doubles as the Juno-flaw reveal from the inside (Ren pays her bill); plan night with the two-map junction protocol so the stale-survey risk fails fairly if it fails; Ada's first appearance; closing register = plain resolve/tension (vs ch. 1 warm, ch. 2 sober-wry). Draft ~2,050 → review → final ~1,950.
+
+**Adversarial review outcome (verdict: publishable after must-fixes; "measurably a different voice from ch. 1–2, moving in the owner's direction — not the same voice wearing new rules"):**
+- *Must-fixes:* Ada's "nineteen years" was arithmetically impossible (predates the Break AND Bea) → "nine years," which also ties her doctrine to District Nine; Ren's Juno diagnosis quoted facts he couldn't know (Gate behaviour he's never seen — the character bible speaking through his mouth) → confined to what the feed taught him plus inference; the fire-feed mechanics contained a self-contradicting clause ("no efficiency in him to soften it" vs "the text moved the cost") → transfer ruled exact, the enormous rate is Juno's over-feeding habit, not a property of small fires; the chapter's dominant device was meaning-by-omission at register strength (six "nobody said / didn't say / wasn't crying" constructions) → pruned to the two earned instances.
+- *Sharpest meta-finding, logged for the loop:* the uniformity tell migrates upward — ch. 1–2's every-sentence-lands became every-SCENE-EXIT-lands, and uniform wryness became uniform eloquent restraint. "The chapter learned 'don't quip on the feeling' and substituted 'meaningfully don't-say the feeling.'" Two scene exits decompressed; watch this at scene scale from now on.
+- *Should-fixes applied:* personification budget (kept the closer, flattened three others); whiteboard becoming the serial's emotional punctuation (two uses cut); ch. 2's closing armature repeated nearly verbatim (formula phrase cut, the failed-arithmetic subversion kept); narrator flash-forward cut (first POV-frame break in the serial); Juno POV leak fixed; Attend addressed at plan night (Cass wouldn't skip it); Ren's diagnosis de-aphorized (one corrective epigram, not three).
+- *Confirmed passing (protected):* day-count arithmetic clean throughout; Focus ladder; the Theo beat ("earnestness through practical action — the exact John Marsden register"); the spoonful and "I meant forms"; Cass's funeral line; numbers-as-stakes throughout; closing register requirement met; first italicised interiority in the serial passes the test.
+
+**Ledgers:** timeline/knowledge/character-state updated; burden ladder rung 2 recorded; nine new promises registered (the plan itself, break-glass, Attend's door test, Theo-on-camera, Juno's diagnosis). Next: the Stacks, ch. 4 — the serial's first Gate entry and first wonder beat.
+
+---
+
+## 2026-07-11 — Owner review of ch. 3 (PR #2): REJECTED pending massive overhaul
+
+**Owner (PR review + 13 inline comments + chat):** "I feel like we're slipping into bad habits again and the adversarial review isn't catching them." / "I don't approve this PR to be merged without doing a massive overhaul."
+
+**The comments, in full (feedback of record):**
+1. (L7) "Open ground is cheap. Clutter is the enemy." — sharp/literary/pithy talk banned for CHARACTERS too, not just narration.
+2. (L25) Pip re-fletching arrows — "I can't recall anything mentioning her being an archer" — reader-knowledge violation: her bow exists in the bible, never on a published page.
+3. (L19) Producer's "Twenty minutes of training footage, one line from the captain, we're gone by ten" — numbers in quick succession in fragments = AI hallmark, even in dialogue.
+4. (L11) "how this team's luck was distributed" — "kinda cute, but... don't make the reader work too hard to read between the lines. Keep your target audience in mind."
+5. (L93) Cass's clipped speech — "from a different character so we can't even chalk it up to one character's talking style."
+6. (L49) "which told Ren something about how the team ranked its dangers" — "So... how does the team rank its dangers? You can just tell me."
+7. (L51) Doc's rules speech — "I've told you before... It doesn't matter whether it's the narrator or a character saying it."
+8. (L13) "a rumour with a printout" — ban intangible-comparison metaphors for characters; "X had been a Y with a Z" is a common AI pattern.
+9. (L101) "If it reads expensive, it stays dark until we know the Gate." — "Grrr. We're falling into old habits again."
+10. (L77) clipped "impactful" phrasing "for the second or third time this scene and it's getting annoying."
+11. (L67) "I just paid it. Three minutes of holding, nothing else..." — clipped partial fragments in dialogue.
+12. (L107) "Who are the Okafors? And what about District Nine?... You can't just assume that something is a part of lore — it needs to be introduced and developed." — CRITICAL: the surname and the Break backstory were never published; the knowledge ledger falsely recorded them as on-page (ledger was written from the bible, not the page).
+13. (L123) Kit/equipment — "we haven't really touched on what equipment each of the characters have, or even how they fight... remarkably silent on that front." Content request: loadout/gear texture.
+
+**Diagnosis (three failures, not one):**
+- **Rule failure:** the North Star's "the character may perform" loophole was wrong — the pithy register is banned globally. Voice-y interiority means chatty/casual (the Kumoko mode), not compressed/epigrammatic. And implications must be stated plainly.
+- **Continuity-process failure:** knowledge ledger recorded bible facts as published canon → prose treated unpublished lore (Okafors, District Nine, Pip's bow) as common knowledge. The continuity check verified against the ledger, which was itself wrong.
+- **Review-process failure:** the adversarial review audits the DRAFT; revision edits go unreviewed (a duplicated simile was introduced by a fix); and the reviewer shares the writer's taste, so it enforces the rules as written rather than the owner's actual ear.
+
+**Plan:** (1) style-audit agent (mechanical device counting on the final text) already dispatched — fold its inventory in; (2) rules corrected in authors-voice + first-mention audit and final-text audit added to serial-process (main); (3) massive overhaul of ch. 3 on the branch: de-clip all dialogue and narration, state implications plainly, introduce the Okafor/District Nine backstory properly on-page, introduce Pip's bow before the fletching beat, add a loadout/kit scene (serves comment 13 and the pre-Gate structure), remove the banned metaphor patterns; (4) fix the false knowledge-ledger entries; (5) re-audit the overhauled text before pushing.
+
+## 2026-07-11 — Ch. 3 overhauled ("Burn Rate", final ~2,750 words)
+
+**Done, in order:** rules corrected on main first (plain-speech rule, structural budgets, first-mention audit, final-text audit — see repo log); then the full rewrite; then — per the new process — a mechanical budget audit on the rewrite BEFORE shipping. **The audit failed the first rewrite** (triads at 8x budget, five dialogue epigrams, both chapter-armature formulas repeated from ch. 2, compression re-concentrated in three hotspots) and prescribed 27 minimal edits. All 27 applied. This is the new process working: the failure was caught by counting before the owner ever saw it, instead of after.
+
+**What the overhaul changed (owner's 13 comments, all addressed):** every flagged pithy line rewritten as ordinary speech (Ren's range report, Doc's rules, Cass's briefing, the producer, the fire-scene dialogue); implication-lines now state their takeaways (the medic-outranks-the-captain point said plainly; Theo's forty-million line carries its own meaning; the "luck" line cut); "a rumour with a printout" and the intangible-metaphor pattern gone; **the Okafor surname and the District Nine Break backstory introduced properly on-page** (a backstory paragraph in the home scene, plus the League roster page Bea shows him); **Pip's bow established in scene 1** before the fletching beat; **a full loadout scene added** (Cass's dented shield and hammer, Theo's spare sword, Pip's quivers, Juno's banked-coal pots, Doc's stretcher, Ren's weaponless kit and the knife Cass issues) answering the equipment-silence comment and planting quiet gear promises; numbers now live inside sentences everywhere.
+
+**Ledger corrections:** the ch. 1 knowledge entry falsely claimed the District Nine backstory was on-page — corrected, with a note explaining the failure (ledger written from bible, not page). Timeline ch. 3 entry rewritten to match the overhauled text. New promises registered for the planted gear.
+
+**Merged on owner's explicit instruction** ("push your changes to GitHub and merge them"). Next task, owner-assigned: fine-tune the arc planning based on the accumulated guidance.
