@@ -137,6 +137,8 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
       'index.html',
     ]);
     assert.equal(await readFile(path.join(outputDir, '.story-publish-output'), 'utf8'), 'stories-publisher\n');
+    const stylesheet = await readFile(path.join(outputDir, 'assets', 'styles.css'), 'utf8');
+    assert.match(stylesheet, /\.book-header \.book-cover \{[^}]*margin: 0;/s);
 
     for (const forbidden of ['plan/', 'bible/', 'ledgers/', 'log.md', 'handoff.md']) {
       assert.ok(files.every((file) => !file.includes(forbidden)), `unexpected forbidden output path: ${forbidden}`);
@@ -144,6 +146,7 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
 
     const catalogue = await readFile(path.join(outputDir, 'index.html'), 'utf8');
     assert.match(catalogue, /<title>Stories<\/title>/);
+    assert.match(catalogue, /<link rel="icon" href="data:image\/svg\+xml,/);
     assert.match(catalogue, /Atlas &lt;One&gt; &amp; Co\./);
     assert.match(catalogue, /A mapmaker traces a city that keeps <em>changing<\/em> its name &amp; shape\./);
     assert.match(catalogue, /3 chapters/);
