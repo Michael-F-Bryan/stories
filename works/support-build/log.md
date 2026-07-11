@@ -157,3 +157,9 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Ledger corrections:** the ch. 1 knowledge entry falsely claimed the District Nine backstory was on-page — corrected, with a note explaining the failure (ledger written from bible, not page). Timeline ch. 3 entry rewritten to match the overhauled text. New promises registered for the planted gear.
 
 **Merged on owner's explicit instruction** ("push your changes to GitHub and merge them"). Next task, owner-assigned: fine-tune the arc planning based on the accumulated guidance.
+
+## 2026-07-11 — Arc plan fine-tuned (owner-assigned)
+
+**Owner:** "Then, I'll get you to go back and fine-tune the arc planning based on the guidance you've received so far."
+
+**Done (contents sealed per spoiler rule):** `plan/arcs.md` now opens with five binding craft directives distilled from all owner guidance to date — (1) no planned beat may depend on a quotable line; reveals land as plainly stated facts; (2) an introduction schedule applying the first-mention audit at arc scale, listing every lore element with an introduction debt and its deadline (several were scheduled to pay off without ever having been introduced on a page — the Okafors failure, caught at arc scale before it happened again); (3) equipment as a visible progression axis, answering the owner's gear comment, with specific gear payoffs planned; (4) wonder beats scheduled explicitly rather than left incidental; (5) motif budgets applied to planning, sincere beats played straight. Two arc-1 beats revised to comply, and ch. 4's duties expanded accordingly. Handoff rewritten for the ch. 4 session with the full rule stack.
