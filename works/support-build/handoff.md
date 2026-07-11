@@ -8,6 +8,7 @@
 
 **Warnings:**
 - **Register rule (from the adversarial review — enforce every chapter):** facts in narration, good lines in mouths. The wry-narrator habit is the serial's biggest style risk. Scene-1-of-ch.-1 density is the ceiling, not the norm.
+- **The slack rule (owner feedback on ch. 1 — now in the authors-voice skill):** one snap per beat; terse means fewer words, not sculpted words; bit players speak plainly; let ordinary sentences be ordinary. Ch. 1 was revised under this rule — it is the calibration example. Run the cadence audit on every draft.
 - Vary the closing note from ch. 1 (ended warm joke over dread). Ch. 2 should close differently.
 - Ren's 4-minute envelope is now a promised hard limit — training should make it worse before the Stacks makes it matter.
 - Don't answer "burden" or the escort edges too fast; the tabled questions are arc fuel, one rung per chapter.

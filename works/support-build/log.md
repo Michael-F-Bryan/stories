@@ -59,3 +59,11 @@ Lab notebook for this serial: prompts, feedback, decisions, tasks. Newest entrie
 **Owner:** Enjoying it so far, but the style has an "uncanny valley" quality — "almost, I dunno, clipped?" Cited: Cass's "It waits for a Gate. Contract." — "isn't something you would see from a typical human author," and notes many different AIs share this same style. Asked for help articulating the problem: find similar passages plus a near-miss version he'd like.
 
 **Action:** Diagnosis delivered in chat (punchline density / sculpted fragments / compression-personification / no slack — terseness as performance rather than economy). Awaiting owner's confirmation of the diagnosis before encoding a counter-rule into the authors-voice skill and revising ch. 1.
+
+## 2026-07-11 — Ch. 1 reworked under the slack rule
+
+**Owner:** Confirmed the diagnosis enthusiastically ("no pressure to fill everything with smart quips... lets the story talk for itself") and asked for the skill update plus a chapter rework. Skill updated in its own commit (see repo log).
+
+**Done — de-clipping pass on ch. 1 (~13 revisions):** the three owner-approved rewrites applied verbatim (the Attend/"Contract." passage, the "room read her reading it" mirror, the tech's three-step aphorism → "reads like tax law"); Cass's beat-drop dialogue decompressed throughout ("Licence?" → "Have you got a licence?", "Questions." → "Any questions?", "Again." → "Go again", "a question with edges" → plain statement); narration fragment-closers folded into ordinary sentences ("Twenty-two minutes of margin", the "Still on the strap. Still visibly there." stack, the Index-61 opening fragments); one em-dash apposition explaining an emotional beat trimmed. Kept, deliberately: the chapter's earned snaps — one per beat — including "proposed and declined", "He didn't touch the bag...", "Friday was tomorrow", "It rounds up", "Sign her too", and the closing "Yes".
+
+**Ledger sync:** two promises-ledger quotes and one knowledge-ledger note updated to match revised text. Handoff now carries the slack rule as a standing warning with ch. 1 as the calibration example.

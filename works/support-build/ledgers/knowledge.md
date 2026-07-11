@@ -4,7 +4,7 @@
 
 ## The reader knows (through ch. 1)
 
-- Ren's three skill texts verbatim; the exact-text folk rule (via Ren's trust in it); unindexed formally = unmeasured; Attendant = SVC-001, 11 ever, two valets, no footage of the skills in use.
+- Ren's three skill texts verbatim; the exact-text folk rule (via Ren's trust in it); unindexed formally = unmeasured; Attendant = SVC-001, 11 ever, two valets, no footage of the skills in use. (Note: the tech's remark about his text is now "cleanest text I've projected all month" — the "knows what it's saying" phrasing was removed in the slack-rule revision.)
 - Escort demonstrated (cannot-stumble incl. shoulder-check; ~4-minute envelope at high demand); Carry demonstrated (touchless transfer, load lands on Ren); Attend untested.
 - Okafor finances in full; GS's desperation, rank (214), rent situation implied (building, taped gear); Marc→Kestrel Nine defection; the Stacks assignment + wipe stats.
 - **The reader does NOT yet know:** anything about Cass's past (no Vantage/Aldercourt mention on-page); GS's zero-casualty licence-survival record; the relegation stakes mechanics; Theo's on-camera history; term-drift; anything from `plan/`.

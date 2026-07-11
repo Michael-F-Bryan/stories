@@ -4,7 +4,7 @@ The kid at station four came up Striker with a Potential Index of 61, and the re
 
 Ren watched from the plastic chairs. Six of them had converged — windbreakers in guild colours, tablets out, all talking at once while the kid's mother cried into his shoulder. Somebody from Vesper Youth was already walking him toward the consultation booths with a hand on his back, like the kid might otherwise wander into traffic.
 
-Index 61. A one-in-a-thousand number. The hall had applauded, which the signage specifically asked people not to do.
+An Index of 61 was a one-in-a-thousand number. The hall had applauded, even though the signage asked people not to.
 
 "One-seventeen."
 
@@ -60,9 +60,9 @@ She stopped, fingers over the keys. She looked at him properly for the first tim
 
 Behind him, a recruiter in a Vesper windbreaker called out a number that wasn't his.
 
-The tech handed him the printout, still warm. "For what it's worth," she said, quietly, "the text on yours is clean. Some kits read like they were translated twice. Yours knows exactly what it's saying."
+The tech handed him the printout, still warm. "For what it's worth," she said, quietly, "that's the cleanest text I've projected all month. Most of them read like tax law."
 
-He thanked her. It was the nicest thing anyone would say to him until Friday.
+He thanked her. Nobody said anything kinder to him for the rest of the week.
 
 ---
 
@@ -104,13 +104,13 @@ The gym had been something else first — the bolt-holes of old machinery still 
 
 "See?" said the quick man, to the room. "The universe provides. What are you, wait, don't tell me." He pointed. "Scout. No. Striker-lite. One of those dodgy dual kits—"
 
-"Theo," the tall woman said, and he stopped like a tap shutting off. She came around the table. "Cass Ferro. Captain. Licence?"
+"Theo," the tall woman said, and he stopped like a tap shutting off. She came around the table. "Cass Ferro. Captain. Have you got a licence?"
 
 "Provisional. It converts if a team files me." Ren handed her the assessment printout, because there was no point doing this slowly. "You'll want to read that first."
 
-She read it. The room read her reading it.
+She read it. Theo drifted over to read it too, and she angled the page away from him without looking up.
 
-"Huh," she said, which was the same thing the tech had said, except pointed the other way. She read it again — he watched her do it, watched her go back to the top and take the text a second time, and he quietly put away the speech he'd rehearsed on the bus, because he wasn't going to need it. Then she said: "Read me Escort. Aloud. Slowly."
+"Huh," she said, which was the same thing the tech had said, except pointed the other way. She read it again — he watched her do it, watched her go back to the top and take the text a second time, and he quietly put away the speech he'd rehearsed on the bus, because he wasn't going to need it. Then she said: "Read me Escort out loud. Slowly."
 
 "'Designate a party member as your charge,'" Ren said. "'While you escort your charge, they move fifteen per cent faster and cannot stumble.'"
 
@@ -126,7 +126,7 @@ She read it. The room read her reading it.
 
 "Eleven recorded Attendants ever," the girl on the lockbox said, to her phones. "None have played league. There's no footage. Priors are undefined." She said *undefined* the way other people say *thin ice*.
 
-"Correct," Cass said. "So we make some. Pip, the beam. Juno, oil it. Mats first."
+"Correct," Cass said. "So we'll make some. Pip, get on the beam. Juno, oil it. Mats down first."
 
 "Oil it?" said the burn-scarred woman, already moving. "Okay, so, for the record, when we lose the bond on this floor—"
 
@@ -150,11 +150,11 @@ Cass, from the floor: "'While you escort.' You're standing still, forty feet awa
 
 "It fired, so — yes? It wants my attention on her route. That's all I know so far."
 
-"Then that's a question with edges." She nodded at Pip. "We'll find them in training. Again."
+"Then we don't know where its edges are yet." She nodded at Pip. "We'll find out in training. Go again."
 
 They did it again. The fourth run, Cass stepped up onto the mezzanine, waited for Pip mid-beam, and shoulder-checked her — not gently. Pip's whole body tipped, her feet reorganised underneath her like cards being cut, and she came out of it still on the beam, swearing in a small precise voice, upright.
 
-By then the room had gone narrow for Ren, like looking down a tube, and there was a whine in his hearing like a fridge two rooms away. He put a hand on the rail and made himself report it. "That's my edge. Four minutes of it, on terrain, at her speed. Then I'm no use to anyone."
+By then the room had gone narrow for Ren, like looking down a tube, and there was a whine in his hearing like a fridge two rooms away. He put a hand on the rail and made himself report it. "That's my limit. Four minutes, on terrain, at her speed. After that I'm no use to anyone."
 
 "He budgets," said the burn-scarred woman — Juno — with an odd note, like the word was exotic.
 
@@ -164,7 +164,7 @@ Juno's kit duffel weighed what a kit duffel weighs when its owner packs spare ev
 
 He didn't touch the bag. He stood three metres away and took it up.
 
-The weight arrived across his shoulders and hips like he'd shrugged into a harness — real weight, his knees heard about it immediately — and Juno straightened out of her five-degree tilt all at once, over-corrected, and had to catch the wall, laughing, with the duffel still hanging off her shoulder. Still on the strap. Still visibly there. Weighing, as far as her body was concerned, nothing.
+The weight arrived across his shoulders and hips like he'd shrugged into a harness — real weight, his knees heard about it immediately — and Juno straightened out of her five-degree tilt all at once, over-corrected, and had to catch the wall, laughing, with the duffel still hanging off her shoulder. It was still on its strap, still visibly there, and as far as her body was concerned it weighed nothing at all.
 
 She jumped. The bag jumped with her like it was empty. Across the room, Ren's knees flexed as thirty kilos of spare everything landed on him instead.
 
@@ -176,11 +176,11 @@ She jumped. The bag jumped with her like it was empty. Across the room, Ren's kn
 
 "Mm." The needles started again. "Interesting word, burden."
 
-Cass looked at the third skill on the printout for a while. "Attend needs somewhere worth perceiving," she said, finally. "It waits for a Gate. Contract."
+Cass read the third skill again and set the printout down. "We're not testing that one in a gym. It can wait until there's a Gate around it." She went back to the table and dug the contract out from under the laptop. "Come sign before I remember what I'm agreeing to."
 
-Cass was back at the table, writing. "League minimum, twenty-six hundred a month, signing bonus is the mandated eight. I can't pay a mark over minimum and this building is the facilities tour you already had. Questions."
+"League minimum," she said, when he got there. "Twenty-six hundred a month, and the signing bonus is the mandated eight. I can't pay a mark over minimum, and this building is the facilities tour you already had. Any questions?"
 
-It wasn't a question mark but Ren treated it like one. He read the contract. Then he read it again, and the room, which had started tidying up around him, slowly stopped tidying and watched him do it, and he let them watch. House rule: the document says what it says. He photographed the pages and sent them to Bea.
+He read the contract. Then he read it again, and the room, which had started tidying up around him, slowly stopped tidying and watched him do it, and he let them watch. House rule: the document says what it says. He photographed the pages and sent them to Bea.
 
 The reply took ninety seconds. *clause nine. exit penalty says "costs and damages" but no cap. get a cap.*
 
@@ -202,7 +202,7 @@ Ren signed. Cass signed. Nobody applauded, which after the assessment hall felt 
 
 "Pip," Cass said. "File it."
 
-Pip filed the roster amendment from the lockbox, both thumbs going, at 16:22 on deadline day. The confirmation came back at 16:38: ROSTER CONFIRMED — GRAVE SOCIETY (6/6). Twenty-two minutes of margin. Theo declared it the least stressful registration in club history, and the terrifying thing, Juno told Ren, was that this was true.
+Pip filed the roster amendment from the lockbox, both thumbs going, at 16:22 on deadline day. The confirmation came back at 16:38 — ROSTER CONFIRMED, GRAVE SOCIETY (6/6) — with twenty-two minutes of margin. Theo declared it the least stressful registration in club history, and the terrifying thing, Juno told Ren, was that this was true.
 
 The second email arrived at 17:04, four minutes after lock.
 
@@ -210,7 +210,7 @@ The second email arrived at 17:04, four minutes after lock.
 
 Cass read it off the laptop, flat as a shipping notice. "Qualifier one. The Stacks. C-grade. We're scheduled in nine days."
 
-The tidying stopped again. Theo said, "The Stacks is a *C*," in a voice with nothing performed in it at all, and that — more than the grade, more than the room going still — was what told Ren the number meant something.
+The tidying stopped again. Theo said, "The Stacks is a *C*," in a voice with nothing performed in it at all, and that was what told Ren the grade meant something.
 
 "Four teams have wiped in the Stacks since Year Nineteen," Pip said, to her phones. "Median time-to-wipe, eleven minutes."
 
