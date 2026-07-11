@@ -84,3 +84,11 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Why:** Owner PR-review comment on ch. 2 (the Trust counter scene): "AIs like to generate lots of logistics/accounting-ish prose, when really the reader doesn't care too much for the specific details… it's important that she notices they've messed up a payment and is correcting them, but we don't need to go into so much detail." Second style rule taught by the owner-as-reader (after the slack rule). Notable tension resolved: the adversarial reviewer had pushed *toward* on-page figures (auditability); the refined rule keeps both masters — events on the page, arithmetic in the ledgers.
 
 **Change:** New bullet in the authors-voice slack-rule section. Chapter 2's Trust scene revised accordingly on the `chapter/002` PR branch (prose commit, separate from this one).
+
+---
+
+## 2026-07-11 — Process change: "vary the snap" added to the slack rule
+
+**Why:** Owner follow-up on ch. 2 (from phone, after his three inline comments were applied): "we're still falling back into old habits... it's less about individual words or passages, and more about how frequently the same techniques are used close together." He asked me to infer the specifics. Inference, confirmed by inventorying ch. 2: the slack rule policed snap *density* (one per beat) but not snap *diversity* — the chapter's snaps were overwhelmingly one species (the wry qualifying tail), plus a running clipboard gag, duplicate greeting-intros, and a repeated simile formula. Same register in every beat = still machine-patterned, even at legal density.
+
+**Change:** "Vary the snap" bullet added to the authors-voice slack-rule section, and the cadence-audit checklist step now requires a by-type inventory of surviving snaps across the chapter — any device used twice gets its second use converted or cut. Chapter 2 swept accordingly on the PR branch (8 edits, prose commit separate from this one). Third reader-taught rule in two days: slack (density) → numbers-are-stakes (content) → vary-the-snap (distribution).
