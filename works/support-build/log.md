@@ -67,3 +67,39 @@ Lab notebook for this serial: prompts, feedback, decisions, tasks. Newest entrie
 **Done — de-clipping pass on ch. 1 (~13 revisions):** the three owner-approved rewrites applied verbatim (the Attend/"Contract." passage, the "room read her reading it" mirror, the tech's three-step aphorism → "reads like tax law"); Cass's beat-drop dialogue decompressed throughout ("Licence?" → "Have you got a licence?", "Questions." → "Any questions?", "Again." → "Go again", "a question with edges" → plain statement); narration fragment-closers folded into ordinary sentences ("Twenty-two minutes of margin", the "Still on the strap. Still visibly there." stack, the Index-61 opening fragments); one em-dash apposition explaining an emotional beat trimmed. Kept, deliberately: the chapter's earned snaps — one per beat — including "proposed and declined", "He didn't touch the bag...", "Friday was tomorrow", "It rounds up", "Sign her too", and the closing "Yes".
 
 **Ledger sync:** two promises-ledger quotes and one knowledge-ledger note updated to match revised text. Handoff now carries the slack rule as a standing warning with ch. 1 as the calibration example.
+
+---
+
+## 2026-07-11 — Chapter 2: "Cargo"
+
+**Owner:** "plan and write the next chapter in a side branch and make a PR once you are done? I'll provide feedback on the chapter using review comments." New review workflow: chapter branches + PRs; owner comments inline.
+
+**Done:** Full chapter loop on branch `chapter/002`. Beat plan: first training day (edge-mapping Escort/Carry honestly), the bonus meets the levy (Trust office with Bea), the corridor drill proves the build (74s → 57s, checkable), Ren's first true grey-out prices the envelope, qualifier-week preview sets rivalry temperature and re-opens Theo's wound. Closing note: sober cost, against ch. 1's warm joke. Draft 1,975 words → adversarial review (now standing loop step 6) → final ~2,150.
+
+**Adversarial review outcome (verdict: publishable after must-fixes; slack rule confirmed holding, "pendulum has not swung to limpness"):**
+- *Must-fixes:* the 8,000 bonus was spent without arriving on-page (fixed: League pays on roster confirmation, Bea verified the 9:04 transfer); "five years of the lemon-magnet letter, ended" was doubly wrong — arrears date from Year 20 and nothing ended (fixed: two years of the penalty line ended; the hole is 29,500 with a schedule); the "load-bearing" beat stacked four quotables (thinned — Pip's reaction played plain, Doc's topper cut).
+- *Should-fixes:* the on-page "test hearing tonight" promise now gets its result (sight, probably); the grey-out now visibly drops Carry (Doc's pack returns mid-stride — deliberately established as canon the Gate chapters will need); Theo's exit de-riddled; personification count brought inside budget; the corridor calibrated to the League's standard extraction layout so the median comparison is honest; division-median stack trimmed.
+- *Considers adopted:* bus arithmetic corrected (eight days, seven mornings); Cass visibly declines to whiteboard the grey-out run; Trust scene gained a 37-mark counter-snag (opposition the office's canon demands — and Bea wins it).
+- Reviewer confirmed passing: Focus ladder order, all money arithmetic, voices cover-the-tags, broadcast cast against factions.md, closing-note variation. Flagged for ch. 3: don't make it three light endings in a row; Juno's overcasting is overdue to be *shown*.
+
+**Ledgers:** timeline/knowledge/character-state/promises all updated; first promise marked paid (levy payment landed on-page, ch. 2); seven new promises registered.
+
+---
+
+## 2026-07-11 — Owner PR review comments on ch. 2 (PR #1), applied
+
+Three inline comments; all applied and pushed to `chapter/002`:
+
+1. **Line 9 — "stop answering questions with actual words" unclear.** The owner had to ask what physically happened, which is the calibration test failing by definition. Rewritten concrete: a grunt and a so-so tilt of one hand.
+2. **Line 47 — Doc's "It asks first" too profound.** Owner's instinct matches the slack rule better than the line did. Doc's beat is now "Polite," — dry, small, no thesis. Also cut the propping simile ("the way he nodded at a wound...") and the dark-hint clause ("menders who don't"), which was unearned foreshadow anyway.
+3. **Line 83 — the Trust counter scene reads uncanny: "AIs like to generate lots of logistics/accounting-ish prose."** A new named diagnosis from the owner: the *event* (they misbilled; Bea caught it) is what the reader needs, not the reconciliation transcript. Scene rewritten — no figures spoken at the counter, no itemised read-back; the clerk "quoted a figure a little higher than Bea's" and the screen "came down to her number." Bench beat de-numbered too. NOTE: the itemised version had been added on the adversarial reviewer's advice (it wanted the scene's opposition beat + auditable numbers). The owner's ruling refines, not reverses: keep the opposition, lose the arithmetic. True figures stay in the ledgers.
+
+Comment 3 is a second reader-taught style rule → encoded in authors-voice ("numbers are stakes, not bookkeeping"), committed separately on main per conventions.
+
+## 2026-07-11 — Owner follow-up: "same techniques used close together"
+
+**Owner (from phone):** "it's pretty good, but I reckon we're still falling back into old habits... it's less about individual words or passages, and more about how frequently the same techniques are used close together." Asked me to infer the specifics and correct.
+
+**Inference (confirmed by inventorying ch. 2's devices):** the slack rule fixed snap *density* but not snap *diversity*. Each beat had one snap, but the snaps were the same species — the wry qualifying tail ("...on the theory that people who owed money also had jobs", "...wearing the expression she reserved for financial institutions", "...which on Theo looked wrong", "that was the whole ceremony", "It wasn't a question."), a four-beat clipboard/note-taking running gag, two "said X instead of a greeting" intros, two "the way X does Y" similes. One register humming under everything = still reads authored-by-pattern.
+
+**Done — technique-declustering sweep of ch. 2 (8 edits):** clipboard gag cut to one payoff beat; wry tails converted to plain statements or different shapes (Theo's exit now a flat declarative pair; the stamp beat plain action; "He left the pause in"); greeting-intro deduped (Cass keeps hers, Bea's cut); simile-formula reduced ("the way a bodyguard shields a client" made specific; "expression she reserved for financial institutions" cut); second personification ("the corridor was waiting") cut, keeping only the rope-slack image. Third reader-taught rule → encoded in authors-voice as "vary the snap" (separate commit on main).
