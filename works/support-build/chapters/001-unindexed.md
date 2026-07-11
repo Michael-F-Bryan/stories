@@ -4,9 +4,9 @@ The kid at station four came up Striker with a Potential Index of 61, and the re
 
 Ren watched from the plastic chairs. Six of them had converged — windbreakers in club colours, tablets out, all talking at once while the kid's mother cried into his shoulder. Somebody from Vesper Youth was already walking him toward the consultation booths with a hand on his back, like the kid might otherwise wander into traffic.
 
-Ren had grown up inside all of it, like everyone his age, so the facts sat in his head next to road safety. Twenty-two years ago the first Gate had torn open — a standing hole in the air, with somewhere else on the far side — and the things living in that somewhere came out, and three thousand people died. The System arrived the same year, from nowhere anyone could name, and it chose people: roughly one in eight hundred, each issued a class — a name and a short list of skills, set out as exact text on a panel only its owner could perceive. Gates had kept opening ever since, each on its own term clock, and a Gate nobody cleared from the inside burst when the clock ran out. So clearing them became work for the awakened, and the Gate League — which had learned early that forty million people would watch a clearance with cameras inside it — turned that work into the biggest sport in the country. People counted the years from that first Gate. This was Year 22.
+Ren had grown up inside all of it, like everyone his age; the schools taught it alongside road safety. Twenty-two years ago the first Gate had torn open — a standing hole in the air, with somewhere else on the far side — and things had come out of it, and three thousand people had died. The System arrived in the same year, and nobody understood that either. It chose people, roughly one in eight hundred, and issued each of them a class: a name and a short list of skills, set out as exact text on a panel only its owner could perceive. Gates had kept opening ever since, each on its own term clock, and a Gate nobody cleared from the inside burst when the clock ran out. So clearing them became work for the awakened, and the Gate League — which had learned early that forty million people would watch a clearance with cameras inside it — turned that work into the biggest sport in the country. People dated everything from that first Gate; this was Year 22.
 
-Verification was the last compulsory step of assessment: a new panel had to be brought to a hall like this one within thirty days and read out by an Authority terminal, in public, where it couldn't be faked — which was why the recruiters worked these halls. Striker was the commonest class the System issued; nearly a third of the awakened came up Striker, and its skills were built for damage, which was what the sport measured and what the clubs paid for. The Potential Index put a number on all of it — the League's own forecast, run off assessment telemetry, of how much damage a new player's kit would someday deal. An Index of 61 was a one-in-a-thousand number. The hall had applauded, even though the signage asked people not to.
+Verification was the last compulsory step of assessment: a new panel had to be brought to a hall like this one within thirty days and read out by an Authority terminal, in public, where it couldn't be faked — which was why the recruiters worked these halls. Striker was the commonest class the System issued; nearly a third of the awakened came up Striker, and its skills were built for damage, which was the thing the League's scoring actually measured. The Potential Index put a number on all of it — the League's own forecast, run off assessment telemetry, of how much damage a new player's kit would someday deal. An Index of 61 was a one-in-a-thousand number. The hall had applauded, even though the signage asked people not to.
 
 "One-seventeen."
 
@@ -84,7 +84,7 @@ The filter was set to Division D — the bottom of the league's four — radius:
 
 GRAVE SOCIETY (D — 214). SIXTH WANTED BEFORE FRIDAY 1700. ANY CLASS CONSIDERED. MUST HOLD OR PASS LICENSING BY DEADLINE. SERIOUS APPLICANTS ONLY. WE ARE SERIOUS. PLEASE.
 
-Ren looked up the rank. There were two hundred and fifteen licensed teams in the country.
+Ren looked up the rank. There were two hundred and fifteen licensed teams in the country, which put Grave Society one place off the bottom of the entire sport.
 
 The address was in District Seven, above a laundromat.
 
@@ -214,7 +214,7 @@ The second email arrived at 17:04, four minutes after lock.
 
 Cass read it off the laptop, flat as a shipping notice. "Qualifier one. The Stacks. C-grade. We're scheduled in nine days."
 
-The tidying stopped again. The grading scale was news-ticker knowledge: the Authority graded every Gate off what its instruments read at the mouth, E to S, mildest to worst. Division D teams drew E's and D's.
+The tidying stopped again. Everyone knew the grading scale from the news: the Authority graded every Gate off what its instruments read at the mouth, running from E at the mild end up to S. Division D teams drew E's and D's, and a C was supposed to go to teams two divisions higher.
 
 Theo said, "The Stacks is a *C*," in a voice with nothing performed in it at all.
 

@@ -180,3 +180,18 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Process change (separate commit, reasoning in repo log):** cold-reader rule added to authors-voice; first-mention audit in serial-process extended to world terminology with "introduced means grounded, not merely used."
 
 **Ledgers/handoff:** knowledge ledger gains a cold-reader-pass section (what's now on-page vs still not); README word counts refreshed (ch. 3's was stale from before the overhaul); handoff updated for the ch. 4 session.
+
+## 2026-07-11 — Owner feedback: banned patterns in the cold-reader pass, fixed
+
+**Owner:** "It looks like you've introduced some banned patterns again. Look through the feedback you've received so far and see if you can identify+address the passages I'm referring to. There are probably two or three per scene."
+
+**Root cause, logged honestly:** this is the documented ch. 3 failure mode repeating — post-review revisions are unreviewed text. The adversarial review ran on the first draft of the grounding pass, but the fixes I applied *after* it never got the mechanical final-text audit (serial-process step 8), and several of those fixes reinstalled banned devices. The process step existed and was skipped; no rule change needed, just the discipline.
+
+**Identified and fixed (all in text added during the cold-reader pass):**
+- Ch. 1 scene 1: "the things living in that somewhere came out" (coy withholding → "things had come out of it"); "from nowhere anyone could name" (wry tail → "nobody understood that either"); "which was what the sport measured and what the clubs paid for" (balanced matched-clause pair → single plain clause); "People counted the years from that first Gate. This was Year 22." (beat-drop pair → one ordinary sentence).
+- Ch. 1 scene 2: "There were two hundred and fifteen licensed teams in the country." (implication line making the reader do the arithmetic → now says it: one place off the bottom of the entire sport).
+- Ch. 1 scene 3: "The grading scale was news-ticker knowledge" (sculpted compression → "Everyone knew the grading scale from the news"); "E to S, mildest to worst. Division D teams drew E's and D's." (fragment pair + withheld takeaway → plain sentence stating that a C belongs two divisions higher).
+- Ch. 2: "whatever the Gate would actually throw" (personified Gate, over budget → "the things they would actually meet inside"); "the channel that lived off league failures" (sculpted wry appositive → "a channel that collected the league's worst moments").
+- Ch. 3: Theo's "full runs against dummies, telemetry-scored, no cameras" (fragment-list dialogue — the same pattern as PR #2's producer line → full conversational clauses); "Everything else on the maps was the walk there and back." (epigram button → plain); Pip's marks/signs antithesis (→ plain causal sentence).
+
+**Re-audit of the replacements:** no fragments, no balanced pairs, no personification, no new triads; takeaways stated. Lesson reinforced for future sessions: the final-text audit is not optional after ANY edit, including edits made in response to a review — that is the third time this exact lesson has been paid for.

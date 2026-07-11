@@ -86,7 +86,7 @@ Outside, on the bench by the bus stop, Bea updated the spreadsheet on her phone 
 
 The evening session started with the hearing test. Pip stood behind the pillar counting aloud, and the escort let go the moment she stepped out of sight, voice or no voice. Cass amended her note to *sight, probably* and moved on.
 
-The corridor was Cass's copy of the standard extraction drill — the one every club in the league trains and times the same way — rebuilt from what the gym had: laundry carts to squeeze past, the oiled patch, a low scaffold to duck, and a forty-kilo sandbag on a stretcher standing in for a casualty. Theo threw tennis balls to stand in for whatever the Gate would actually throw. The rule was simple: if a stretcher carrier stumbled or the sandbag touched the floor, the run reset. Their five-man record, Pip informed Ren, was seventy-four seconds, with two resets in the attempt.
+The corridor was Cass's copy of the standard extraction drill — the one every club in the league trains and times the same way — rebuilt from what the gym had: laundry carts to squeeze past, the oiled patch, a low scaffold to duck, and a forty-kilo sandbag on a stretcher standing in for a casualty. Theo threw tennis balls to stand in for the things they would actually meet inside. The rule was simple: if a stretcher carrier stumbled or the sandbag touched the floor, the run reset. Their five-man record, Pip informed Ren, was seventy-four seconds, with two resets in the attempt.
 
 "Median extraction split for the division is sixty-five," she added. "We have never been under seventy."
 
@@ -124,7 +124,7 @@ The preview was the League's qualifier-week show, Division D edition. They gathe
 
 They also had a clip of Dree Vann, Kestrel's captain, immaculate in club colours, being asked about the bottom of her division signing an Attendant. She smiled. "I think it's wonderful when clubs get creative. Development is a broad church."
 
-The chat scrolled too fast to read, except that Pip could read it, and Ren watched her decide not to say what was in it. He saw it anyway. Somebody had posted the Ganz Freeze — the old clip, forty-one seconds of Theo not moving in the middle of a fixture, watermarked by ClearanceSale, the channel that lived off league failures — and the laughing emotes were still climbing.
+The chat scrolled too fast to read, except that Pip could read it, and Ren watched her decide not to say what was in it. He saw it anyway. Somebody had posted the Ganz Freeze — the old clip, forty-one seconds of Theo not moving in the middle of a fixture, with the watermark of ClearanceSale, a channel that collected the league's worst moments — and the laughing emotes were still climbing.
 
 Theo had been halfway through a joke about Vann's dental work. He didn't finish it. He picked up his bag, said, "Six is disgusting, see you all at the other six," and went down the stairs at an ordinary walking pace. Theo didn't do anything at an ordinary pace.
 
