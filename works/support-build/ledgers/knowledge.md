@@ -2,6 +2,14 @@
 
 *Who knows what, when they learned it (chapter), and what they wrongly believe. Also defines what the READER can be assumed to know — if it isn't on the page, it isn't known.*
 
+## New in ch. 3
+
+- **Mechanics now public:** escort holds ~60 m in open ground and depends on continuous tracking, not distance (clutter is the enemy); Carry's "burden" includes skill upkeep — the transfer is exact (payer receives the owner's actual feed, unsoftened); upkeep-Carry costs Ren most of a morning per ~3 minutes at Juno's rate; team rule: break-glass only in a Gate. Theo's chain mechanically dies under a live camera (seen on-page).
+- **Character knowledge:** the whole team has now seen Theo's problem happen (and adapted the Stacks formation around it — Theo knows why and accepted it); Juno's over-feeding flaw is diagnosed openly in the team, with her old-team backstory ("uneconomical," failed ration drills) on-page; Ren knows what her casting costs from the inside — the only person who ever has.
+- **The plan (reader knows in full):** two maps, junction decision at the second-pillar water mark, retreat threshold, Ren's three-hazard spending plan + hard stop, Attend's 30-second door test. The stale-survey risk is explicitly planned for — if the Gate is worse than the wet map, that's beyond the plan's assumptions, fairly.
+- **Ada (first appearance):** knows her son enters a Gate on broadcast tomorrow; her doctrine and its origin (nine years of Trust combat) on-page.
+- **Reader still does NOT know:** anything about Cass's past; the Freeze incident itself (only its existence and mechanics); what the Stacks actually holds now (nobody does — that's the point); Attend's cost profile.
+
 ## New in ch. 2
 
 - **Mechanics now public to reader and team:** escort requires perceiving the charge (sight, probably — hearing insufficient); attention is the fuel (conversation degrades it); swap lag ≈ one breath; one charge / one burden at a time; Carry's willing-gate is live per-use; **grey-out drops sustained effects** (established when Doc's pack returned mid-stride); envelope shrinks with same-day reuse (second session ≈ shorter).

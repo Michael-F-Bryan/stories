@@ -2,6 +2,17 @@
 
 *Current arc position vs the bible's starting states. Updated when it moves.*
 
+## As of ch. 3 (eve of the Stacks)
+
+- **Ren:** Envelope mapped and respected — called "Symptom" at first onset (growth from ch. 2's push-through). Has a formal spending plan for the Gate and has internalized the stakes ("I'm not going grey inside a Gate"). Read Juno's bill from the inside; the team's trust in him is now personal, not just tactical. Home: fed, blessed ("read it twice"), slept badly.
+- **Cass:** Planning doctrine on full display — two maps, retreat threshold, role redesign around Theo's camera problem done silently. Ratified "break-glass only." Past still untouched.
+- **Theo:** Problem now witnessed by the whole team and by the reader, mechanically. Accepted the formation change ("Solid plan"). The bench exchange with Ren is the closest he's come to talking about it. Volatile going into a broadcast Gate.
+- **Juno:** Flaw shown, named, and reframed (wants to spend so nothing gets through). Received the first real understanding of her career; deflected into feeding people, but "nobody audits me except the butler" is trust. Watch: does the diagnosis change her behaviour in the Gate, or does fear override it?
+- **Pip:** Two-map system is hers; junction protocol is hers. Carrying the team's epistemics into the Gate.
+- **Doc:** Ran the experiment as safety officer; authored the break-glass rule. His ch. 2 warning stands loaded.
+- **Ada:** On-page now. Swapped a Saturday shift to feed her son before the Gate. Doctrine: read everything twice.
+- **Bea:** Fixture alert set. "wrong."
+
 ## As of ch. 2
 
 - **Ren:** First full training day; envelope mapped (≈4 min high-demand fresh, less on reuse); first true grey-out experienced and its price felt (evening lost, hands stupid). Family arrears dead — the acute money pressure is off; the chronic schedule remains. Beginning to be treated as a working part, not cargo.

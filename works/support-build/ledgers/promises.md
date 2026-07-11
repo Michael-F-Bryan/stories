@@ -5,7 +5,7 @@
 | Promise | Planted (ch.) | Weight | Status | Paid (ch.) |
 |---|---|---|---|---|
 | "Cannot stumble" — definition has unexplored edges; escort-verb/range question explicitly tabled by Cass ("we don't know where its edges are yet... we'll find out in training") | 1 | major | open | — |
-| Carry's "burden" undefined — Doc: "Interesting word, burden" | 1 | major | open | — |
+| Carry's "burden" undefined — Doc: "Interesting word, burden" | 1 | major | open — rung 2 paid ch. 3 (upkeep proven; ladder continues) | — |
 | [Attend] untested — "waits for a Gate" | 1 | minor | open | — |
 | Unindexed formally means unmeasured, not zero — tech: "it prints the same either way" | 1 | major | open | — |
 | Assessment tech: Ren's skill text is unusually clean ("the cleanest text I've projected all month") | 1 | minor | open | — |
@@ -22,3 +22,11 @@
 | Preview prediction: GS 71st of 71; Kef cited their zero-flag record on air | 2 | minor | open | — |
 | Dree Vann's "Development is a broad church" — rivalry temperature set | 2 | minor | open | — |
 | Cass left the grey-out run off the whiteboard — small unremarked kindness/doctrine | 2 | minor | open | — |
+| Escort range: ~60 m open-ground, tracking-dependent; "clutter is the enemy" — the Stacks is clutter | 3 | major | open (must matter at the Gate) | — |
+| "Break-glass only": upkeep-Carry reserved for "the day nothing else is left" — a loaded gun | 3 | major | open | — |
+| The two-map junction protocol + retreat threshold — the plan the Gate will test | 3 | major | open (arc 1 climax) | — |
+| Attend's 30-second door test — first Attend use pending | 3 | major | open (pays ch. 1's "waits for a Gate") | — |
+| Theo enters a broadcast Gate with a live camera problem; formation shields him from the rig's entry side | 3 | major | open | — |
+| Juno's diagnosis ("you want to spend it all so nothing gets through") — does it change her in the Gate? | 3 | major | open | — |
+| Ada's "read it twice" blessing — thematic charge on the Gate | 3 | minor | open | — |
+| Ada swapped a Saturday shift (cost unstated on-page) | 3 | minor | open | — |

@@ -14,3 +14,4 @@
 |---|---|---|
 | 001 | [Unindexed](chapters/001-unindexed.md) | ~2,800 |
 | 002 | [Cargo](chapters/002-cargo.md) | ~2,150 |
+| 003 | [Burn Rate](chapters/003-burn-rate.md) | ~1,950 |
