@@ -119,3 +119,31 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 - *Confirmed passing (protected):* day-count arithmetic clean throughout; Focus ladder; the Theo beat ("earnestness through practical action — the exact John Marsden register"); the spoonful and "I meant forms"; Cass's funeral line; numbers-as-stakes throughout; closing register requirement met; first italicised interiority in the serial passes the test.
 
 **Ledgers:** timeline/knowledge/character-state updated; burden ladder rung 2 recorded; nine new promises registered (the plan itself, break-glass, Attend's door test, Theo-on-camera, Juno's diagnosis). Next: the Stacks, ch. 4 — the serial's first Gate entry and first wonder beat.
+
+---
+
+## 2026-07-11 — Owner review of ch. 3 (PR #2): REJECTED pending massive overhaul
+
+**Owner (PR review + 13 inline comments + chat):** "I feel like we're slipping into bad habits again and the adversarial review isn't catching them." / "I don't approve this PR to be merged without doing a massive overhaul."
+
+**The comments, in full (feedback of record):**
+1. (L7) "Open ground is cheap. Clutter is the enemy." — sharp/literary/pithy talk banned for CHARACTERS too, not just narration.
+2. (L25) Pip re-fletching arrows — "I can't recall anything mentioning her being an archer" — reader-knowledge violation: her bow exists in the bible, never on a published page.
+3. (L19) Producer's "Twenty minutes of training footage, one line from the captain, we're gone by ten" — numbers in quick succession in fragments = AI hallmark, even in dialogue.
+4. (L11) "how this team's luck was distributed" — "kinda cute, but... don't make the reader work too hard to read between the lines. Keep your target audience in mind."
+5. (L93) Cass's clipped speech — "from a different character so we can't even chalk it up to one character's talking style."
+6. (L49) "which told Ren something about how the team ranked its dangers" — "So... how does the team rank its dangers? You can just tell me."
+7. (L51) Doc's rules speech — "I've told you before... It doesn't matter whether it's the narrator or a character saying it."
+8. (L13) "a rumour with a printout" — ban intangible-comparison metaphors for characters; "X had been a Y with a Z" is a common AI pattern.
+9. (L101) "If it reads expensive, it stays dark until we know the Gate." — "Grrr. We're falling into old habits again."
+10. (L77) clipped "impactful" phrasing "for the second or third time this scene and it's getting annoying."
+11. (L67) "I just paid it. Three minutes of holding, nothing else..." — clipped partial fragments in dialogue.
+12. (L107) "Who are the Okafors? And what about District Nine?... You can't just assume that something is a part of lore — it needs to be introduced and developed." — CRITICAL: the surname and the Break backstory were never published; the knowledge ledger falsely recorded them as on-page (ledger was written from the bible, not the page).
+13. (L123) Kit/equipment — "we haven't really touched on what equipment each of the characters have, or even how they fight... remarkably silent on that front." Content request: loadout/gear texture.
+
+**Diagnosis (three failures, not one):**
+- **Rule failure:** the North Star's "the character may perform" loophole was wrong — the pithy register is banned globally. Voice-y interiority means chatty/casual (the Kumoko mode), not compressed/epigrammatic. And implications must be stated plainly.
+- **Continuity-process failure:** knowledge ledger recorded bible facts as published canon → prose treated unpublished lore (Okafors, District Nine, Pip's bow) as common knowledge. The continuity check verified against the ledger, which was itself wrong.
+- **Review-process failure:** the adversarial review audits the DRAFT; revision edits go unreviewed (a duplicated simile was introduced by a fix); and the reviewer shares the writer's taste, so it enforces the rules as written rather than the owner's actual ear.
+
+**Plan:** (1) style-audit agent (mechanical device counting on the final text) already dispatched — fold its inventory in; (2) rules corrected in authors-voice + first-mention audit and final-text audit added to serial-process (main); (3) massive overhaul of ch. 3 on the branch: de-clip all dialogue and narration, state implications plainly, introduce the Okafor/District Nine backstory properly on-page, introduce Pip's bow before the fletching beat, add a loadout/kit scene (serves comment 13 and the pre-Gate structure), remove the banned metaphor patterns; (4) fix the false knowledge-ledger entries; (5) re-audit the overhauled text before pushing.
