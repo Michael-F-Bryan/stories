@@ -209,3 +209,17 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Process incident caught before shipping:** after review fixes, an on-disk read showed four fixes had reverted despite both review agents reporting read-only work. The stale-write regression was caught by the required final read, the fixes were reapplied against current text, and all final scans were rerun. This is another concrete reason the post-review final-text audit remains mandatory.
 
 **Final-text audit:** banned-prose quick scan reports zero hits across its high-signal patterns; the serial pattern scan reports no matches; final-copy scaffold scan is clean. Manual budgets: one action triad (Juno's banked-coal cast), one mild personification/metaphor candidate (training "held together"), two explicit callbacks, no attribution stunts, and three of four scene exits are plain action or transit. No prior opener/closer armature repeated.
+
+## 2026-07-11 — Chapter 5: "Blackwater"
+
+**Owner:** "Merged! Let's continue on with chapter 5."
+
+**Done:** Verified PR #3 merged into `main`, created `chapter/005`, and drafted chapter 5 at ~2,050 words. The chapter resolves the immediate underwater rescue, pays live boundaries for Attend, Escort, Carry, Hold Fast, and Mend, then advances the extraction problem to the sluice bridge.
+
+**Independent adversarial review:** no blockers or valid must-fixes. It passed rescue clarity, literal skill limits, dialogue differentiation, plain speech, scene exits, and the earned physical ending. Its sole should-fix quoted "Their training held together inside the Gate" as chapter 5 line 127, but that sentence exists in chapter 4 and was never present in the reviewed chapter 5 file; no chapter 5 change was made from that stale citation.
+
+**Independent continuity/mechanics audit:** no blocker. One must-fix correctly caught that the draft claimed moving Attend cost more without showing the observation; the revised scene now states the increased drain during Pip's movement before Ren reports it. One should-fix caught muddy pack handoffs around the rope crossing; the text now shows Doc handing the physical pack to Ren before crossing, Ren returning it on the platform, Doc putting it on, and Carry resuming before movement. The audit explicitly passed Ilyas's outside-party status, Escort's footing boundary, Hold Fast versus structural failure, Mend's exact cost, Theo's third sword, Juno's coal satchel, camera/feed continuity, first mentions, geography, and clock arithmetic.
+
+**Clock:** 07:18→07:54 = 36 seconds; 07:54→14:26 = 6 minutes 32 seconds; 14:26→15:40 = 1 minute 14 seconds; 15:40→18:08 = 2 minutes 28 seconds. Total chapter action: 10 minutes 50 seconds. Monotonic and plausible.
+
+**Final-text audit after the last review edit:** one action triad remains; scene exits are two plain operational consequences plus one threat ending; no repeated opener/closer armature; banned-prose and serial-pattern scans have no blocking matches; final-copy scaffold scan is clean. The lone broad search hit for "something" is ordinary dialogue ("throw something past the far pillar"), not vague narration.

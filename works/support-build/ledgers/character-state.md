@@ -2,6 +2,16 @@
 
 *Current arc position vs the bible's starting states. Updated when it moves.*
 
+## As of ch. 5 (inside the Stacks, 18:08 elapsed)
+
+- **Ren:** Uses moving-charge Attend in an emergency to relay Pip's underwater view, then Escort to get her across a collapsing brace. Attend drains more than during the stationary test; Escort's drain rises sharply when the brace shifts. He reports dizziness but has no tunnel vision or hearing loss. Carry is running on Doc's pack again at chapter end. He cannot target Ilyas because Ilyas is outside the party.
+- **Cass:** Rescues Ilyas while Hold Fast transfers the sodden's pull into a failing staircase. Keeps the extraction decision: the team is moving towards the nearest solid route out, not silently reverting to a clear attempt. Last shown advancing on the doorkeeper blocking that route.
+- **Theo:** Throws the third/spare sword to redirect sodden and uses one of his remaining blades in the rescue. Carries Ilyas's stretcher with Juno. Moves cleanly once the shoulder camera is lost; two swords remain.
+- **Juno:** Protects her coal satchel during the rope crossing and carries the stretcher. No casting or Focus spend this chapter.
+- **Pip:** Dives to locate Ilyas under Attend, marks the sodden, cuts him free, then crosses the shaking brace under Escort and anchors the extraction rope. Her stopwatch keeps the clock after the camera is lost.
+- **Doc:** Uses Mend on Ilyas's calf wound, paying half its cost. The wound closes; the damaged knee remains non-weight-bearing. Carry is on his pack again so he can monitor Ilyas hands-free.
+- **Ilyas:** Rescued at 07:54. Awake and breathing, but coughing after submersion and unable to bear weight on the damaged knee. On the folding stretcher. Outside the party. Camera remains underwater with feed live.
+
 ## As of ch. 4 (inside the Stacks, ~07:18 elapsed)
 
 - **Ren:** Has crossed his first aperture. [Attend] is now mapped at its safest edge: low stationary drain, borrowed sight/hearing, own senses dulled, severe viewpoint nausea. He follows the spending plan after the test, keeping only Carry running. Immediate problem: Ilyas is underwater and may not be a valid party target.
