@@ -2,6 +2,16 @@
 
 *Current arc position vs the bible's starting states. Updated when it moves.*
 
+## As of ch. 6 (inside the Stacks, upper gantry after 18:08 elapsed)
+
+- **Ren:** Releases Carry from Doc's pack and, with Cass's explicit consent, takes the upkeep of Hold Fast for one doorkeeper charge. The Rank VII upkeep drives him to tunnel vision; he reports it immediately, releases Carry, and stops all skills for the day. He later wants to use Escort on Theo and deliberately obeys the stop instead. Tunnel vision is receding but remains present at the tower; he physically carries Doc's pack up the stairs.
+- **Cass:** Tanks the doorkeeper's first charges, authorizes one Carry transfer, and uses Shelter to take a blow meant for Theo. Her left shoulder is bruised and possibly cracked, with reduced movement; Mend cannot treat it. She changes tactics instead of planting for another charge, uses the bridge rail to expose the gaunt, and retains shield and hammer. At the broken upper gantry, she keeps extraction as the job and turns the team towards the crane cab route.
+- **Theo:** Uses Edge and Follow-Through against the doorkeeper's marked, heated shoulder joint. Swings Cass's heavy Core hammer once to break an armour plate, then returns to his sword chain. Retains both swords and resumes the front of Ilyas's stretcher.
+- **Juno:** Uses one banked coal in two short, narrow bursts against the marked joint and stops cleanly both times. Carries the rear of Ilyas's stretcher up the tower.
+- **Pip:** Marks the doorkeeper's exposed joint, adds one arrow to the opening, checks the tower landings, and confirms that the mapped return gantry has collapsed beyond rope range. Cannot yet see whether the catwalk beyond the crane cab remains connected.
+- **Doc:** Takes back the physical pack when Ren changes Carry burdens, monitors Ilyas, assesses Cass's shoulder, and rules Ren off skills until the next day. Hands Ren the physical pack for the tower climb.
+- **Ilyas:** Conscious and still strapped to the stretcher. Coughing recurs on the climb, and his breathing sounds rougher in the enclosed stairwell. The damaged knee remains non-weight-bearing.
+
 ## As of ch. 5 (inside the Stacks, 18:08 elapsed)
 
 - **Ren:** Names the forbidden move aloud (moving Attend, untrained) and does it only once Cass authorizes it, then relays Pip's underwater view, then uses Escort to get her across a collapsing brace. Holding his own body against the borrowed drowning-viewpoint costs him deliberate effort. Attend drains more than during the stationary test; Escort's drain rises sharply when the brace shifts. He reports dizziness but has no tunnel vision or hearing loss. Carry is running on Doc's pack again at chapter end. He cannot target Ilyas because Ilyas is outside the party.

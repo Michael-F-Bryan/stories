@@ -25,6 +25,16 @@ An outside reader bounced off ch. 1 scene 1 — the prose used world terms as if
 - **New gaunt:** a doorkeeper claims one doorway and does not leave it. One blocks the sluice bridge and the only solid stair currently available to the team.
 - **Reader still does NOT know:** whether the upper gantry route remains usable; whether the submerged camera captured enough to explain the rescue; why the Stacks' flooding and structural decay exceed both maps; whether Grave Society can still reach the aperture.
 
+## New in ch. 6
+
+- **Carry takes another party member's sustained-skill upkeep under explicit consent:** Ren releases Doc's pack and takes the Focus cost of Cass's active Hold Fast for one doorkeeper charge. Cass pays no Focus for that interval but still takes the physical impact. The transfer drives Ren to tunnel vision quickly enough that he releases it after one charge.
+- **Ren obeys the first-symptom rule under live pressure:** he reports tunnel vision, releases Carry, and declares himself done with skills for the day. He later considers using Escort on Theo and deliberately does not activate it. Doc rules him off skills until the next day.
+- **Team skills named and shown for the first time:** Theo's [EDGE] supplies a burst step and [FOLLOW-THROUGH] feeds successive landed cuts; Cass's [SHELTER] moves a blow meant for Theo onto her without softening it.
+- **Doorkeeper threshold paid:** its armoured charge can be tanked at the claimed bridge; the opening beneath a lifted forelimb can be marked, heated, and cut. Grave Society forces it into the sluice channel and opens the tower door.
+- **Injury/resource state:** Cass's left shoulder is bruised and possibly cracked after Shelter transfers the blow; it remains usable but has reduced movement, and Mend cannot treat it because nothing is open. Ren has receding tunnel vision. Ilyas remains conscious on the stretcher, coughing with rougher breathing. Juno uses one controlled banked-coal cast in two short bursts. Theo retains both swords; Cass retains her shield and Core hammer after lending the hammer for one strike.
+- **Route state:** the concrete tower stair reaches the upper gantry, but the mapped return span to the receiving platform has collapsed beyond rope range. The route to the crane cab appears connected; the catwalk on its far side cannot yet be seen. The team continues towards the crane cab while treating extraction as the job.
+- **Reader still does NOT know:** whether the catwalk beyond the crane cab remains connected; what occupies the crane cab now; whether the underwater camera feed remains useful; why the Stacks' flooding and structural decay exceed both maps; whether Grave Society can still reach the aperture.
+
 ## New in ch. 4
 
 - **World terms first published and grounded:** gaunts (the animals inside Gates); regard (the observed pattern by which gaunts choose targets); skitters (dog-sized six-legged pack hunters that follow movement); sodden (submerged grapplers that follow ripples and pull victims under); palps (pale racking ambushers that lie flat overhead and drop).
