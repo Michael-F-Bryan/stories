@@ -1,4 +1,8 @@
-# 6 — The Sluice
+---
+index: 6
+title: The Sluice
+description: "A doorkeeper guards the only solid stair, leaving Grave Society a narrow bridge, an injured rival, and no safe route back."
+---
 
 Cass and her shield filled most of the bridge, leaving Theo no room to get past.
 

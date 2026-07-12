@@ -89,15 +89,15 @@ test('buildEpubs generates ordered EPUB3 editions with the repository metadata a
       chapters: [
         {
           name: '001-the-door.md',
-          body: '# The Door\n\nOpening paragraph with a deliberate chapter one signal.\n',
+          body: '---\nindex: 1\ntitle: The Door\n---\n\nOpening paragraph with a deliberate chapter one signal.\n',
         },
         {
           name: '002-the-market.md',
-          body: '# The Market\n\nThe market breathes, and the clerk counts doors.\n',
+          body: '---\nindex: 2\ntitle: The Market\n---\n\nThe market breathes, and the clerk counts doors.\n',
         },
         {
           name: '003-the-archive.md',
-          body: '# The Archive\n\nFinal chapter prose with an `inline code` fragment.\n',
+          body: '---\nindex: 3\ntitle: The Archive\n---\n\nFinal chapter prose with an `inline code` fragment.\n',
         },
       ],
       extras: [
@@ -114,19 +114,19 @@ test('buildEpubs generates ordered EPUB3 editions with the repository metadata a
       chapters: [
         {
           name: '001-cover.md',
-          body: '# Cover\n\nThe road opens.\n',
+          body: '---\nindex: 1\ntitle: Cover\n---\n\nThe road opens.\n',
         },
         {
           name: '002-title-page.md',
-          body: '# Title Page\n\nThe second step matters more than the first.\n',
+          body: '---\nindex: 2\ntitle: Title Page\n---\n\nThe second step matters more than the first.\n',
         },
         {
           name: '003-table-of-contents.md',
-          body: '# Table of Contents\n\nThe headings refuse to stay administrative.\n',
+          body: '---\nindex: 3\ntitle: Table of Contents\n---\n\nThe headings refuse to stay administrative.\n',
         },
         {
           name: '004-boreal-and-beyond.md',
-          body: '# Boreal & Beyond\n\nThe final chapter shares its title with the book.\n',
+          body: '---\nindex: 4\ntitle: Boreal & Beyond\n---\n\nThe final chapter shares its title with the book.\n',
         },
       ],
     });
@@ -172,7 +172,7 @@ test('verifyOutput rejects forbidden generated paths with a path-specific error'
 
     await createWork(worksRoot, 'atlas', {
       readme: '# Atlas\n\n**Premise (spoiler-free):** A mapmaker traces a city.\n',
-      chapters: [{ name: '001-the-door.md', body: '# The Door\n\nOpening paragraph.\n' }],
+      chapters: [{ name: '001-the-door.md', body: '---\nindex: 1\ntitle: The Door\n---\n\nOpening paragraph.\n' }],
     });
 
     const built = await buildSite({ worksRoot, outputDir });
@@ -202,7 +202,7 @@ test('buildEpubs requires an existing publisher-owned site output', async () => 
     const worksRoot = path.join(root, 'works');
     await createWork(worksRoot, 'atlas', {
       readme: '# Atlas\n\n**Premise (spoiler-free):** A mapmaker traces a city.\n',
-      chapters: [{ name: '001-the-door.md', body: '# The Door\n\nOpening paragraph.\n' }],
+      chapters: [{ name: '001-the-door.md', body: '---\nindex: 1\ntitle: The Door\n---\n\nOpening paragraph.\n' }],
     });
 
     await assert.rejects(

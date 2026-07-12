@@ -5,14 +5,18 @@ import { copyFile, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { discoverBooks } from './books.js';
+import { discoverBooks, parseChapterMarkdown } from './books.js';
 import {
   DEFAULT_BASE_PATH,
+  DEFAULT_SITE_ORIGIN,
   OUTPUT_MARKER_CONTENTS,
   OUTPUT_MARKER_FILENAME,
+  SITE_DESCRIPTION,
   SITE_TITLE,
+  absoluteSiteUrl,
   joinBasePath,
   normalizeBasePath,
+  normalizeSiteOrigin,
 } from './config.js';
 
 const markdownIt = new MarkdownIt({
@@ -25,43 +29,38 @@ const markdownIt = new MarkdownIt({
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const siteInputDir = path.join(repoRoot, 'site');
 
-function trimBlankEdges(lines) {
-  let start = 0;
-  let end = lines.length;
-
-  while (start < end && lines[start].trim() === '') {
-    start += 1;
-  }
-
-  while (end > start && lines[end - 1].trim() === '') {
-    end -= 1;
-  }
-
-  return lines.slice(start, end);
-}
-
-function stripFirstChapterHeading(markdown, sourcePath) {
-  const lines = markdown.split(/\r?\n/);
-  const headingIndex = lines.findIndex((line) => /^#\s+/.test(line.trim()));
-
-  if (headingIndex === -1) {
-    throw new Error(`${sourcePath}: missing level-one heading`);
-  }
-
-  const [headingLine] = lines.splice(headingIndex, 1);
-  const headingMatch = headingLine.match(/^#\s+(.+?)(?:\s+#+)?\s*$/);
-  if (!headingMatch) {
-    throw new Error(`${sourcePath}: missing level-one heading`);
-  }
-
-  return {
-    title: headingMatch[1].trim(),
-    markdown: trimBlankEdges(lines).join('\n'),
-  };
-}
-
 function renderChapterHtml(markdown) {
   return markdownIt.render(markdown);
+}
+
+function markdownToPlainText(markdown) {
+  const text = [];
+
+  function collect(tokens) {
+    for (const token of tokens ?? []) {
+      if (['text', 'code_inline'].includes(token.type)) {
+        text.push(token.content);
+      } else if (['softbreak', 'hardbreak'].includes(token.type)) {
+        text.push(' ');
+      }
+      collect(token.children);
+    }
+  }
+
+  collect(markdownIt.parseInline(markdown, {}));
+  return text.join('').replace(/\s+/g, ' ').trim();
+}
+
+function createPageMetadata({ title, description, type, canonicalUrl, imageUrl = null, imageAlt = null }) {
+  return {
+    title,
+    description,
+    type,
+    canonicalUrl,
+    imageUrl,
+    imageAlt,
+    twitterCard: imageUrl ? 'summary_large_image' : 'summary',
+  };
 }
 
 function normalizeChapterPath(bookSlug, numberLabel, chapterSlug) {
@@ -80,7 +79,7 @@ function withPositionLabel(index, total) {
   return `Chapter ${index + 1} of ${total}`;
 }
 
-async function prepareBuildData(books, pathPrefix) {
+async function prepareBuildData(books, pathPrefix, siteOrigin) {
   const preparedBooks = [];
   const flatChapters = [];
 
@@ -93,20 +92,23 @@ async function prepareBuildData(books, pathPrefix) {
     const epubUrl = joinBasePath(pathPrefix, epubOutputPath);
     const coverOutputPath = coverFilename ? normalizeCoverPath(book.slug, coverFilename) : null;
     const coverUrl = coverOutputPath ? joinBasePath(pathPrefix, coverOutputPath) : null;
+    const coverAbsoluteUrl = coverUrl ? absoluteSiteUrl(siteOrigin, coverUrl) : null;
+    const bookDescription = markdownToPlainText(book.synopsis);
 
     const preparedChapters = [];
     for (const [index, chapter] of book.chapters.entries()) {
       const sourceMarkdown = await readFile(chapter.sourcePath, 'utf8');
-      const strippedChapter = stripFirstChapterHeading(sourceMarkdown, chapter.sourcePath);
+      const parsedChapter = parseChapterMarkdown(sourceMarkdown, chapter.sourcePath);
       const chapterOutputPath = normalizeChapterPath(book.slug, chapter.numberLabel, chapter.slug);
       const chapterUrl = joinBasePath(pathPrefix, chapterOutputPath);
       const previousChapter = index > 0 ? preparedChapters[index - 1] : null;
       const nextChapter = index < chapterCount - 1 ? book.chapters[index + 1] : null;
+      const chapterTitle = chapter.title;
       const preparedChapter = {
         number: chapter.number,
         numberLabel: chapter.numberLabel,
         slug: chapter.slug,
-        title: chapter.title ?? strippedChapter.title,
+        title: chapterTitle,
         sourcePath: chapter.sourcePath,
         outputPath: chapterOutputPath,
         url: chapterUrl,
@@ -120,7 +122,15 @@ async function prepareBuildData(books, pathPrefix) {
         bookUrl,
         bookEpubUrl: epubUrl,
         chapterCount,
-        bodyHtml: renderChapterHtml(strippedChapter.markdown),
+        metadata: createPageMetadata({
+          title: `${chapterTitle} — ${book.title}`,
+          description: chapter.description ?? bookDescription,
+          type: 'article',
+          canonicalUrl: absoluteSiteUrl(siteOrigin, chapterUrl),
+          imageUrl: coverAbsoluteUrl,
+          imageAlt: coverAbsoluteUrl ? `Cover of ${book.title}` : null,
+        }),
+        bodyHtml: renderChapterHtml(parsedChapter.bodyMarkdown),
       };
 
       preparedChapters.push(preparedChapter);
@@ -152,6 +162,14 @@ async function prepareBuildData(books, pathPrefix) {
       latestChapterUrl: preparedChapters.at(-1)?.url ?? null,
       latestChapterTitle: preparedChapters.at(-1)?.title ?? null,
       latestChapterLabel: preparedChapters.at(-1)?.positionLabel ?? null,
+      metadata: createPageMetadata({
+        title: book.title,
+        description: bookDescription,
+        type: 'website',
+        canonicalUrl: absoluteSiteUrl(siteOrigin, bookUrl),
+        imageUrl: coverAbsoluteUrl,
+        imageAlt: coverAbsoluteUrl ? `Cover of ${book.title}` : null,
+      }),
       chapters: preparedChapters,
     });
   }
@@ -299,17 +317,26 @@ export function assertSafeOutputDirectory({ worksRoot, outputDir, safeRoot = pat
   return resolvedOutputDir;
 }
 
-export async function buildSite({ worksRoot, outputDir, pathPrefix = DEFAULT_BASE_PATH, safeRoot }) {
+export async function buildSite({ worksRoot, outputDir, pathPrefix = DEFAULT_BASE_PATH, siteOrigin = DEFAULT_SITE_ORIGIN, safeRoot }) {
   const resolvedWorksRoot = path.resolve(worksRoot);
   const safeOutputDir = assertSafeOutputDirectory({ worksRoot: resolvedWorksRoot, outputDir, safeRoot });
   const normalizedPathPrefix = normalizeBasePath(pathPrefix);
+  const normalizedSiteOrigin = normalizeSiteOrigin(siteOrigin);
   const books = await discoverBooks(resolvedWorksRoot);
-  const { preparedBooks, flatChapters } = await prepareBuildData(books, normalizedPathPrefix);
+  const { preparedBooks, flatChapters } = await prepareBuildData(books, normalizedPathPrefix, normalizedSiteOrigin);
+  const homeUrl = joinBasePath(normalizedPathPrefix, 'index.html');
   const site = {
     title: SITE_TITLE,
     pathPrefix: normalizedPathPrefix,
-    homeUrl: joinBasePath(normalizedPathPrefix, 'index.html'),
+    origin: normalizedSiteOrigin,
+    homeUrl,
     stylesUrl: joinBasePath(normalizedPathPrefix, 'assets/styles.css'),
+    metadata: createPageMetadata({
+      title: SITE_TITLE,
+      description: SITE_DESCRIPTION,
+      type: 'website',
+      canonicalUrl: absoluteSiteUrl(normalizedSiteOrigin, homeUrl),
+    }),
   };
 
   await rm(safeOutputDir, { recursive: true, force: true });
@@ -341,6 +368,7 @@ export function readBuildConfiguration(env = process.env, cwd = process.cwd()) {
     worksRoot,
     outputDir: assertSafeOutputDirectory({ worksRoot, outputDir, safeRoot: resolvedCwd }),
     pathPrefix: normalizeBasePath(env.STORIES_SITE_BASE_PATH ?? DEFAULT_BASE_PATH),
+    siteOrigin: normalizeSiteOrigin(env.STORIES_SITE_ORIGIN ?? DEFAULT_SITE_ORIGIN),
     safeRoot: resolvedCwd,
   };
 }

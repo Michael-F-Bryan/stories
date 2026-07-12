@@ -1,4 +1,8 @@
-# 2 — Cargo
+---
+index: 2
+title: Cargo
+description: "Grave Society tests the limits of Ren's escort skills while an ordinary Saturday obligation threatens to consume what little he has left."
+---
 
 Cass was setting out cones when Ren arrived at two minutes to six on Saturday morning. Apparently she had meant both training sessions.
 

@@ -59,11 +59,11 @@ test('discoverBooks reads multiple books, orders chapters, and ignores unpublish
       chapters: [
         {
           name: '002-second-step.md',
-          body: 'Preamble\n\n# Second Step\n\nChapter two.',
+          body: '---\nindex: 2\ntitle: Second Step\n---\n\nChapter two.',
         },
         {
           name: '001-first-step.md',
-          body: 'Preamble\n\n# First Step\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: First Step\n---\n\nChapter one.',
         },
       ],
       extras: [
@@ -80,7 +80,7 @@ test('discoverBooks reads multiple books, orders chapters, and ignores unpublish
       chapters: [
         {
           name: '001-the-drop.md',
-          body: '# The Drop\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: The Drop\n---\n\nChapter one.',
         },
       ],
     });
@@ -147,7 +147,7 @@ test('discoverBooks rejects a publishable work with a missing README using a pat
       chapters: [
         {
           name: '001-begin.md',
-          body: '# Begin\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nChapter one.',
         },
       ],
     });
@@ -169,7 +169,7 @@ test('discoverBooks uses the first README H1 as the book title', async () => {
       chapters: [
         {
           name: '001-begin.md',
-          body: '# Begin\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nChapter one.',
         },
       ],
     });
@@ -186,7 +186,7 @@ test('discoverBooks uses the first spoiler-free premise paragraph as the synopsi
       chapters: [
         {
           name: '001-begin.md',
-          body: '# Begin\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nChapter one.',
         },
       ],
     });
@@ -196,20 +196,79 @@ test('discoverBooks uses the first spoiler-free premise paragraph as the synopsi
   });
 });
 
-test('discoverBooks uses the first H1 in a chapter as the chapter title', async () => {
+test('discoverBooks reads the chapter title and index from frontmatter', async () => {
   await withTempDir(async (worksRoot) => {
-    await createWork(worksRoot, 'broken', {
-      readme: '# Broken Story\n\n**Premise (spoiler-free):** Chapter headings should be stable.\n',
+    await createWork(worksRoot, 'indexed', {
+      readme: '# Indexed Story\n\n**Premise (spoiler-free):** Chapter metadata should travel with its source.\n',
       chapters: [
         {
           name: '001-begin.md',
-          body: 'Preface\n\n# First Chapter Title\n\n## Not the title\n\n# Second Chapter Title\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: First Chapter Title\n---\n\nChapter one without a body heading.',
         },
       ],
     });
 
     const [book] = await discoverBooks(worksRoot);
     assert.equal(book.chapters[0].title, 'First Chapter Title');
+    assert.equal(book.chapters[0].number, 1);
+  });
+});
+
+test('discoverBooks reads a spoiler-safe description from chapter frontmatter', async () => {
+  await withTempDir(async (worksRoot) => {
+    await createWork(worksRoot, 'described', {
+      readme: '# Described Story\n\n**Premise (spoiler-free):** Chapter descriptions should travel with their source.\n',
+      chapters: [
+        {
+          name: '001-begin.md',
+          body: '---\nindex: 1\ntitle: Begin\ndescription: "A careful opening with <sharp> edges & quoted stakes."\n---\n\nChapter one.',
+        },
+      ],
+    });
+
+    const [book] = await discoverBooks(worksRoot);
+
+    assert.equal(book.chapters[0].description, 'A careful opening with <sharp> edges & quoted stakes.');
+  });
+});
+
+test('discoverBooks rejects non-string chapter descriptions with a path-specific error', async () => {
+  await withTempDir(async (worksRoot) => {
+    const chapterPath = path.join(worksRoot, 'broken', 'chapters', '001-begin.md');
+    await createWork(worksRoot, 'broken', {
+      readme: '# Broken Story\n\n**Premise (spoiler-free):** Metadata failures should identify their source.\n',
+      chapters: [
+        {
+          name: '001-begin.md',
+          body: '---\nindex: 1\ntitle: Begin\ndescription:\n  - not\n  - text\n---\n\nChapter one.',
+        },
+      ],
+    });
+
+    await assert.rejects(
+      () => discoverBooks(worksRoot),
+      errorPattern([chapterPath, 'chapter description must be a non-empty string']),
+    );
+  });
+});
+
+test('discoverBooks rejects malformed chapter frontmatter with a path-specific error', async () => {
+  await withTempDir(async (worksRoot) => {
+    const chapterPath = path.join(worksRoot, 'broken', 'chapters', '001-begin.md');
+    await createWork(worksRoot, 'broken', {
+      readme: '# Broken Story\n\n**Premise (spoiler-free):** Broken metadata should never leak into chapter prose.\n',
+      chapters: [
+        {
+          name: '001-begin.md',
+          body: '---\ndescription: "Never closed"\n\n# Begin\n\nChapter one.',
+        },
+      ],
+    });
+
+    await assert.rejects(
+      () => discoverBooks(worksRoot),
+      errorPattern([chapterPath, 'invalid chapter frontmatter']),
+    );
   });
 });
 
@@ -220,7 +279,7 @@ test('discoverBooks rejects missing README titles with a path-specific error', a
       chapters: [
         {
           name: '001-begin.md',
-          body: '# Begin\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nChapter one.',
         },
       ],
     });
@@ -242,7 +301,7 @@ test('discoverBooks rejects missing spoiler-free premises with a path-specific e
       chapters: [
         {
           name: '001-begin.md',
-          body: '# Begin\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nChapter one.',
         },
       ],
     });
@@ -257,14 +316,14 @@ test('discoverBooks rejects missing spoiler-free premises with a path-specific e
   });
 });
 
-test('discoverBooks rejects chapters that are missing a level-one heading', async () => {
+test('discoverBooks rejects chapters with a missing frontmatter title', async () => {
   await withTempDir(async (worksRoot) => {
     await createWork(worksRoot, 'broken', {
       readme: '# Broken Story\n\n**Premise (spoiler-free):** A chapter needs a title.\n',
       chapters: [
         {
           name: '001-begin.md',
-          body: 'Chapter one without a title.',
+          body: '---\nindex: 1\n---\n\nChapter one without a title.',
         },
       ],
     });
@@ -273,7 +332,29 @@ test('discoverBooks rejects chapters that are missing a level-one heading', asyn
       () => discoverBooks(worksRoot),
       errorPattern([
         path.join(worksRoot, 'broken', 'chapters', '001-begin.md'),
-        'missing level-one heading',
+        'chapter title must be a non-empty string',
+      ]),
+    );
+  });
+});
+
+test('discoverBooks rejects a frontmatter index that disagrees with the filename', async () => {
+  await withTempDir(async (worksRoot) => {
+    await createWork(worksRoot, 'broken', {
+      readme: '# Broken Story\n\n**Premise (spoiler-free):** Chapter indexes should stay aligned.\n',
+      chapters: [
+        {
+          name: '001-begin.md',
+          body: '---\nindex: 2\ntitle: Begin\n---\n\nChapter one.',
+        },
+      ],
+    });
+
+    await assert.rejects(
+      () => discoverBooks(worksRoot),
+      errorPattern([
+        path.join(worksRoot, 'broken', 'chapters', '001-begin.md'),
+        'chapter index 2 must match filename index 1',
       ]),
     );
   });
@@ -286,7 +367,7 @@ test('discoverBooks rejects malformed chapter filenames in chapters/', async () 
       chapters: [
         {
           name: '001-begin.md',
-          body: '# Begin\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nChapter one.',
         },
         {
           name: 'chapter-two.md',
@@ -312,11 +393,11 @@ test('discoverBooks rejects duplicate chapter numbers', async () => {
       chapters: [
         {
           name: '001-begin.md',
-          body: '# Begin\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nChapter one.',
         },
         {
           name: '001-again.md',
-          body: '# Again\n\nDuplicate chapter number.',
+          body: '---\nindex: 1\ntitle: Again\n---\n\nDuplicate chapter number.',
         },
       ],
     });
@@ -341,7 +422,7 @@ test('discoverBooks rejects non-contiguous chapter numbers', async () => {
       chapters: [
         {
           name: '001-begin.md',
-          body: '# Begin\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nChapter one.',
         },
         {
           name: '003-missing.md',
@@ -368,7 +449,7 @@ test('discoverBooks rejects ambiguous covers', async () => {
       chapters: [
         {
           name: '001-begin.md',
-          body: '# Begin\n\nChapter one.',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nChapter one.',
         },
       ],
       extras: [

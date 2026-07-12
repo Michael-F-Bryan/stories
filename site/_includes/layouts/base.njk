@@ -4,7 +4,32 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light dark">
+    {% if chapter %}
+      {% set pageMetadata = chapter.metadata %}
+    {% elif book %}
+      {% set pageMetadata = book.metadata %}
+    {% else %}
+      {% set pageMetadata = site.metadata %}
+    {% endif %}
     <title>{{ title }}{% if title != site.title %} · {{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ pageMetadata.description }}">
+    <link rel="canonical" href="{{ pageMetadata.canonicalUrl }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:title" content="{{ pageMetadata.title }}">
+    <meta property="og:description" content="{{ pageMetadata.description }}">
+    <meta property="og:type" content="{{ pageMetadata.type }}">
+    <meta property="og:url" content="{{ pageMetadata.canonicalUrl }}">
+    {% if pageMetadata.imageUrl %}
+    <meta property="og:image" content="{{ pageMetadata.imageUrl }}">
+    <meta property="og:image:alt" content="{{ pageMetadata.imageAlt }}">
+    {% endif %}
+    <meta name="twitter:card" content="{{ pageMetadata.twitterCard }}">
+    <meta name="twitter:title" content="{{ pageMetadata.title }}">
+    <meta name="twitter:description" content="{{ pageMetadata.description }}">
+    {% if pageMetadata.imageUrl %}
+    <meta name="twitter:image" content="{{ pageMetadata.imageUrl }}">
+    <meta name="twitter:image:alt" content="{{ pageMetadata.imageAlt }}">
+    {% endif %}
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%231b1715'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='42' fill='%23f4e7db'%3ES%3C/text%3E%3C/svg%3E">
     <link rel="stylesheet" href="{{ site.stylesUrl }}">
   </head>

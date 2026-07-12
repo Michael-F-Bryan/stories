@@ -39,6 +39,7 @@ jobs:
         env:
           STORIES_BASE_PATH: /stories/
           STORIES_SITE_BASE_PATH: /stories/
+          STORIES_SITE_ORIGIN: https://michael-f-bryan.github.io
         run: pnpm build
 
       - if: github.event_name == 'push' && github.ref == 'refs/heads/main'

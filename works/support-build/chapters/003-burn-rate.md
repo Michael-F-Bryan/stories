@@ -1,4 +1,8 @@
-# 3 — Burn Rate
+---
+index: 3
+title: Burn Rate
+description: "With eight days to prepare for the Stacks, Grave Society pushes Ren's new skills hard enough to discover both their reach and their cost."
+---
 
 Ren heard the arrows before he saw them. It was Sunday morning, day two, and the sound came from the far end of the rail easement — a flat snap, a pause, then another snap. Pip stood in the gravel shooting at a fence post, and he stopped to watch. He hadn't known she used a bow. He'd spent two days learning what this team's skills said and almost nothing about what any of them held in their hands while using them. The bow suited her. She fired in short accurate bursts, with long gaps while she studied the target.
 

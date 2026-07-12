@@ -1,10 +1,11 @@
 import { execFile } from 'node:child_process';
-import { mkdir, readFile } from 'node:fs/promises';
+import { mkdir, mkdtemp, readFile, rm, writeFile } from 'node:fs/promises';
+import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { promisify } from 'node:util';
 
-import { discoverBooks } from './books.js';
+import { discoverBooks, parseChapterMarkdown } from './books.js';
 import { EPUB_AUTHOR, EPUB_LANGUAGE, OUTPUT_MARKER_CONTENTS, OUTPUT_MARKER_FILENAME } from './config.js';
 import { assertSafeOutputDirectory, readBuildConfiguration } from './build-site.js';
 
@@ -13,7 +14,7 @@ const moduleDir = path.dirname(fileURLToPath(import.meta.url));
 const defaultPandocPath = 'pandoc';
 const epubCssPath = path.join(moduleDir, 'epub.css');
 
-function buildPandocArgs(book, epubPath, { author, language }) {
+function buildPandocArgs(book, epubPath, inputPath, { author, language }) {
   const args = [
     '--from=gfm',
     '--to=epub3',
@@ -31,8 +32,21 @@ function buildPandocArgs(book, epubPath, { author, language }) {
     args.push('--epub-cover-image', book.coverPath);
   }
 
-  args.push('-o', epubPath, ...book.chapters.map((chapter) => chapter.sourcePath));
+  args.push('-o', epubPath, inputPath);
   return args;
+}
+
+async function writePandocInput(book, temporaryRoot) {
+  const chapters = [];
+  for (const chapter of book.chapters) {
+    const sourceMarkdown = await readFile(chapter.sourcePath, 'utf8');
+    const parsedChapter = parseChapterMarkdown(sourceMarkdown, chapter.sourcePath);
+    chapters.push(`# ${parsedChapter.title}\n\n${parsedChapter.bodyMarkdown.trim()}`);
+  }
+
+  const inputPath = path.join(temporaryRoot, `${book.slug}.md`);
+  await writeFile(inputPath, `${chapters.join('\n\n')}\n`, 'utf8');
+  return inputPath;
 }
 
 async function runPandoc(pandocPath, args, { bookSlug, epubPath }) {
@@ -87,17 +101,23 @@ export async function buildEpubs({
   await requirePublisherOwnedSite(safeOutputDir);
   const books = await discoverBooks(resolvedWorksRoot);
   const createdEpubs = [];
+  const temporaryRoot = await mkdtemp(path.join(os.tmpdir(), 'stories-epub-'));
 
-  for (const book of books) {
-    const epubPath = path.join(safeOutputDir, book.slug, `${book.slug}.epub`);
-    await mkdir(path.dirname(epubPath), { recursive: true });
-    const pandocArgs = buildPandocArgs(book, epubPath, { author, language });
-    await runPandoc(pandocPath, pandocArgs, { bookSlug: book.slug, epubPath });
-    createdEpubs.push({
-      slug: book.slug,
-      epubPath,
-      chapterCount: book.chapters.length,
-    });
+  try {
+    for (const book of books) {
+      const epubPath = path.join(safeOutputDir, book.slug, `${book.slug}.epub`);
+      await mkdir(path.dirname(epubPath), { recursive: true });
+      const inputPath = await writePandocInput(book, temporaryRoot);
+      const pandocArgs = buildPandocArgs(book, epubPath, inputPath, { author, language });
+      await runPandoc(pandocPath, pandocArgs, { bookSlug: book.slug, epubPath });
+      createdEpubs.push({
+        slug: book.slug,
+        epubPath,
+        chapterCount: book.chapters.length,
+      });
+    }
+  } finally {
+    await rm(temporaryRoot, { recursive: true, force: true });
   }
 
   return {

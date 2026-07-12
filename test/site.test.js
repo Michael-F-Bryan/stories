@@ -87,15 +87,15 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
       chapters: [
         {
           name: '001-the-door.md',
-          body: '# The Door\n\nOpening paragraph with raw HTML disabled: <em>not italic</em>.\n\nA second paragraph with **markdown** intact.',
+          body: '---\nindex: 1\ntitle: The Door\ndescription: "A mapmaker tests a door with <sharp> edges & uncertain rules."\n---\n\nOpening paragraph with raw HTML disabled: <em>not italic</em>.\n\nA second paragraph with **markdown** intact.',
         },
         {
           name: '002-the-market.md',
-          body: '# The Market\n\nThe market breathes, and the clerk counts doors.\n',
+          body: '---\nindex: 2\ntitle: The Market\n---\n\nThe market breathes, and the clerk counts doors.\n',
         },
         {
           name: '003-the-archive.md',
-          body: '# The Archive\n\nFinal chapter prose with an `inline code` fragment.\n',
+          body: '---\nindex: 3\ntitle: The Archive\n---\n\nFinal chapter prose with an `inline code` fragment.\n',
         },
       ],
       extras: [
@@ -112,7 +112,7 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
       chapters: [
         {
           name: '001-first-snow.md',
-          body: '# First Snow\n\nThe road opens.\n',
+          body: '---\nindex: 1\ntitle: First Snow\n---\n\nThe road opens.\n',
         },
       ],
     });
@@ -121,6 +121,7 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
       worksRoot,
       outputDir,
       pathPrefix: '/stories/',
+      siteOrigin: 'https://example.test',
     });
 
     const files = await listFiles(outputDir);
@@ -146,6 +147,12 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
 
     const catalogue = await readFile(path.join(outputDir, 'index.html'), 'utf8');
     assert.match(catalogue, /<title>Stories<\/title>/);
+    assert.match(catalogue, /<meta name="description" content="Sequential fiction by Michael F\. Bryan\.">/);
+    assert.match(catalogue, /<link rel="canonical" href="https:\/\/example\.test\/stories\/index\.html">/);
+    assert.match(catalogue, /<meta property="og:title" content="Stories">/);
+    assert.match(catalogue, /<meta property="og:type" content="website">/);
+    assert.match(catalogue, /<meta property="og:url" content="https:\/\/example\.test\/stories\/index\.html">/);
+    assert.doesNotMatch(catalogue, /<meta property="og:image"/);
     assert.match(catalogue, /<link rel="icon" href="data:image\/svg\+xml,/);
     assert.match(catalogue, /Atlas &lt;One&gt; &amp; Co\./);
     assert.match(catalogue, /A mapmaker traces a city that keeps <em>changing<\/em> its name &amp; shape\./);
@@ -162,6 +169,11 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
 
     const atlasBook = await readFile(path.join(outputDir, 'atlas', 'index.html'), 'utf8');
     assert.match(atlasBook, /Atlas &lt;One&gt; &amp; Co\./);
+    assert.match(atlasBook, /<meta name="description" content="A mapmaker traces a city that keeps changing its name &amp; shape\.">/);
+    assert.match(atlasBook, /<link rel="canonical" href="https:\/\/example\.test\/stories\/atlas\/index\.html">/);
+    assert.match(atlasBook, /<meta property="og:title" content="Atlas &lt;One&gt; &amp; Co\.">/);
+    assert.match(atlasBook, /<meta property="og:image" content="https:\/\/example\.test\/stories\/atlas\/cover\.png">/);
+    assert.match(atlasBook, /<meta name="twitter:card" content="summary_large_image">/);
     assert.match(atlasBook, /A mapmaker traces a city that keeps <em>changing<\/em> its name &amp; shape\./);
     assert.match(atlasBook, /Ordered chapters/);
     assert.match(atlasBook, /The Archive/);
@@ -171,6 +183,11 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
     const firstChapter = await readFile(path.join(outputDir, 'atlas', '001-the-door', 'index.html'), 'utf8');
     assert.match(firstChapter, /^<!doctype html>/);
     assert.match(firstChapter, /<title>The Door · Stories<\/title>/);
+    assert.match(firstChapter, /<meta name="description" content="A mapmaker tests a door with &lt;sharp&gt; edges &amp; uncertain rules\.">/);
+    assert.match(firstChapter, /<link rel="canonical" href="https:\/\/example\.test\/stories\/atlas\/001-the-door\/index\.html">/);
+    assert.match(firstChapter, /<meta property="og:title" content="The Door — Atlas &lt;One&gt; &amp; Co\.">/);
+    assert.match(firstChapter, /<meta property="og:type" content="article">/);
+    assert.match(firstChapter, /<meta property="og:image:alt" content="Cover of Atlas &lt;One&gt; &amp; Co\.">/);
     assert.match(firstChapter, /href="\/stories\/assets\/styles\.css"/);
     assert.match(firstChapter, /Chapter 1 of 3/);
     assert.match(firstChapter, /The Door/);
@@ -185,6 +202,7 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
 
     const middleChapter = await readFile(path.join(outputDir, 'atlas', '002-the-market', 'index.html'), 'utf8');
     assert.match(middleChapter, /Chapter 2 of 3/);
+    assert.match(middleChapter, /<meta name="description" content="A mapmaker traces a city that keeps changing its name &amp; shape\.">/);
     assert.match(middleChapter, /href="\/stories\/atlas\/001-the-door\/index\.html"/);
     assert.match(middleChapter, /href="\/stories\/atlas\/003-the-archive\/index\.html"/);
     assert.match(middleChapter, /The Market/);
@@ -197,6 +215,10 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
     assert.match(finalChapter, /The Archive/);
     assert.equal(countOccurrences(finalChapter, '<h1>The Archive</h1>'), 1);
 
+    const borealBook = await readFile(path.join(outputDir, 'boreal', 'index.html'), 'utf8');
+    assert.match(borealBook, /<meta name="twitter:card" content="summary">/);
+    assert.doesNotMatch(borealBook, /<meta property="og:image"/);
+
     const coverCopy = await readFile(path.join(outputDir, 'atlas', 'cover.png'), 'utf8');
     assert.equal(coverCopy, 'cover:atlas');
   });
@@ -207,7 +229,7 @@ test('buildSite rejects output directories that overlap source or protected root
     const worksRoot = path.join(root, 'works');
     await createWork(worksRoot, 'safe-book', {
       readme: '# Safe Book\n\n**Premise (spoiler-free):** A deliberately small fixture.\n',
-      chapters: [{ name: '001-start.md', body: '# Start\n\nSafe prose.\n' }],
+      chapters: [{ name: '001-start.md', body: '---\nindex: 1\ntitle: Start\n---\n\nSafe prose.\n' }],
     });
 
     for (const outputDir of [
