@@ -259,3 +259,9 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Independent Audit gate:** PASS. A fresh reviewer loaded only `authors-voice/references/audit.md` and `rule-registry.md`, ran one bounded pass over active high-confidence rules, and found no material reader-visible defect. No audit edits were made.
 
 **Final reader pass:** Literal action, spatial causality, POV attention, dialogue pressure, ordinary connective prose, and the ending all pass. Scaffold scan and `git diff --check` are clean. Updated timeline, knowledge, character-state, promises, this log, and handoff from the accepted chapter text. No process, publishing, evaluation, bible, plan, or existing chapter file changed.
+
+## 2026-07-12 — Humanisation pass: chapter 1
+
+**Owner:** Supplied a serial-wide diagnosis of “managed significance” and asked for the existing chapters to be revised on `humanize`.
+
+**Done:** Reworked chapter 1’s interpretive tails, abstract reaction metaphors, look-then-deliberate blocking, and repeated polished buttons. Preserved the week-compression negative-space line and the earned deadline turn. No plot, mechanics, or canon changed.

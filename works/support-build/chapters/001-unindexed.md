@@ -6,7 +6,7 @@ Ren watched from the plastic chairs. Six of them had converged — windbreakers 
 
 Ren had grown up inside all of it, like everyone his age; the schools taught it alongside road safety. Twenty-two years ago the first Gate had torn open — a standing hole in the air, with somewhere else on the far side — and things had come out of it, and three thousand people had died. The System arrived in the same year, and nobody understood that either. It chose people, roughly one in eight hundred, and issued each of them a class: a name and a short list of skills, set out as exact text on a panel only its owner could perceive. Gates had kept opening ever since, each on its own term clock, and a Gate nobody cleared from the inside burst when the clock ran out. So clearing them became work for the awakened, and the Gate League — which had learned early that forty million people would watch a clearance with cameras inside it — turned that work into the biggest sport in the country. People dated everything from that first Gate; this was Year 22.
 
-Verification was the last compulsory step of assessment: a new panel had to be brought to a hall like this one within thirty days and read out by an Authority terminal, in public, where it couldn't be faked — which was why the recruiters worked these halls. Striker was the commonest class the System issued; nearly a third of the awakened came up Striker, and its skills were built for damage, which was the thing the League's scoring actually measured. The Potential Index put a number on all of it — the League's own forecast, run off assessment telemetry, of how much damage a new player's kit would someday deal. An Index of 61 was a one-in-a-thousand number. The hall had applauded, even though the signage asked people not to.
+Verification was the last compulsory step of assessment: a new panel had to be brought to a hall like this one within thirty days and read out by an Authority terminal, in public, where it couldn't be faked. Recruiters worked the halls for that reason. Striker was the commonest class the System issued; nearly a third of the awakened came up Striker, and its skills were built for damage, the only output League scoring measured. The Potential Index put a number on all of it — the League's own forecast, run off assessment telemetry, of how much damage a new player's kit would someday deal. An Index of 61 was a one-in-a-thousand number. The hall had applauded, even though the signage asked people not to.
 
 "One-seventeen."
 
@@ -32,13 +32,13 @@ CLASS: ATTENDANT (SVC-001)
 
 [ATTEND] I — Wait upon your charge. While you attend, you perceive what your charge perceives.
 
-"Attendant," the tech read. Then again, slower, as if the word might correct itself. "Huh."
+"Attendant," the tech read. Then again, slower. "Huh."
 
-A supervisor drifted over — a big man with reading glasses pushed up into his hair. He looked at the wall, then at Ren, then back at the wall.
+A supervisor drifted over — a big man with reading glasses pushed up into his hair. He read the projection twice and faced Ren.
 
-"Service category," he said. "You don't see that. We had one come through Corvel, must be six years back now. Carries bags for one of Meridian's aces these days. Good money, apparently. Excellent money." It was the tone Ren knew from the Recovery Trust's counter: bad news, delivered as if it were a kind of luck.
+"Service category," he said. "You don't see that. We had one come through Corvel, must be six years back now. Carries bags for one of Meridian's aces these days. Good money, apparently. Excellent money." Ren had heard the same tone at the Recovery Trust's counter whenever a clerk found a new penalty.
 
-The man at the desk behind her laughed. Once, through his nose. Then he apologised, which was worse.
+The man at the desk behind her laughed once through his nose, caught Ren looking, and apologised.
 
 "Running your Index," the tech said.
 
@@ -52,7 +52,7 @@ POTENTIAL INDEX: UNINDEXED
 
 "Does it mean zero," Ren said, "or does it mean unmeasured?"
 
-She stopped, fingers over the keys. She looked at him properly for the first time, the way people look when a question comes in a shape they haven't seen before.
+She stopped, fingers over the keys, and read the result again before answering.
 
 "Unmeasured," she said. "Formally. The Index runs on output telemetry, and your kit doesn't produce any. There's nothing to run the maths on." She tilted her head. "Nobody's ever asked me that."
 
@@ -70,9 +70,9 @@ He thanked her. Nobody said anything kinder to him for the rest of the week.
 
 He had started applying to teams the day the panel arrived, class self-declared, verification pending. The application to Brickyard Union came back in four hours: *Thank you for your interest. Our composition is complete.* The Palisades took two days and attached a feedback form. Coldharbour FC never replied at all, which Ren respected more; postage was money.
 
-Twelve applications in four weeks, the last one sent with the assessment printout attached, as if the official stamp under the word ATTENDANT might read differently than the word alone. He kept a list, because he kept lists — team, date sent, date declined, method. The method column was the depressing one. Nobody had said no to *him*. They'd said no to a line on a form, sight unseen, same as the Index had.
+Twelve applications in four weeks. He sent the assessment printout with the last one, but the official stamp under ATTENDANT changed nothing. He kept a list, because he kept lists — team, date sent, date declined, method. Every rejection stopped at the same line on the form.
 
-In between he did delivery shifts in the dead-stock jacket and read his panel until he could recite it backwards, which was useless, because reciting wasn't the problem. The problem was that all three skills needed a party member. A party was a System structure — a real invitation, sent from one panel to another and accepted the same way — and nobody had ever invited him to one. The buttons sat grey. Twenty-nine days of owning three skills and he had never once used any of them.
+In between he did delivery shifts in the dead-stock jacket and read his panel until he could recite it backwards. Reciting it had not helped. All three skills needed a party member. A party was a System structure — a real invitation, sent from one panel to another and accepted the same way — and nobody had ever invited him to one. The buttons sat grey. Twenty-nine days of owning three skills and he had never once used any of them.
 
 The forums had nothing. One thread, "ATTENDANT — anyone have footage?", eleven posts, last reply Year 19. The consensus, such as it was: nobody had ever seen the skills used in a Gate, the two known Attendants worked as valets for players in the majors — the eight clubs at the top of the sport — and — final post, forty-one upvotes — "bro the class description says he waits on people. it's a butler. let it go."
 
@@ -102,7 +102,7 @@ The stairwell smelled like fabric softener with an undertone of chalk. The argum
 
 Ren knocked.
 
-The gym had been something else first — the bolt-holes of old machinery still studded the floor — and it held five people and a lot of taped-up equipment. The man who'd been on the phone was compact and quick-looking, boots too good for the room. The woman stacking plates was broad and burn-scarred up both forearms. A small girl sat cross-legged on top of a lockbox with a phone in each hand. By the window, an older man was knitting. And at a table with a laptop and a stack of paper stood a tall grey-streaked woman who looked at Ren the way surveyors look at land.
+The gym had been something else first — the bolt-holes of old machinery still studded the floor — and it held five people and a lot of taped-up equipment. The man who'd been on the phone was compact and quick-looking, boots too good for the room. The woman stacking plates was broad and burn-scarred up both forearms. A small girl sat cross-legged on top of a lockbox with a phone in each hand. By the window, an older man was knitting. At a table with a laptop and a stack of paper, a tall grey-streaked woman watched Ren without blinking.
 
 "I'm here about the sixth," Ren said.
 
@@ -114,7 +114,7 @@ The gym had been something else first — the bolt-holes of old machinery still 
 
 She read it. Theo drifted over to read it too, and she angled the page away from him without looking up.
 
-"Huh," she said, which was the same thing the tech had said, except pointed the other way. She read it again — he watched her do it, watched her go back to the top and take the text a second time, and he quietly put away the speech he'd rehearsed on the bus, because he wasn't going to need it. Then she said: "Read me Escort out loud. Slowly."
+"Huh," she said. She went back to the top and read it again. Ren put away the speech he'd rehearsed on the bus. "Read me Escort out loud," she said. "Slowly."
 
 "'Designate a party member as your charge,'" Ren said. "'While you escort your charge, they move fifteen per cent faster and cannot stumble.'"
 
@@ -124,11 +124,11 @@ She read it. Theo drifted over to read it too, and she angled the page away from
 
 "What's yours?"
 
-"I don't have one yet." He kept his voice level, the way he did at the Trust's counter. "The skills only target party members, and I've never been in a party — I've owned them a month and never fired one. I can tell you what the text says, and I can tell you the text is exact, because it always is. That's everything I've got."
+"I don't have one yet." Ren kept his voice level. "The skills only target party members, and I've never been in a party — I've owned them a month and never fired one. I can tell you what the text says, and I can tell you the text is exact, because it always is. That's everything I've got."
 
 "It's a butler class," Theo said, to the ceiling, like a man asking for strength. "We waited all season and the universe sent us a butler."
 
-"Eleven recorded Attendants ever," the girl on the lockbox said, to her phones. "None have played league. There's no footage. Priors are undefined." She said *undefined* the way other people say *thin ice*.
+"Eleven recorded Attendants ever," the girl on the lockbox said, to her phones. "None have played league. There's no footage. Priors are undefined."
 
 "Correct," Cass said. "So we'll make some. Pip, get on the beam. Juno, oil it. Mats down first."
 
@@ -146,7 +146,7 @@ Pip on it, at a walk, then a jog, then — with [ESCORT] burning like a held tho
 
 She took one off the shoulder mid-stride. Her feet did something Ren had no word for — a reshuffle, quick and boneless, weight always exactly where weight needed to be — and the sprint just continued, like the stumble had been proposed and declined.
 
-Pip stopped at the far rail. She looked at her feet. She looked at Ren, then somewhere past his shoulder.
+Pip stopped at the far rail and tested her footing twice before facing Ren.
 
 "I didn't pay for that," she said, mostly to his shoes. "The recovery. There's always a cost, it's — that's a half-second, minimum, I didn't pay it. Do it again."
 
@@ -200,7 +200,7 @@ Cass took the contract back, read clause nine, and looked at him for slightly lo
 
 "Sign her too," said Doc.
 
-Ren signed. Cass signed. Nobody applauded, which after the assessment hall felt like courtesy.
+Ren signed, then passed the contract to Cass. She added her name without ceremony. Ren preferred that to the applause at the assessment hall.
 
 "Welcome to the bottom of the table, Butler," Theo said, and stuck out his hand, and that was that; Ren could already tell the name was going to outlive the joke.
 
