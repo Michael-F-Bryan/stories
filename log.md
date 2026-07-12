@@ -134,3 +134,49 @@ Lab notebook for meta and process work. One entry per session that touches proce
 - `serial-process/SKILL.md`: first-mention audit extended to world terminology (classes, institutions, jargon, system terms), with "introduced means grounded, not merely used" and an instruction to run it hardest against the opening pages.
 
 **Meta-observation:** every reader-taught rule so far (slack, vary-the-snap, plain-speech, numbers-as-stakes, now cold-reader) is a "the writer knows too much" failure in a different costume — style rules kept fixing how sentences perform while this one is about what the reader has been given. Worth noting that it took a SECOND human reader to surface it: the owner had the README premise and the pitch discussions in his head, so even he couldn't read ch. 1 cold. Outside readers are a detection instrument the process didn't have.
+
+---
+
+## 2026-07-11 — Publishing discovery scaffolded
+
+**Asked:** Implement Task 1 for the story publishing worktree: pinned Node project plus a convention-driven discovery module, using strict TDD and no mocks.
+
+**Done:** Wrote temporary-filesystem tests first, confirmed the red `ERR_MODULE_NOT_FOUND` failure, added `publishing/config.js` and `publishing/books.js`, generated `pnpm-lock.yaml` with pnpm, and verified discovery behaviour for multiple books, chapter ordering, README title/premise extraction, optional covers, empty workdirs, malformed chapter filenames, missing titles/premises/chapter headings, duplicate/non-contiguous chapter numbers, and ambiguous covers.
+
+**Verification:** `pnpm exec node --test test/books.test.js` ✅ and `pnpm test` ✅
+
+**Notes:** Discovery reads only `README.md`, `cover.{jpg,png,webp}`, and `chapters/NNN-slug.md`; it returns explicit source paths for later renderers and ignores unpublished work areas with no chapter files.
+
+---
+
+## 2026-07-11 — Sequential HTML rendering added
+
+**Asked:** Render every conventionally structured work as a multi-book site with one page per chapter, using the approved editorial paperback direction.
+
+**Done:** Added an Eleventy renderer with prefix-safe catalogue, book, and chapter routes; safe Markdown rendering; explicit cover copying; previous/next navigation; responsive light and dark styling; and temporary-filesystem integration coverage. Browser review caught and fixed a catalogue cover overlap, literal Markdown in the premise, and chapter fragments missing the base document shell.
+
+**Verification:** `pnpm test` ✅, `pnpm build` ✅, and browser checks confirmed the styled catalogue and chapter pages load without console errors or horizontal overflow at desktop width.
+
+**Notes:** Rendering consumes only the explicit files returned by discovery. EPUB links are present but their artefacts are added by the next publishing stage.
+
+---
+
+## 2026-07-11 — Downloadable EPUB editions added
+
+**Asked:** Publish a downloadable EPUB3 edition for each discovered story from the same ordered chapter sources used by the website.
+
+**Done:** Added explicit Pandoc rendering with shared author and language metadata, optional embedded covers, ebook-specific styling, archive-level navigation and spine inspection, and complete public-output verification.
+
+**Verification:** Real temporary books cover ordered chapters, covered and coverless editions, EPUB metadata, embedded CSS, forbidden paths and references, and PATH-portable Pandoc invocation. `pnpm test` and two consecutive `pnpm build` runs pass.
+
+**Notes:** EPUB generation receives only discovered chapter and cover paths. It adds files to publisher-owned output without recursively reading or copying a work directory.
+
+---
+
+## 2026-07-11 — Task 4: GitHub Pages CI/deploy workflow added
+
+**Asked:** Wire up CI so pull requests and pushes validate the publish pipeline, while only `main` publishes `_site` to GitHub Pages.
+
+**Done:** Added the workflow contract test, the Pages workflow, and a README publishing section. The workflow keeps Pages permissions off PR builds, runs install/test/build on every validation run, uploads `_site` only on `main`, and deploys from the dedicated Pages job.
+
+**Verification:** Targeted workflow test was red before the workflow existed, then the full test/build path and diff check passed after implementation.

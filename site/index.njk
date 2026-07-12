@@ -1,0 +1,48 @@
+---
+layout: layouts/base.njk
+title: Stories
+---
+<section class="catalogue">
+  <header class="page-intro">
+    <p class="eyebrow">Available now</p>
+    <h1>Current catalogue</h1>
+    <p class="lede">Browse the stories that are ready to read, with their latest chapter and start links kept up to date automatically.</p>
+  </header>
+
+  <ol class="catalogue-list">
+    {% for book in books %}
+      <li>
+        <article class="book-card">
+          <a class="book-card__cover book-cover book-cover--typographic" href="{{ book.url }}" aria-label="Open {{ book.title }}">
+            {% if book.coverUrl %}
+              <img src="{{ book.coverUrl }}" alt="" loading="lazy" decoding="async">
+            {% endif %}
+            <span class="book-cover__label">{{ book.title }}</span>
+          </a>
+
+          <div class="book-card__body">
+            <p class="book-card__kicker">Book {{ loop.index }}</p>
+            <h2 class="book-card__title"><a href="{{ book.url }}">{{ book.title }}</a></h2>
+            <p class="book-card__synopsis">{{ book.synopsisHtml | safe }}</p>
+
+            <dl class="book-card__meta">
+              <div>
+                <dt>Chapters</dt>
+                <dd>{{ book.chapterCount }} chapter{% if book.chapterCount != 1 %}s{% endif %}</dd>
+              </div>
+              <div>
+                <dt>Latest chapter</dt>
+                <dd><a href="{{ book.latestChapterUrl }}">{{ book.latestChapterTitle }}</a></dd>
+              </div>
+            </dl>
+
+            <p class="book-card__actions">
+              <a class="button" href="{{ book.startReadingUrl }}">Start reading</a>
+              <a class="button button--ghost" href="{{ book.epubUrl }}">Download EPUB</a>
+            </p>
+          </div>
+        </article>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
