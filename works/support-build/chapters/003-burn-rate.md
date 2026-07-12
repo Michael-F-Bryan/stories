@@ -44,7 +44,7 @@ That evening Cass rewrote the Stacks formation on the whiteboard. In the new dia
 
 On Wednesday evening, day five, they burned Ren to the edge on purpose.
 
-Cass handed the experiment to Doc, who set the stop conditions before anyone began. They were testing the question he had raised on Ren's first day: where did the line sit between things Ren could carry and things he couldn't? Bags counted; that much was settled. But Juno's fire had an upkeep, a continuous feed of attention that kept a called flame alive, and the text said *what you carry costs them nothing*.
+Cass handed the experiment to Doc, who set the stop conditions before anyone began. They were testing the question he had raised on Ren's first day: where did the line sit between things Ren could carry and things he couldn't? Bags counted. Juno's called flame took attention every second it burned. The text said *what you carry costs them nothing*, and Ren wanted to know if that feed counted as a burden.
 
 "Here's how we're going to do this," Doc said, setting a kitchen timer on the mat between them. "Juno lights a flame and holds it steady. Ren tries to take the feed off her. The moment you feel the first symptom — and I mean the first one, child, not the one you think you can push through — you say so, and we stop. Today we're just measuring."
 
@@ -104,7 +104,7 @@ Once the gear was packed, they turned to the plan. Pip had drawn two maps of the
 
 "What about the third skill?" Theo asked.
 
-"We test it just inside the door," Cass said, "for half a minute, standing still, before we're anywhere near trouble. If it costs him too much, we leave it alone until we understand the place better." She looked around the room at each of them in turn. "We've never cleared a C-grade, but nobody in this division has ever brought a support class into a Gate either. Every team that wiped in the Stacks wiped because they were rushing over bad footing, and we are not going to rush anywhere. We'll walk in slowly and read everything we see, and if the broadcast finds that boring, good. Go home and sleep. The van leaves at seven."
+"We test it just inside the door," Cass said, "for half a minute, standing still, before we're anywhere near trouble. If it costs him too much, we leave it alone until we understand the place better." She looked around the room at each of them in turn. "We've never cleared a C-grade, and nobody in this division has brought a support class into a Gate. The teams that wiped in the Stacks rushed over bad footing. We'll go slowly and read everything we see. If the broadcast gets bored, good. Go home and sleep. The van leaves at seven."
 
 It took the six of them three trips to carry everything down to the van.
 
@@ -118,7 +118,7 @@ Nine years ago the Okafors had lived in District Nine, four streets from a Gate 
 
 "It's just the arrears. The rest of it is still there."
 
-"I know exactly what it is." She set both hands flat on the table. On the fridge, the stamped receipt sat on top of the letter it answered. "I have spent nine years fighting those people over commas and misapplied payments, and the whole time I've been telling you two the same thing — read everything twice, and sign nothing you don't understand. I meant forms, Ren. I never thought one of mine would be standing in front of the real thing. Tomorrow, whatever is inside that place, you read it twice before you touch it. You hear me? Twice."
+"I know exactly what it is." She set both hands flat on the table. On the fridge, the stamped receipt sat on top of the letter it answered. "I've spent nine years fighting those people over commas and misapplied payments. You know what I keep telling you. Read everything twice. Sign nothing you don't understand." She sat back. "I meant forms, Ren. Tomorrow, whatever is in there, read it twice before you touch it. You hear me?"
 
 "Yes, mum."
 

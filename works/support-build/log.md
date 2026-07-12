@@ -287,3 +287,7 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Done:** Reworked chapter 6’s balanced corrections, abstract-subject action, interpretive Focus passage, polished dialogue staircase, look-then-deliberate blocking, negative-space emotion, and weak scene buttons. Preserved the concrete action ending and all live stop-rule consequences. No plot, mechanics, or canon changed.
 
 **Serial-wide verification:** Compared the edited corpus against the branch baseline. Targeted search counts changed as follows: interpretive `which` tails 9→0; balanced corrections 3→0; negative-space delivery 6→1; look-then decision blocking 10→2; abstract triggers 4→0; managed-figure seeds 9→0; accounting overfit 4→0. The remaining hits are intentional uses rather than automatic failures. `git diff --check`, all 22 Node tests, the site build, EPUB build, and output verification pass.
+
+## 2026-07-12 — Late independent audit follow-up
+
+**Review outcome:** The chapter 1–2 and chapter 5–6 auditors timed out without summaries. The chapter 3–4 auditor completed after the main pass and found five residual candidates. Three chapter 3 findings were accepted: simplify the fire-upkeep setup, loosen Cass's pre-entry briefing, and make Ada's warning less speech-like. Its chapter 4 recap finding was rejected because the line states live formation and skill state needed for the next sequence; its other chapter 4 finding had already been removed during the main pass.
