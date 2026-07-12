@@ -1,0 +1,48 @@
+{
+  "skill_system": "human-prose-system",
+  "version": 1,
+  "evals": [
+    {
+      "id": "social-pressure",
+      "name": "Contract desk under social pressure",
+      "prompt": "Write a complete 800–1100 word fantasy scene in close third-person past tense. Nera, a seventeen-year-old unlicensed monster hunter, needs a guild clerk to correct a deliberately false classification on her permit before the infirmary closes. Her injured younger sister is waiting upstairs. The clerk knows the classification is false but is frightened of the supervisor who ordered it. Nera begins by placing the permit on the desk and asking for a correction. She cannot threaten the clerk without losing access to the infirmary. The scene must turn because Nera notices what the clerk is actually afraid of and changes tactics. End with the situation materially changed but not neatly resolved. Keep the world understandable without a glossary. Return story prose only.",
+      "expected_output": "A clear, tense dialogue scene driven by social action and character-specific attention, with ordinary speech, subtext, a causal turn, and no polished thesis exchange.",
+      "assertions": [
+        "Final output is 800–1100 words of prose only",
+        "Nera's immediate want and constraint are clear within the opening page",
+        "Dialogue attempts social actions rather than transferring exposition",
+        "The turn follows from Nera noticing the clerk's specific fear",
+        "The ending changes leverage without resolving everything tidily",
+        "No known high-confidence banned phrase pattern appears verbatim"
+      ]
+    },
+    {
+      "id": "causal-action",
+      "name": "Rescue through constrained teleportation",
+      "prompt": "Write a complete 800–1100 word progression-fantasy action scene in close third-person past tense. Tomas is a novice teleporter inside a collapsing transit Gate. His skill can move anything he can see to a place he touched in the previous ten seconds, but each jump temporarily removes his depth perception. A maintenance worker is trapped across a widening crack. Tomas wants to rescue her before the Gate folds, while a senior fighter keeps ordering him to evacuate. Begin with Tomas trying and failing to jump a loose handrail into place. The eventual solution must use the established rule fairly, cost Tomas something immediate, and arise from a choice rather than a new power. End on concrete aftermath, not a slogan. Return story prose only.",
+      "expected_output": "Readable tactical action with fair mechanics, visible causality, a character choice, varied pacing, and no trailer narration or arithmetic transcript.",
+      "assertions": [
+        "Final output is 800–1100 words of prose only",
+        "The teleport rule is understandable through action",
+        "Every tactical step changes the physical situation",
+        "The solution uses only the stated ability and recent touch constraint",
+        "Tomas pays an immediate concrete cost",
+        "The ending is concrete and does not explain the scene's meaning"
+      ]
+    },
+    {
+      "id": "quiet-aftermath",
+      "name": "Workshop after a public failure",
+      "prompt": "Write a complete 800–1100 word quiet fantasy scene in close third-person past tense. Ilen is cleaning a workshop after his older brother's public enchantment test failed and injured nobody, but ended the brother's apprenticeship. Their mentor arrives to help. Ilen is angry with the mentor, ashamed that part of him is relieved, and determined not to discuss either feeling. He wants to finish cleaning before his brother returns. Begin with Ilen trying to scrape fused blue glass from a workbench. The mentor wants Ilen to leave one damaged object untouched for the inquiry. Let emotion emerge through work, avoidance, mistaken assumptions, and one practical decision. Do not use generic body reactions or summarise the lesson. End with an ordinary action that has acquired consequence. Return story prose only.",
+      "expected_output": "An emotionally legible aftermath scene whose feeling comes from practical behaviour, uneven attention, and subtext rather than labelled emotion or lyrical closure.",
+      "assertions": [
+        "Final output is 800–1100 words of prose only",
+        "Ilen's mixed feelings remain legible without direct emotional summary",
+        "Workshop actions carry scene movement rather than decorative mood",
+        "The mentor has a social objective and can misread Ilen",
+        "A practical choice changes the relationship or inquiry",
+        "The closing action is ordinary, specific, and consequential"
+      ]
+    }
+  ]
+}

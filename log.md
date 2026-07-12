@@ -180,3 +180,25 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Done:** Added the workflow contract test, the Pages workflow, and a README publishing section. The workflow keeps Pages permissions off PR builds, runs install/test/build on every validation run, uploads `_site` only on `main`, and deploys from the dedicated Pages job.
 
 **Verification:** Targeted workflow test was red before the workflow existed, then the full test/build path and diff check passed after implementation.
+
+---
+
+## 2026-07-12 — AI-fiction subreddit research strategy drafted
+
+**Asked:** Design the overall strategy for mining a subreddit about writing better fiction with AI, with all research artefacts kept under `_working/<topic>/`.
+
+**Done:** Created `_working/ai-fiction-research/` and completed the subreddit study. Captured 11,806 posts and 4,444 comments from 210 evidence-selected complete threads, with the live 100-entry RSS edge fully represented. Ran two parallel analysis waves and three independent final reviews using `gpt-5.4-mini`. Produced 16 calibrated claims, 12 contradictions, 8 problem classes, 10 conditional practices, a repository-fit assessment, a proposal-only playbook, open questions, and five proposed experiments. Final checks confirmed all 94 claim source references resolve to the captured corpus.
+
+**Direction received:** Use `gpt-5.4-mini` subagents for parallel research and trivial work; reserve the primary model for orchestration, synthesis, and verification.
+
+**Decision:** No subreddit-derived process change was adopted. Every claim is marked `research-only`; experiments must improve local reader outcomes before any deliberate skill change.
+
+### Skill-system integration design — 12 July 2026
+
+**Asked:** Integrate the research into a single cohesive skill system that can produce enjoyable, high-quality serial fiction which feels genuinely human, with recognisably engineered prose as the priority failure.
+
+**Done:** Ran three parallel `gpt-5.4-mini` design lanes over the existing skills, research synthesis, and larger serial-authoring references. Proposed a three-skill spine: `serial-process` for coordination/state/canon, a new `story-engine` for positive dramatic generation and reader pull, and `authors-voice` refactored into selectively loaded composition and audit modes. The key hypothesis is that keeping the full defect catalogue out of the drafting context will reduce checklist-shaped prose.
+
+**Direction received:** Blind comparisons may consolidate, relax, or retire existing reader-taught rules when they now worsen prose through over-correction.
+
+**Status:** Michael approved implementation. Work is isolated on `feat/human-prose-system`; the clean repository baseline passed 22 tests, the four new skill-contract tests failed for the expected missing architecture, and frozen old-system prose evaluations are running before candidate skill files are written.
