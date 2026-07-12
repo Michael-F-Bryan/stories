@@ -259,3 +259,35 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Independent Audit gate:** PASS. A fresh reviewer loaded only `authors-voice/references/audit.md` and `rule-registry.md`, ran one bounded pass over active high-confidence rules, and found no material reader-visible defect. No audit edits were made.
 
 **Final reader pass:** Literal action, spatial causality, POV attention, dialogue pressure, ordinary connective prose, and the ending all pass. Scaffold scan and `git diff --check` are clean. Updated timeline, knowledge, character-state, promises, this log, and handoff from the accepted chapter text. No process, publishing, evaluation, bible, plan, or existing chapter file changed.
+
+## 2026-07-12 — Humanisation pass: chapter 1
+
+**Owner:** Supplied a serial-wide diagnosis of “managed significance” and asked for the existing chapters to be revised on `humanize`.
+
+**Done:** Reworked chapter 1’s interpretive tails, abstract reaction metaphors, look-then-deliberate blocking, and repeated polished buttons. Preserved the week-compression negative-space line and the earned deadline turn. No plot, mechanics, or canon changed.
+
+## 2026-07-12 — Humanisation pass: chapter 2
+
+**Done:** Reworked chapter 2’s interpretive opener, mechanic recap, accounting overfit, meaningful non-action, and staged reactions. Kept exact numbers where they carry training or family stakes. No plot, mechanics, or canon changed.
+
+## 2026-07-12 — Humanisation pass: chapter 3
+
+**Done:** Reworked chapter 3’s polished psychological diagnosis, abstract Focus description, camera-response blocking, accounting motif density, and domestic interpretive framing. Juno now participates in revealing her motive instead of receiving a complete thesis from Ren. No plot, mechanics, or canon changed.
+
+## 2026-07-12 — Humanisation pass: chapter 4
+
+**Done:** Reworked chapter 4’s abstract skill activation, camera-related negative action, synthetic training recap, and clusters of storyboard buttons. Preserved the concrete Gate crossing and physical cliffhanger. No plot, mechanics, or canon changed.
+
+## 2026-07-12 — Humanisation pass: chapter 5
+
+**Done:** Reworked chapter 5’s abstract-subject action, meaningful non-action, deliberation shorthand, and overly conceptual skill drain. Preserved rescue clarity and tactical mechanics. No plot, mechanics, or canon changed.
+
+## 2026-07-12 — Humanisation pass: chapter 6
+
+**Done:** Reworked chapter 6’s balanced corrections, abstract-subject action, interpretive Focus passage, polished dialogue staircase, look-then-deliberate blocking, negative-space emotion, and weak scene buttons. Preserved the concrete action ending and all live stop-rule consequences. No plot, mechanics, or canon changed.
+
+**Serial-wide verification:** Compared the edited corpus against the branch baseline. Targeted search counts changed as follows: interpretive `which` tails 9→0; balanced corrections 3→0; negative-space delivery 6→1; look-then decision blocking 10→2; abstract triggers 4→0; managed-figure seeds 9→0; accounting overfit 4→0. The remaining hits are intentional uses rather than automatic failures. `git diff --check`, all 22 Node tests, the site build, EPUB build, and output verification pass.
+
+## 2026-07-12 — Late independent audit follow-up
+
+**Review outcome:** The chapter 1–2 and chapter 5–6 auditors timed out without summaries. The chapter 3–4 auditor completed after the main pass and found five residual candidates. Three chapter 3 findings were accepted: simplify the fire-upkeep setup, loosen Cass's pre-entry briefing, and make Ada's warning less speech-like. Its chapter 4 recap finding was rejected because the line states live formation and skill state needed for the next sequence; its other chapter 4 finding had already been removed during the main pass.

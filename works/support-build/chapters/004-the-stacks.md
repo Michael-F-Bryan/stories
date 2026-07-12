@@ -26,11 +26,7 @@ The producer held up five fingers to the camera operator and began counting down
 
 Cass faced the team. "We use the plan we trained. Pip reads the ground. Nobody steps where she hasn't cleared. Ren uses Carry for Doc's pack and keeps Escort and Attend off until the door test. We leave if the wet map is wrong."
 
-The producer dropped her last finger.
-
-A red light came on above the shoulder camera.
-
-Cass stepped through the aperture.
+The producer dropped her last finger. A red light came on above the shoulder camera, and Cass stepped through the aperture.
 
 ---
 
@@ -50,7 +46,7 @@ Theo came through with his swords drawn. Doc followed him, and the shoulder-rig 
 
 Pip stood at the edge of the receiving platform and looked into the first aisle. Ren released Carry, and Doc's pack returned to him. Then Ren designated Pip as his charge and reached for Attend.
 
-The skill took hold when he stood behind her and waited for what she would find.
+Ren stood behind Pip and activated Attend.
 
 His own view faded. The colour drained from Cass's shield and the platform under his boots. At the same time, he could see from Pip's lower height. She was looking up into the racking, following every cross-brace and shadowed pallet. He heard Cass breathing to his left through his own ears, and through Pip's ears he heard water moving somewhere ahead of them.
 
@@ -100,7 +96,7 @@ Then Cass leaned into the pack, and her shield blocked the camera's view of him.
 
 It was over in twelve seconds.
 
-The last skitter folded against the base of the racking. Theo stepped away from it and wiped one blade on a rag he pulled from his belt. He did not look towards the camera.
+The last skitter folded against the base of the racking. Theo stepped away from it, wiped one blade on a rag he pulled from his belt, and checked the aisle ahead.
 
 "Six contacts down at three minutes and forty-two seconds," the operator said for the feed. "Grave Society has entered clean."
 
@@ -118,13 +114,11 @@ Pip's red marks made the shapes obvious. She put an arrow through the first befo
 
 Juno opened one of her wax-wrapped pots. The cloth beneath the first layer was dry. She tipped a black coal into her palm, fed it until flame covered her fingers, and sent a narrow sheet of fire across the falling palp. It struck the platform already curling in on itself.
 
-Juno closed her hand. The fire went out.
-
-Ren looked at her. She gave him a quick nod, then rewrapped the pot and put it away. She had used enough.
+Juno closed her hand, put the fire out, and rewrapped the pot.
 
 At the top of the ladder, the shoulder-rig operator had to turn sideways to fit between the rail and Cass's shield. Theo waited on the far landing with his back to the lens. When they moved again, his place in the formation stayed hidden behind Juno.
 
-Their training held together inside the Gate. Pip cleared the route while Cass controlled the front, and Theo killed anything that reached her. Juno only used fire when the racking made a sword unsafe. Ren carried Doc's pack and watched the three bad crossings ahead of them on Pip's maps. After the door test, Carry was the only skill he kept running.
+For the next three aisles, the formation worked as it had in the gym. Pip cleared the route while Cass controlled the front, and Theo killed anything that reached her. Juno only used fire when the racking made a sword unsafe. Ren carried Doc's pack and watched the three bad crossings ahead of them on Pip's maps. After the door test, Carry was the only skill he kept running.
 
 At 07:06, they reached the stairs down to the first junction.
 
@@ -137,8 +131,6 @@ Pip stood on the lowest dry stair and aimed her torch across the junction. The b
 Black water covered it.
 
 Pip moved the light higher. The water reached the third cross-brace, more than a metre above the mark on her wet map. It filled both ground-level aisles and ran under the stairs behind the next racking row. The dry route they had planned to take towards the sluice gate no longer existed.
-
-Nobody needed to argue about what the maps meant. The water was worse than Pip's worst case.
 
 Cass checked the route behind them. The timer on Ilyas's camera read 07:18. "We're leaving. Same formation. Pip, take us back."
 
