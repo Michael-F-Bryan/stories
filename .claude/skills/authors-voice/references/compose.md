@@ -4,7 +4,7 @@
 
 Build prose from what the POV character notices, needs, misreads, and can act on. Attention should follow pressure, practical use, and current uncertainty.
 
-Use the story-engine generation packet as orientation for reader pull, promise movement, character pressure, attention field, causal spine, shape choice, explanation budget, and voice anchors.
+Use the story-engine generation packet as orientation for reader pull, promise movement, character pressure, attention field, causal spine, shape choice, explanation budget, and voice anchors. Its one short ordinary spoken sample and one short ordinary internal sample orient tone, syntax, attention, and pressure only; they are not copyable templates or catchphrases.
 
 ## Social action beneath dialogue
 
