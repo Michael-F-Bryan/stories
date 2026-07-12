@@ -180,3 +180,39 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Done:** Added the workflow contract test, the Pages workflow, and a README publishing section. The workflow keeps Pages permissions off PR builds, runs install/test/build on every validation run, uploads `_site` only on `main`, and deploys from the dedicated Pages job.
 
 **Verification:** Targeted workflow test was red before the workflow existed, then the full test/build path and diff check passed after implementation.
+
+---
+
+## 2026-07-12 — AI-fiction subreddit research strategy drafted
+
+**Asked:** Design the overall strategy for mining a subreddit about writing better fiction with AI, with all research artefacts kept under `_working/<topic>/`.
+
+**Done:** Created `_working/ai-fiction-research/` and completed the subreddit study. Captured 11,806 posts and 4,444 comments from 210 evidence-selected complete threads, with the live 100-entry RSS edge fully represented. Ran two parallel analysis waves and three independent final reviews using `gpt-5.4-mini`. Produced 16 calibrated claims, 12 contradictions, 8 problem classes, 10 conditional practices, a repository-fit assessment, a proposal-only playbook, open questions, and five proposed experiments. Final checks confirmed all 94 claim source references resolve to the captured corpus.
+
+**Direction received:** Use `gpt-5.4-mini` subagents for parallel research and trivial work; reserve the primary model for orchestration, synthesis, and verification.
+
+**Decision:** No subreddit-derived process change was adopted. Every claim is marked `research-only`; experiments must improve local reader outcomes before any deliberate skill change.
+
+### Skill-system integration design — 12 July 2026
+
+**Asked:** Integrate the research into a single cohesive skill system that can produce enjoyable, high-quality serial fiction which feels genuinely human, with recognisably engineered prose as the priority failure.
+
+**Done:** Ran three parallel `gpt-5.4-mini` design lanes over the existing skills, research synthesis, and larger serial-authoring references. Proposed a three-skill spine: `serial-process` for coordination/state/canon, a new `story-engine` for positive dramatic generation and reader pull, and `authors-voice` refactored into selectively loaded composition and audit modes. The key hypothesis is that keeping the full defect catalogue out of the drafting context will reduce checklist-shaped prose.
+
+**Direction received:** Blind comparisons may consolidate, relax, or retire existing reader-taught rules when they now worsen prose through over-correction.
+
+**Status:** Michael approved implementation. Work is isolated on `feat/human-prose-system`; the clean repository baseline passed 22 publishing tests, and frozen old-system prose evaluations are running before candidate skill files are written.
+
+### Skill-contract test correction — 12 July 2026
+
+**Feedback:** JavaScript tests that assert wording and headings inside Markdown skills do not meaningfully test whether the skills work.
+
+**Decision:** Remove `test/skills.test.js` and the plan's test-first skill-edit requirements. Skill architecture is verified through focused spec and quality review, actual context-loading boundaries, candidate generation, and blind prose evaluation. The repository's `pnpm test` remains responsible for executable publishing behaviour.
+
+### Human-prose skill system adopted — 12 July 2026
+
+**Evaluation:** Three model graders unanimously preferred the candidate in all three synthetic cases, but their shared model family made that correlated evidence. Michael reviewed shorter matched excerpts and preferred the candidate for social pressure and causal action, and the old system for quiet aftermath. The candidate therefore won the authoritative owner comparison two cases to one.
+
+**Reader feedback:** The remaining tells were figurative cleverness spent on routine explanation, inanimate or abstract agency, polished emotion lists, unnatural physical abstractions, stacked negatives, broad interpretive generalisations, and clipped negation reveals. Full scenes were too long for confident A/B judgement; future blind tests use short matched excerpts.
+
+**Decision:** Adopt the three-skill system: `serial-process` coordinates lifecycle and grounding, `story-engine` owns positive design and developmental diagnosis, and `authors-voice` isolates composition from fresh-context prose audit. The quiet-scene loss produced one bounded audit correction: active high-confidence rules receive a single cluster-based pass before `good as-is`, without keyword policing or reopening unaffected prose. A fresh auditor without access to Michael's feedback then independently caught the affected quiet-scene cluster while preserving the opening and ending. Michael directed that the new skill set be locked and pushed.

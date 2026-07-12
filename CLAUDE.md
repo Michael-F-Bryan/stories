@@ -4,8 +4,9 @@ This repository is an experiment: **can an AI plan and write long-form serial fi
 
 ## How to operate in this repo
 
-- Before doing ANY planning or writing work on a serial, load the **serial-process** skill (`.claude/skills/serial-process/SKILL.md`). It defines the lifecycle, the per-chapter writing loop, and the ledger discipline. Follow it.
-- Before drafting or revising ANY story prose, load the **authors-voice** skill (`.claude/skills/authors-voice/SKILL.md`) and write in that voice.
+- Before any serial lifecycle, worldbuilding, continuity, ledger, handoff, or publishing-state work, load the **serial-process** skill (`.claude/skills/serial-process/SKILL.md`). It owns lifecycle, canon grounding, ledgers, handoff, logs, spoiler discipline, and commits.
+- Before planning story shape or running a developmental review, also load the **story-engine** skill (`.claude/skills/story-engine/SKILL.md`). It owns story design and developmental diagnosis.
+- Before drafting, revising, line editing, or auditing story prose, load the **authors-voice** skill (`.claude/skills/authors-voice/SKILL.md`). It owns composition mode and audit mode.
 - Every working session appends to a log: `log.md` at the repo root for meta/process work, `works/<serial>/log.md` for work on a specific serial. Log what was asked, what was done, and any feedback received. The logs are the lab notebook for this experiment — keep them honest.
 
 ## Formatting
