@@ -1,6 +1,6 @@
 # 2 — Cargo
 
-At two minutes to six on Saturday morning, Cass was already setting out cones, which settled last night's question: six meant both sixes.
+Cass was setting out cones when Ren arrived at two minutes to six on Saturday morning. Apparently she had meant both training sessions.
 
 "Escort first," she said, instead of good morning. "We know it works. Today we find out how it breaks."
 
@@ -20,17 +20,17 @@ Then the pillar. Pip ducked behind it, out of his sight for half a second, and t
 
 "Then we'll test hearing tonight. Swap to Theo."
 
-Swapping charges took about a breath — designate, release, designate — and the breath was not negotiable. Cass timed it four times. One charge at a time, a breath to change, and he had to keep whoever it was where he could perceive them. Those were the rules so far, and nobody had known any of them yesterday.
+Changing charges took one breath. Escort dropped whenever Ren lost sight of the charge. Cass timed the swap four times, then wrote both rules down.
 
 The morning's other discovery arrived by accident. Theo, orbiting on cart duty, drifted in mid-drill with a question about whether Ren thought Juno's cooking constituted a signing benefit or a hazing ritual, and Ren, being polite, started to answer. The escort sagged. On the oiled patch, Pip's foot went out from under her for the first time in two days, and she landed flat on Doc's mats.
 
-She sat up, looked at the patch, then at Ren. "What changed?"
+She sat up and rubbed oil from one elbow. "What changed?"
 
 "I did. Sorry."
 
 "Okay, so, new rule," Juno said, hauling Pip up. "Nobody talks to him while he's working. He's not being rude, he's being *load-bearing*."
 
-"It's true," Ren said. "The skill runs on my attention, and talking comes out of the same account."
+"It's true," Ren said. "Talking breaks my concentration."
 
 Cass wrote that down as well.
 
@@ -42,11 +42,11 @@ And when Ren tried to take the pack again after lunch, it wouldn't fire at all, 
 
 "Course it didn't. I'm not willing." Doc picked the pack up himself. "Now I am. Try."
 
-The weight came across. Doc nodded slowly.
+Ren took the pack's weight. Doc lifted both shoulders and rolled them once.
 
 "Polite," he said, and went back to his chair.
 
-The last hour of the morning was formation work, and it went badly in an instructive way. Theo kept positioning himself between Ren and the imaginary threat, the way a bodyguard shields a client, and the whole shape of the drill bent around protecting the one person who wasn't carrying, hitting, or scouting anything.
+The last hour of the morning was formation work, and it went badly. Theo kept positioning himself between Ren and the imaginary threat. Every time Pip crossed the drill lane, Theo cut her off to shield the one person who wasn't carrying, hitting, or scouting anything.
 
 Cass stopped it. "You're guarding him like luggage."
 
@@ -98,13 +98,13 @@ Second: sixty-one.
 
 Third, with the swap timings called by Cass instead of guessed: fifty-eight seconds, no resets, and the sandbag came down on the far mats while Theo was still mid-throw.
 
-Nobody said anything for a second. Then Pip said, "Fifty-eight," and checked her stopwatch against the wall clock anyway.
+Pip stared at her stopwatch. "Fifty-eight." She checked it against the wall clock anyway.
 
 "Do it twice more," Cass said. "If it's real, it repeats."
 
 It repeated. Fifty-nine, then fifty-seven. Juno sat down on the stretcher next to the sandbag and laughed at the ceiling, and Theo pointed at Ren with a tennis ball and said, "I want it noted I threw *well*."
 
-The last run was Ren's own fault. Cass asked if he had one more in him, and the honest answer was "one cheap one," and what he said instead was yes. Second session of the day; his account was low, and he knew it was low, and around the cart slalom the room started narrowing to a tube again. He kept the escort up. At the scaffold the sound flattened, Cass's count going distant and tinny, and he held the swap anyway, twenty more seconds, because the sandbag was almost home and some stubborn arithmetic in him said *finish*.
+The last run was Ren's own fault. Cass asked if he had one more in him, and the honest answer was "one cheap one," and what he said instead was yes. It was his second session of the day. Around the cart slalom the room started narrowing to a tube again. He kept the escort up. At the scaffold the sound flattened and Cass's count went distant and tinny. He knew he should stop, but the sandbag was almost home.
 
 The sandbag touched the mats at fifty-nine seconds. Half a second later Doc staggered as his pack arrived back on his shoulders all at once, and he turned around before anyone else understood, because he already knew what it meant. Ren sat down where he stood. He reached for the skills and nothing answered; the buttons had gone out.
 
@@ -112,7 +112,7 @@ Doc crouched in front of him, took his pulse, and peeled back one of his eyelids
 
 "Grey-out," Doc said, to Cass. "Proper one." Then to Ren: "Food, then sleep, then more food. It comes back on its own, and nothing hurries it." He stood, joints cracking. "And don't ever do that in a Gate, child. Out here it costs you an evening. In there it costs whoever you were holding."
 
-Ren nodded, which made the room swim. His hands had gone stupid; it took him three tries to do up his jacket, and Juno pretended very loudly not to watch, narrating her flood maps to Pip instead — the Stacks survey was from Year 20, she was saying, two years stale, and the water table had moved twice since, so if the low thirds were deeper than charted then her whole heat budget needed—
+Ren nodded and the room swam. His hands had gone stupid; it took him three tries to do up his jacket. Juno turned to Pip and launched into her flood maps at twice her normal volume — the Stacks survey was from Year 20, she was saying, two years stale, and the water table had moved twice since, so if the low thirds were deeper than charted then her whole heat budget needed—
 
 "Ninety more seconds," Pip said, "and the preview's up."
 
@@ -132,10 +132,10 @@ Juno started after him. Doc didn't look up from packing his needles.
 
 "Let him get to the corner first," Doc said. "Then go."
 
-She gave him to the corner. Cass turned off the projector, and told the rest of them to sleep, and stood for a moment looking at the whiteboard where the corridor times were written in a column: 74, with two resets. Then 66, 61, 58, 59, 57. She had not written up the last run, the one that had cost Ren his evening, and she didn't write it up now.
+She gave him to the corner. Cass turned off the projector and told the rest of them to sleep. At the whiteboard, she read the corridor times: 74, with two resets. Then 66, 61, 58, 59, 57. The last run was absent.
 
 "Eight days," she said, and rubbed the numbers out.
 
-The bus home was mostly empty. Ren ate the protein bar Doc had put in his pocket, and read the assignment email again with eyes that kept sliding off the words — *the Stacks, C-grade, scheduled clearance broadcast* — and did what he always did with numbers, which was arithmetic. Eight days to the Gate, so seven more mornings of training. Two sessions a day. His account refilling overnight, mostly, if Doc was right about the food.
+The bus home was mostly empty. Ren ate the protein bar Doc had put in his pocket and read the assignment email again with eyes that kept sliding off the words — *the Stacks, C-grade, scheduled clearance broadcast*. He started counting. Eight days to the Gate, so seven more mornings of training. Two sessions a day. His Focus refilling overnight, mostly, if Doc was right about the food.
 
 He fell asleep somewhere in the middle of the sums and missed his stop by three.

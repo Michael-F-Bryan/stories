@@ -265,3 +265,7 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Owner:** Supplied a serial-wide diagnosis of “managed significance” and asked for the existing chapters to be revised on `humanize`.
 
 **Done:** Reworked chapter 1’s interpretive tails, abstract reaction metaphors, look-then-deliberate blocking, and repeated polished buttons. Preserved the week-compression negative-space line and the earned deadline turn. No plot, mechanics, or canon changed.
+
+## 2026-07-12 — Humanisation pass: chapter 2
+
+**Done:** Reworked chapter 2’s interpretive opener, mechanic recap, accounting overfit, meaningful non-action, and staged reactions. Kept exact numbers where they carry training or family stakes. No plot, mechanics, or canon changed.
