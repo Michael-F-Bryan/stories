@@ -269,3 +269,7 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 ## 2026-07-12 — Humanisation pass: chapter 2
 
 **Done:** Reworked chapter 2’s interpretive opener, mechanic recap, accounting overfit, meaningful non-action, and staged reactions. Kept exact numbers where they carry training or family stakes. No plot, mechanics, or canon changed.
+
+## 2026-07-12 — Humanisation pass: chapter 3
+
+**Done:** Reworked chapter 3’s polished psychological diagnosis, abstract Focus description, camera-response blocking, accounting motif density, and domestic interpretive framing. Juno now participates in revealing her motive instead of receiving a complete thesis from Ren. No plot, mechanics, or canon changed.

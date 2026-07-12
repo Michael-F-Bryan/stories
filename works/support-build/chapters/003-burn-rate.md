@@ -1,6 +1,6 @@
 # 3 — Burn Rate
 
-Ren heard the arrows before he saw them. It was Sunday morning, day two, and the sound came from the far end of the rail easement — a flat snap, a pause, then another snap. Pip stood in the gravel shooting at a fence post, and he stopped and watched her for a moment, adjusting to the sight. He hadn't known she used a bow. Nobody had mentioned it. He'd spent two days learning what this team's skills said and almost nothing about what any of them held in their hands while using them. The bow suited her, though. It was a scout's weapon, and she shot the way she talked — short accurate bursts, with long gaps in between where she just looked at things.
+Ren heard the arrows before he saw them. It was Sunday morning, day two, and the sound came from the far end of the rail easement — a flat snap, a pause, then another snap. Pip stood in the gravel shooting at a fence post, and he stopped to watch. He hadn't known she used a bow. He'd spent two days learning what this team's skills said and almost nothing about what any of them held in their hands while using them. The bow suited her. She fired in short accurate bursts, with long gaps while she studied the target.
 
 Cass had moved training out here because the gym was too small for the morning's question. The question was range: how far away could a charge get before the escort gave out?
 
@@ -16,11 +16,11 @@ Juno had brought breakfast for six in a cooler bag, and they ate it sitting on t
 
 The League's camera crew came on Tuesday, day four. Qualifier-week profiles: a shoulder-rig operator and a producer with a checklist, who explained that they only needed about twenty minutes of training footage and a quick line from the captain, and that the team wouldn't even notice they were there.
 
-Theo noticed them.
+Theo noticed the camera crew as soon as they entered.
 
 Ren had spent four days learning what Theo looked like at full speed — the chain of cuts flowing one into the next, every landed hit feeding the momentum of the one after it. With the lens on him, Ren watched the whole thing happen in reverse. The first cut was clean. Then Theo's eyes went to the camera instead of the target dummy, the chain died, and a combination he could do in his sleep fell apart into separate movements with dead air between them.
 
-Nobody said anything. Juno launched into a story about flood maps at double volume, Pip suddenly needed to re-fletch arrows, and Cass walked over to the producer and gave her the captain-line early, standing exactly where the shoulder-rig had to turn away from the training floor to frame her.
+Juno launched into a story about flood maps at double volume, Pip started re-fletching arrows, and Cass walked over to the producer and gave her the captain-line early, standing exactly where the shoulder-rig had to turn away from the training floor to frame her.
 
 Theo put the training sword back on the rack with exaggerated care. Then he came and sat next to Ren on the bench.
 
@@ -36,7 +36,7 @@ Ren thought about the assessment hall, and the recruiters looking at his project
 
 "Good. I'd have hated that." Theo got up, rolled his shoulders, and went back to the dummies. Once the camera was gone, his chain ran clean for the rest of the morning.
 
-That evening Cass rewrote the Stacks formation on the whiteboard. In the new diagram, Theo's opening position sat on the far side of the group from where the broadcast rig would come in. Theo studied it for a while, worked out exactly why she had drawn it that way, and didn't make her say it out loud.
+That evening Cass rewrote the Stacks formation on the whiteboard. In the new diagram, Theo's opening position sat on the far side of the group from where the broadcast rig would come in. Theo glanced at the new position, then moved his marker there without comment.
 
 "Solid plan," he said.
 
@@ -44,31 +44,37 @@ That evening Cass rewrote the Stacks formation on the whiteboard. In the new dia
 
 On Wednesday evening, day five, they burned Ren to the edge on purpose.
 
-It was Cass's experiment, but Doc was the one who ran it, and Ren understood the message in that arrangement: when this team thought something might genuinely hurt one of its people, the medic outranked the captain. The question was the one Doc had raised on Ren's first day — where the line sat between things Ren could carry and things he couldn't. Bags counted; that much was settled. But Juno's fire had an upkeep, a continuous feed of attention that kept a called flame alive, and an upkeep was a cost, and the text said *what you carry costs them nothing*.
+Cass handed the experiment to Doc, who set the stop conditions before anyone began. They were testing the question he had raised on Ren's first day: where did the line sit between things Ren could carry and things he couldn't? Bags counted; that much was settled. But Juno's fire had an upkeep, a continuous feed of attention that kept a called flame alive, and the text said *what you carry costs them nothing*.
 
 "Here's how we're going to do this," Doc said, setting a kitchen timer on the mat between them. "Juno lights a flame and holds it steady. Ren tries to take the feed off her. The moment you feel the first symptom — and I mean the first one, child, not the one you think you can push through — you say so, and we stop. Today we're just measuring."
 
 Juno called fire to her hands, a working flame about the size of a loaf of bread, and shaped it into a slow ring. Ren reached for it with the same motion he'd used on her duffel bag, and the feed came across.
 
-He understood within about a second that this was going to be nothing like the duffel bag. There was no weight anywhere. Instead, attention started pouring out of him and into the ring, far more of it than made any sense for a flame that size. The transfer was exact — that was the whole point of the experiment — which meant he was paying whatever Juno actually fed the thing, moment to moment. And Juno fed it far more than it needed. He could feel her habit arriving along with the cost: she fed the flame more than it needed, and topped it up again before it had used what it already had.
+Ren felt no weight. Focus drained out of him instead, far too fast for a flame that size. Every time the drain eased, Juno fed the ring again before it dimmed.
 
 He held it for a minute, and then another. The ring burned on, and Juno stood there with her hands open and empty of effort, watching it.
 
 At three minutes the edges of the room began to narrow. Ren called the symptom the way he'd promised to, Doc stopped the timer, and the feed snapped back to Juno, who closed her fist and put the ring out.
 
-Ren sat down on the mat and worked through what he'd just paid.
+Ren sat down on the mat and waited for his thoughts to stop drifting.
 
-"Juno." He waited until she looked at him. "That rate. Is that your baseline? For a little ring, held still?"
+"Juno. That little ring — is that how much you normally feed it?"
 
 "It's — okay, so, everyone's feed reads different, you can't really compare between casters—"
 
-"I can compare this time, because I just paid for it myself." He knew he was talking too plainly. He didn't stop. "I held that ring for three minutes without doing anything else, and it emptied most of my morning. If holding a flame steady costs you that much, I don't want to imagine what shaping one costs, or throwing one. You're paying full price for everything you do, every time you do it, and I don't think anyone else has ever actually seen your bill."
+"I just carried it. You top it up before it drops."
 
-The gym was quiet. Juno looked at her hands.
+Juno frowned. "I'm holding it steady."
 
-"My old team ran the numbers once," she said. "The trainer told me I was uneconomical." She said the word carefully, like it was someone else's. "They drilled me on ration schedules for a year. It didn't take."
+"No. You're forcing more into it the whole time. Why?"
 
-"That's not — ration schedules are for people who are trying to save. You're not trying to save." Ren thought of his mother, working a third shift so that Bea wouldn't have to know the word *arrears*. "You want to spend it all, every time, so that nothing gets through to anyone."
+"My old team ran the numbers once," she said. She hesitated over the next word. "The trainer called me uneconomical. They drilled me on ration schedules for a year. It didn't take."
+
+Ren thought of his mother working a third shift so Bea wouldn't have to know the word *arrears*. "The schedules failed because you weren't trying to save it."
+
+"What was I trying to do?"
+
+"Make sure nothing got through."
 
 Juno laughed, wobbly. "Okay. Fine. If anyone's going to audit me, it can be you." She dug a container of leftover noodles out of her bag and set it in front of him with great firmness. "Eat. You've gone the colour of old porridge."
 
@@ -80,7 +86,7 @@ By Saturday night, day eight, the plan filled the whiteboard, and the team's gea
 
 It was the first time Ren had seen everything the team actually carried into a Gate laid out in one place. Cass's shield was a scuffed slab of layered composite nearly as tall as she was, with a dent in the top corner from some old fight, and next to it sat a short one-handed hammer that he had never once seen her train with. Theo laid out two short swords and then strapped a third across his lower back; when Ren looked at it, Theo said he threw the first one more often than Cass approved of. Pip had the bow, a long knife, and two quivers — one of broadheads and one of blunt arrows tipped with chalk. She explained the chalk without being asked: her marking skill could flag anything she could see, but the marks only showed up for people in her party, so she carried chalk for when she needed to leave a message that anybody could read. Juno's satchel held ceramic pots of coals wrapped in wax cloth. The coals were banked fire — she had a skill for setting a called flame aside and keeping it — and starting from a banked coal cost her a fraction of what calling fire up from nothing did, so every pot was getting triple-wrapped against the Stacks' water. Doc repacked his medical bag twice and added a folding stretcher.
 
-Ren's own pile was the strange one. No weapon. Water for six, spare gloves, spare rope, chalk, food bars, and the stretcher harness. Cass looked at the pile for a moment, went to her own kit, and handed him a knife in a moulded sheath.
+Ren's own pile was the strange one. No weapon. Water for six, spare gloves, spare rope, chalk, food bars, and the stretcher harness. Cass picked up a knife in a moulded sheath from her own kit and handed it to him.
 
 "Everyone carries one," she said. "You'll probably never draw it. Carry it anyway."
 
@@ -104,15 +110,15 @@ It took the six of them three trips to carry everything down to the van.
 
 ---
 
-When Ren got home, the flat smelled like garlic, which stopped him in the doorway — his mother worked Saturday nights at the depot, and nobody cooked in that kitchen on a Saturday. But there she was at the stove. She had swapped the shift. She talked about the depot and about the neighbours' dog, and she fed him until he pushed the plate away, and then she put one more spoonful on it anyway.
+Ren stopped in the doorway when he smelled garlic. His mother worked Saturday nights at the depot, and the kitchen was usually empty. This time she was at the stove. She had swapped the shift. She talked about the depot and about the neighbours' dog, and she fed him until he pushed the plate away, and then she put one more spoonful on it anyway.
 
-If she was frightened about tomorrow, she had better reasons than most people in Halden. Nine years ago the Okafors had lived in District Nine, four streets from a Gate that the Authority had graded wrong. It broke at four in the morning. Ren had been nine years old, and he remembered that night only in pieces — being carried, and a neighbour's door standing open on an empty flat. What came afterwards he remembered fine, because it never stopped. Their building was condemned. The insurers called the Break an "extradimensional incursion" and pointed to an exclusion clause, and they never paid out a single mark. Then the city billed every surviving household a recovery levy for the rebuild, and that levy became the letter on their fridge under the lemon magnet, every quarter, for nine years. Tomorrow morning, on every screen in the city, her son was going to walk into the same kind of thing that had once broken open over their street.
+Nine years ago the Okafors had lived in District Nine, four streets from a Gate that the Authority had graded wrong. It broke at four in the morning. Ren had been nine years old, and he remembered that night only in pieces — being carried, and a neighbour's door standing open on an empty flat. What came afterwards he remembered fine, because it never stopped. Their building was condemned. The insurers called the Break an "extradimensional incursion" and pointed to an exclusion clause, and they never paid out a single mark. Then the city billed every surviving household a recovery levy for the rebuild, and that levy became the letter on their fridge under the lemon magnet, every quarter, for nine years. Tomorrow morning, on every screen in the city, Ada's son was going to walk into the same kind of thing.
 
 "Your sister showed me the spreadsheet," Ada said, sitting down across from him. "The black row."
 
 "It's just the arrears. The rest of it is still there."
 
-"I know exactly what it is." She was quiet for a moment. On the fridge, the stamped receipt sat on top of the letter it answered. "I have spent nine years fighting those people over commas and misapplied payments, and the whole time I've been telling you two the same thing — read everything twice, and sign nothing you don't understand. I meant forms, Ren. I never thought one of mine would be standing in front of the real thing." She looked at him steadily while she said it, with the same flat firmness she used at the Trust's counter. "Tomorrow, whatever is inside that place, you read it twice before you touch it. You hear me? Twice."
+"I know exactly what it is." She set both hands flat on the table. On the fridge, the stamped receipt sat on top of the letter it answered. "I have spent nine years fighting those people over commas and misapplied payments, and the whole time I've been telling you two the same thing — read everything twice, and sign nothing you don't understand. I meant forms, Ren. I never thought one of mine would be standing in front of the real thing. Tomorrow, whatever is inside that place, you read it twice before you touch it. You hear me? Twice."
 
 "Yes, mum."
 
