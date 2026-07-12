@@ -1,5 +1,6 @@
 import { readFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
+import MarkdownIt from 'markdown-it';
 import { parse as parseYaml } from 'yaml';
 
 import { CHAPTER_FILENAME_PATTERN, COVER_FILENAMES, PREMISE_LABEL } from './config.js';
@@ -26,6 +27,7 @@ import { CHAPTER_FILENAME_PATTERN, COVER_FILENAMES, PREMISE_LABEL } from './conf
 
 const CHAPTERS_DIRECTORY = 'chapters';
 const README_FILENAME = 'README.md';
+const markdownIt = new MarkdownIt({ html: false });
 
 function compareAscii(left, right) {
   if (left === right) {
@@ -183,11 +185,19 @@ export function parseChapterMarkdown(markdown, sourcePath) {
     description = metadata.description.trim();
   }
 
+  const bodyMarkdown = markdown.slice(frontmatterMatch[0].length);
+  const hasLevelOneHeading = markdownIt
+    .parse(bodyMarkdown, {})
+    .some((token) => token.type === 'heading_open' && token.tag === 'h1');
+  if (hasLevelOneHeading) {
+    throw new Error(`${sourcePath}: chapter body must not contain a level-one heading; use the frontmatter title`);
+  }
+
   return {
     index: metadata.index,
     title: metadata.title.trim(),
     description,
-    bodyMarkdown: markdown.slice(frontmatterMatch[0].length),
+    bodyMarkdown,
   };
 }
 

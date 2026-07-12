@@ -94,7 +94,7 @@ test('buildEpubs generates ordered EPUB3 editions with the repository metadata a
       chapters: [
         {
           name: '001-the-door.md',
-          body: `---\nindex: 1\ntitle: The Door\ndescription: "${frontmatterOnlyDescription}"\n---\n\nOpening paragraph with a deliberate chapter one signal.\n`,
+          body: `---\nindex: 1\ntitle: "The *Door* #1"\ndescription: "${frontmatterOnlyDescription}"\n---\n\nOpening paragraph with a deliberate chapter one signal.\n`,
         },
         {
           name: '002-the-market.md',
@@ -157,8 +157,8 @@ test('buildEpubs generates ordered EPUB3 editions with the repository metadata a
     assert.equal(atlasEpub.metadata.title, 'Atlas <One> & Co.');
     assert.equal(atlasEpub.metadata.author, 'Michael F. Bryan');
     assert.equal(atlasEpub.metadata.language, 'en-AU');
-    assert.deepStrictEqual(atlasEpub.navChapterTitles, ['The Door', 'The Market', 'The Archive']);
-    assert.deepStrictEqual(atlasEpub.spineChapterTitles, ['The Door', 'The Market', 'The Archive']);
+    assert.deepStrictEqual(atlasEpub.navChapterTitles, ['The *Door* #1', 'The Market', 'The Archive']);
+    assert.deepStrictEqual(atlasEpub.spineChapterTitles, ['The *Door* #1', 'The Market', 'The Archive']);
     assert.ok(!atlasContents.includes(frontmatterOnlyDescription), 'chapter frontmatter must not appear in EPUB content');
     assert.ok(atlasEpub.coverImagePath, 'covered books should carry a cover image inside the EPUB');
     assert.ok(atlasEpub.stylesheetPaths.some((entry) => entry.endsWith('.css')));

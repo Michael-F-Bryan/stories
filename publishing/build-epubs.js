@@ -36,12 +36,16 @@ function buildPandocArgs(book, epubPath, inputPath, { author, language }) {
   return args;
 }
 
+function escapeMarkdownInlineText(value) {
+  return value.replace(/[\x21-\x2f\x3a-\x40\x5b-\x60\x7b-\x7e]/g, '\\$&');
+}
+
 async function writePandocInput(book, temporaryRoot) {
   const chapters = [];
   for (const chapter of book.chapters) {
     const sourceMarkdown = await readFile(chapter.sourcePath, 'utf8');
     const parsedChapter = parseChapterMarkdown(sourceMarkdown, chapter.sourcePath);
-    chapters.push(`# ${parsedChapter.title}\n\n${parsedChapter.bodyMarkdown.trim()}`);
+    chapters.push(`# ${escapeMarkdownInlineText(parsedChapter.title)}\n\n${parsedChapter.bodyMarkdown.trim()}`);
   }
 
   const inputPath = path.join(temporaryRoot, `${book.slug}.md`);

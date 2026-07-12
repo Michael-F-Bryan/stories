@@ -15,8 +15,9 @@ A directory under `works/<book-slug>/` is publishable when it contains `README.m
 - Book slug: directory name.
 - Book title: first level-one heading in `README.md`.
 - Synopsis: the paragraph labelled `Premise (spoiler-free)` in `README.md`.
-- Chapter order: lexical filename order, after validating contiguous numeric prefixes.
-- Chapter title: first level-one heading in the chapter.
+- Chapter order: lexical filename order, after validating contiguous numeric prefixes and matching frontmatter `index` values.
+- Chapter title: required plain-string `title` in chapter frontmatter. The body contains no level-one heading.
+- Chapter description: optional spoiler-safe `description` in chapter frontmatter.
 - Cover: optional `cover.jpg`, `cover.png`, or `cover.webp` at the book root.
 - Shared author, language, and site title: repository-level publishing configuration.
 
@@ -40,7 +41,7 @@ The implementation stays small:
 
 - a discovery module owns filesystem conventions and validation;
 - Eleventy templates own HTML page structure;
-- an EPUB build script invokes Pandoc with explicit chapter paths and metadata;
+- an EPUB build script invokes Pandoc with generated, frontmatter-free chapter input and escaped metadata-derived headings;
 - an output verifier checks expected routes, navigation, EPUB structure, and forbidden-content boundaries;
 - GitHub Actions runs the same commands used locally.
 
@@ -77,7 +78,7 @@ The build fails with a path-specific message when:
 
 - a book has no usable title or spoiler-free premise;
 - chapter filenames are malformed, duplicated, or non-contiguous;
-- a chapter has no level-one heading;
+- chapter frontmatter has no valid `index` or `title`, its index disagrees with the filename, or its body contains a level-one heading;
 - more than one conventional cover exists;
 - Pandoc is unavailable or an EPUB render fails;
 - generated routes or EPUB navigation/spine ordering do not match discovered chapters;
