@@ -208,3 +208,11 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Feedback:** JavaScript tests that assert wording and headings inside Markdown skills do not meaningfully test whether the skills work.
 
 **Decision:** Remove `test/skills.test.js` and the plan's test-first skill-edit requirements. Skill architecture is verified through focused spec and quality review, actual context-loading boundaries, candidate generation, and blind prose evaluation. The repository's `pnpm test` remains responsible for executable publishing behaviour.
+
+### Human-prose skill system adopted — 12 July 2026
+
+**Evaluation:** Three model graders unanimously preferred the candidate in all three synthetic cases, but their shared model family made that correlated evidence. Michael reviewed shorter matched excerpts and preferred the candidate for social pressure and causal action, and the old system for quiet aftermath. The candidate therefore won the authoritative owner comparison two cases to one.
+
+**Reader feedback:** The remaining tells were figurative cleverness spent on routine explanation, inanimate or abstract agency, polished emotion lists, unnatural physical abstractions, stacked negatives, broad interpretive generalisations, and clipped negation reveals. Full scenes were too long for confident A/B judgement; future blind tests use short matched excerpts.
+
+**Decision:** Adopt the three-skill system: `serial-process` coordinates lifecycle and grounding, `story-engine` owns positive design and developmental diagnosis, and `authors-voice` isolates composition from fresh-context prose audit. The quiet-scene loss produced one bounded audit correction: active high-confidence rules receive a single cluster-based pass before `good as-is`, without keyword policing or reopening unaffected prose. A fresh auditor without access to Michael's feedback then independently caught the affected quiet-scene cluster while preserving the opening and ending. Michael directed that the new skill set be locked and pushed.

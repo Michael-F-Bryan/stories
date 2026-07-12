@@ -12,7 +12,7 @@ Each speaker is doing something with the exchange: requesting, dodging, testing,
 
 ## Uneven narrative weight
 
-Spend more narrative attention on pressure, change, and consequence. Spend less on routine movement, obvious transitions, and plain connective steps. Let memorable lines arise from the scene rather than from constant optimization.
+Spend more narrative attention on pressure, change, and consequence. Give routine movement, obvious transitions, and plain connective steps enough words to stay clear, but less emphasis. Let memorable lines arise from the scene rather than from constant optimization.
 
 ## Ordinary connective tissue
 

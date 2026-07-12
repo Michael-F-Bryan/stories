@@ -4,6 +4,12 @@ Audit the final prose only after developmental and canon grounding. Open this fi
 
 This job is diagnosis, not a rewrite pass. Find material reader-visible defects, not opportunities to maximize craft.
 
+## High-confidence pass
+
+Before writing `good as-is`, make one bounded pass over registry entries marked `active — high confidence`. Judge reader-visible texture, not keyword presence. A local cluster is material when otherwise defensible lines combine into a recognisable managed rhythm—for example, clipped negation or fragment reveals, stacked negative beats, broad interpretive generalisations, or figurative cleverness spent on plain connective work.
+
+Report the cluster once and repair only that passage. An isolated natural use is not a finding. Diagnostic hypotheses, conditional rules, and experimental budgets never become automatic failures.
+
 When you report a finding, include:
 
 - exact text and location

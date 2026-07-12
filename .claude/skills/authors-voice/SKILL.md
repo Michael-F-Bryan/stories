@@ -29,7 +29,6 @@ If a finding is structural, route it to story-engine. If it is canon, knowledge,
 
 ## References
 
-- `references/compose.md`
-- `references/audit.md`
-- `references/rule-registry.md`
-- `references/michaels-voice-notes.md` is immutable raw calibration evidence and worked examples; do not pull it into composition by default.
+- Composition only: `references/compose.md`.
+- Audit only: `references/audit.md` and `references/rule-registry.md`.
+- Evidence only: `references/michaels-voice-notes.md` is immutable raw calibration evidence and worked examples; do not pull it into composition by default.

@@ -76,7 +76,7 @@ Update the ledgers: timeline entry for the chapter; knowledge changes; character
 ## Ledger discipline
 
 - `timeline.md` — one entry per chapter: the events, in order, as published.
-- `knowledge.md` — organized by character: what they know, when they learned it (chapter), and what they *wrongly believe*. This is what the writer is allowed to assume the READER knows too — if it isn't on the page yet, it isn't known.
+- `knowledge.md` — organized by character: what they know, when they learned it (chapter), and what they *wrongly believe*. It tracks character knowledge, not a shortcut to reader knowledge. Treat a fact as shared with the reader only after published prose establishes it.
 - `character-state.md` — each significant character's current arc position: wants, wounds, relationships, capabilities. Update when it moves.
 - `promises.md` — a table: what was planted, chapter planted, intended weight (minor/major), status (open/paid/abandoned), chapter paid. Every mysterious object, unexplained event, and foreshadowed threat goes here the moment it appears on the page. Review the open list during every chapter plan.
 
