@@ -228,3 +228,39 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Verification:** Behaviour tests cover frontmatter parsing and failures, index mismatch rejection, heading-free HTML and EPUB rendering, HTML escaping, path-prefix-aware absolute URLs, covered and coverless books, chapter fallbacks, and workflow configuration. The real `/stories/` build completed with six chapter descriptions between 122 and 146 characters, and the generated EPUB contains no frontmatter markers.
 
 **Post-merge review:** Independent review found that a stray body H1 could create duplicate HTML headings and extra EPUB navigation entries, while Markdown punctuation in a frontmatter title could be interpreted by Pandoc. The follow-up rejects level-one headings in chapter bodies, escapes plain titles before synthesising EPUB headings, and adds artefact-level regression coverage for frontmatter leakage and literal title preservation.
+
+---
+
+## 2026-07-12 — Fantasy cover-art skill designed
+
+**Asked:** Research what makes effective fantasy-fiction cover art, save the evidence under `_working/`, and distil it into a reusable skill for creating image-generation prompts before producing *Support Build* cover art.
+
+**Research:** Saved ten source extracts spanning professional cover designers, publishing platforms, fantasy-specific practitioner guidance, KDP delivery requirements, and AI-cover workflow advice under `_working/support-build-cover-art/sources/`. The synthesis treats genre and age-market signalling, a single focal idea, deliberate title/byline space, controlled palette and value hierarchy, typography as a later design layer, and thumbnail recognition as the durable core.
+
+**Direction received:** Use the recommended cover-concept package rather than a lean prompt composer or a full typesetting workflow.
+
+**Design:** `docs/superpowers/specs/2026-07-12-fantasy-cover-art-skill-design.md` specifies a repo-local `designing-fantasy-cover-art` skill that produces a market/reader brief, two or three strategically distinct focal directions, text-free portrait prompts, layout notes, and validation checks. The skill remains spoiler-safe and separates generated artwork from final typography.
+
+---
+
+## 2026-07-13 — Fantasy cover-art skill implemented and verified
+
+**Asked:** Create the skill and test it with a blinded A/B comparison of generated Support Build cover art.
+
+**Implementation:** Two files committed to `.claude/skills/crafting-fantasy-cover-art/`:
+
+- `SKILL.md` — 10-step workflow (market brief, 2–3 focal strategies, recommendation, text-free prompt specs, generation, pixel review with a real 120×180 thumbnail, one corrected candidate if needed, layout/typography notes, validation and rights gate, invention labelling). 148 lines.
+- `references/cover-principles.md` — evidence-derived rationale, focal-strategy trade-offs, prompt anatomy, rendered-baseline lessons, visual review workflow, technical guidance, source-role caveats. 193 lines.
+
+**Evaluation:** Two fresh subagents were dispatched with the same spoiler-safe Support Build brief:
+
+- **Control:** one shot, no skill, no review workflow.
+- **Full workflow:** loaded `crafting-fantasy-cover-art`, followed all 10 steps, generated, inspected full-size and thumbnail pixels, passed without requiring refinement.
+
+Both outputs were randomly assigned A/B filenames. The mapping was concealed until the blind visual comparison verdict was saved.
+
+**Blind verdict:** Candidate B won on all research criteria. The full-workflow image preserved quiet title and byline fields, used controlled cyan accent value rather than competing hotspots, communicated tactical support as a relational idea rather than generic defence, and maintained adult progression-fantasy register without school-fantasy drift. Both used one generation call; the workflow's advantage came from pre-generation design decisions and typography-field constraints.
+
+**Files created:**
+- `.claude/skills/crafting-fantasy-cover-art/SKILL.md`
+- `.claude/skills/crafting-fantasy-cover-art/references/cover-principles.md`
