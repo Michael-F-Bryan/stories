@@ -338,6 +338,26 @@ test('discoverBooks rejects chapters with a missing frontmatter title', async ()
   });
 });
 
+test('discoverBooks rejects a level-one heading in the chapter body', async () => {
+  await withTempDir(async (worksRoot) => {
+    const chapterPath = path.join(worksRoot, 'broken', 'chapters', '001-begin.md');
+    await createWork(worksRoot, 'broken', {
+      readme: '# Broken Story\n\n**Premise (spoiler-free):** Frontmatter owns the visible chapter heading.\n',
+      chapters: [
+        {
+          name: '001-begin.md',
+          body: '---\nindex: 1\ntitle: Begin\n---\n\nOpening paragraph.\n\n# Stray heading\n\nMore prose.',
+        },
+      ],
+    });
+
+    await assert.rejects(
+      () => discoverBooks(worksRoot),
+      errorPattern([chapterPath, 'chapter body must not contain a level-one heading']),
+    );
+  });
+});
+
 test('discoverBooks rejects a frontmatter index that disagrees with the filename', async () => {
   await withTempDir(async (worksRoot) => {
     await createWork(worksRoot, 'broken', {
