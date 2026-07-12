@@ -216,3 +216,13 @@ Lab notebook for meta and process work. One entry per session that touches proce
 **Reader feedback:** The remaining tells were figurative cleverness spent on routine explanation, inanimate or abstract agency, polished emotion lists, unnatural physical abstractions, stacked negatives, broad interpretive generalisations, and clipped negation reveals. Full scenes were too long for confident A/B judgement; future blind tests use short matched excerpts.
 
 **Decision:** Adopt the three-skill system: `serial-process` coordinates lifecycle and grounding, `story-engine` owns positive design and developmental diagnosis, and `authors-voice` isolates composition from fresh-context prose audit. The quiet-scene loss produced one bounded audit correction: active high-confidence rules receive a single cluster-based pass before `good as-is`, without keyword policing or reopening unaffected prose. A fresh auditor without access to Michael's feedback then independently caught the affected quiet-scene cluster while preserving the opening and ending. Michael directed that the new skill set be locked and pushed.
+
+---
+
+## 2026-07-12 — Open Graph metadata added
+
+**Asked:** Add Open Graph metadata to the generated fiction site in an isolated worktree and open a pull request.
+
+**Done:** Added validated public-origin configuration, canonical URLs, HTML descriptions, Open Graph fields, Twitter Card compatibility, optional absolute cover images, and spoiler-safe chapter descriptions in YAML frontmatter. Catalogue pages use site metadata, book pages use their public premise, and chapter pages use their own description with a premise fallback.
+
+**Verification:** Behaviour tests cover frontmatter parsing and failures, HTML escaping, path-prefix-aware absolute URLs, covered and coverless books, chapter fallbacks, and workflow configuration. The real `/stories/` build completed with six chapter descriptions between 122 and 146 characters, and the generated EPUB contains no frontmatter markers.

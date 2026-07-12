@@ -1,3 +1,7 @@
+---
+description: "Grave Society tests the limits of Ren's escort skills while an ordinary Saturday obligation threatens to consume what little he has left."
+---
+
 # 2 — Cargo
 
 At two minutes to six on Saturday morning, Cass was already setting out cones, which settled last night's question: six meant both sixes.

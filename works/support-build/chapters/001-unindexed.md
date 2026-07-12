@@ -1,3 +1,7 @@
+---
+description: "Ren's unindexed Attendant class draws no recruiters—until the League's worst-ranked team discovers it needs a sixth player by Friday."
+---
+
 # 1 — Unindexed
 
 The kid at station four came up Striker with a Potential Index of 61, and the recruiters reached him before his printout did.

@@ -72,6 +72,7 @@ test('publish workflow validates pull requests and main pushes, then deploys Pag
   assert.match(buildJob, /run: pnpm test/);
   assert.ok(buildJob.includes('STORIES_BASE_PATH: /stories/'));
   assert.ok(buildJob.includes('STORIES_SITE_BASE_PATH: /stories/'));
+  assert.ok(buildJob.includes('STORIES_SITE_ORIGIN: https://michael-f-bryan.github.io'));
   assert.match(buildJob, /run: pnpm build/);
   assert.match(buildJob, /if: github\.event_name == 'push' && github\.ref == 'refs\/heads\/main'/);
   assert.match(buildJob, /uses: actions\/configure-pages@v5/);

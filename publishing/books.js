@@ -1,5 +1,6 @@
 import { readFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
+import { parse as parseYaml } from 'yaml';
 
 import { CHAPTER_FILENAME_PATTERN, COVER_FILENAMES, PREMISE_LABEL } from './config.js';
 
@@ -9,6 +10,7 @@ import { CHAPTER_FILENAME_PATTERN, COVER_FILENAMES, PREMISE_LABEL } from './conf
  * @property {string} numberLabel
  * @property {string} slug
  * @property {string} title
+ * @property {string | null} description
  * @property {string} sourcePath
  */
 
@@ -118,13 +120,14 @@ async function discoverBook(bookPath, slug) {
     }
 
     const chapterBody = await readFile(chapter.sourcePath, 'utf8');
-    const chapterTitle = extractFirstHeading(chapterBody, chapter.sourcePath);
+    const parsedChapter = parseChapterMarkdown(chapterBody, chapter.sourcePath);
 
     chapters.push({
       number: chapter.number,
       numberLabel: chapter.numberLabel,
       slug: chapter.slug,
-      title: chapterTitle,
+      title: parsedChapter.title,
+      description: parsedChapter.description,
       sourcePath: chapter.sourcePath,
     });
 
@@ -139,6 +142,41 @@ async function discoverBook(bookPath, slug) {
     readmePath,
     coverPath,
     chapters,
+  };
+}
+
+export function parseChapterMarkdown(markdown, sourcePath) {
+  const hasFrontmatter = /^---\r?\n/.test(markdown);
+  const frontmatterMatch = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
+  let bodyMarkdown = markdown;
+  let description = null;
+
+  if (hasFrontmatter && !frontmatterMatch) {
+    throw new Error(`${sourcePath}: invalid chapter frontmatter: missing closing delimiter`);
+  }
+
+  if (frontmatterMatch) {
+    let metadata;
+    try {
+      metadata = parseYaml(frontmatterMatch[1]) ?? {};
+    } catch (error) {
+      throw new Error(`${sourcePath}: invalid chapter frontmatter: ${error.message}`, { cause: error });
+    }
+
+    if (metadata.description !== undefined) {
+      if (typeof metadata.description !== 'string' || metadata.description.trim() === '') {
+        throw new Error(`${sourcePath}: chapter description must be a non-empty string`);
+      }
+      description = metadata.description.trim();
+    }
+
+    bodyMarkdown = markdown.slice(frontmatterMatch[0].length);
+  }
+
+  return {
+    title: extractFirstHeading(bodyMarkdown, sourcePath),
+    description,
+    bodyMarkdown,
   };
 }
 

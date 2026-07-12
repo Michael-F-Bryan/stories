@@ -213,6 +213,64 @@ test('discoverBooks uses the first H1 in a chapter as the chapter title', async 
   });
 });
 
+test('discoverBooks reads a spoiler-safe description from chapter frontmatter', async () => {
+  await withTempDir(async (worksRoot) => {
+    await createWork(worksRoot, 'described', {
+      readme: '# Described Story\n\n**Premise (spoiler-free):** Chapter descriptions should travel with their source.\n',
+      chapters: [
+        {
+          name: '001-begin.md',
+          body: '---\ndescription: "A careful opening with <sharp> edges & quoted stakes."\n---\n\n# Begin\n\nChapter one.',
+        },
+      ],
+    });
+
+    const [book] = await discoverBooks(worksRoot);
+
+    assert.equal(book.chapters[0].description, 'A careful opening with <sharp> edges & quoted stakes.');
+  });
+});
+
+test('discoverBooks rejects non-string chapter descriptions with a path-specific error', async () => {
+  await withTempDir(async (worksRoot) => {
+    const chapterPath = path.join(worksRoot, 'broken', 'chapters', '001-begin.md');
+    await createWork(worksRoot, 'broken', {
+      readme: '# Broken Story\n\n**Premise (spoiler-free):** Metadata failures should identify their source.\n',
+      chapters: [
+        {
+          name: '001-begin.md',
+          body: '---\ndescription:\n  - not\n  - text\n---\n\n# Begin\n\nChapter one.',
+        },
+      ],
+    });
+
+    await assert.rejects(
+      () => discoverBooks(worksRoot),
+      errorPattern([chapterPath, 'chapter description must be a non-empty string']),
+    );
+  });
+});
+
+test('discoverBooks rejects malformed chapter frontmatter with a path-specific error', async () => {
+  await withTempDir(async (worksRoot) => {
+    const chapterPath = path.join(worksRoot, 'broken', 'chapters', '001-begin.md');
+    await createWork(worksRoot, 'broken', {
+      readme: '# Broken Story\n\n**Premise (spoiler-free):** Broken metadata should never leak into chapter prose.\n',
+      chapters: [
+        {
+          name: '001-begin.md',
+          body: '---\ndescription: "Never closed"\n\n# Begin\n\nChapter one.',
+        },
+      ],
+    });
+
+    await assert.rejects(
+      () => discoverBooks(worksRoot),
+      errorPattern([chapterPath, 'invalid chapter frontmatter']),
+    );
+  });
+});
+
 test('discoverBooks rejects missing README titles with a path-specific error', async () => {
   await withTempDir(async (worksRoot) => {
     await createWork(worksRoot, 'broken', {
