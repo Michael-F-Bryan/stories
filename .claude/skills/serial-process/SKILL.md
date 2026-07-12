@@ -1,6 +1,6 @@
 ---
 name: serial-process
-description: The full lifecycle for writing web serials in this repo — pitching premises, worldbuilding, arc planning, the per-chapter writing loop, ledger upkeep, spoiler discipline, and session handoff. Load this before ANY planning or writing work on a serial.
+description: Use when any serial work needs lifecycle, state, spoilers, ledgers, handoff, logs, or commit discipline. It owns planning, grounding, and updates; story-engine owns story design and developmental review; authors-voice owns composition and prose audit.
 ---
 
 # The serial process
@@ -37,7 +37,7 @@ works/<serial-name>/
 1. **Pitch.** Write 3–4 premises as a slate in `pitches/`. Each pitch is spoiler-free back-cover copy plus: the chapter engine (what generates a satisfying chapter, repeatably), the progression axis (what grows), and the craft risks. Do not invent twists at pitch time — twists are designed during planning, inside `plan/`.
 2. **Greenlight.** The owner picks a pitch and may give direction. Log it.
 3. **Worldbuild.** Write the bible. The bible records what is TRUE, not what is planned — plans go in `plan/`. Keep entries evergreen; if a fact will change chapter-to-chapter, it belongs in a ledger instead.
-4. **Plan arcs.** In `plan/arcs.md`: the shape of the whole serial, arc by arc — each arc's question, its climax, what it changes. Design the ending before writing chapter 1. Plant-and-payoff pairs get designed here and tracked in `ledgers/promises.md` once planted on the page.
+4. **Plan arcs.** Use `story-engine` to design `plan/arcs.md`: the shape of the whole serial, arc by arc — each arc's question, its climax, what it changes. Design the ending before writing chapter 1. Plant-and-payoff pairs get designed here and tracked in `ledgers/promises.md` once planted on the page.
 5. **Write chapters** using the chapter loop below.
 6. **Retrospective** when the serial concludes: audit `promises.md` for dropped threads, reread the log, and honestly assess the four evaluation criteria — including whether this process helped or got in the way.
 
@@ -45,20 +45,33 @@ works/<serial-name>/
 
 Run this ritual for every chapter, in order:
 
-1. **Load state.** Read `handoff.md`, all four ledgers, the arc outline for the current arc, and the previous chapter in full (the previous two if returning after a long gap).
-2. **Fold in feedback.** Check the log for owner feedback since the last chapter. Feedback is direction, not suggestion — it shapes this chapter's plan, and the response to it gets noted in the log.
-3. **Plan the chapter.** A short beat plan (in the session, not committed) that must state: the chapter's own mini-resolution, what it advances in the current arc, any promises planted or paid off, and the closing beat — a question or turn that pulls toward the next chapter without cheap cliffhanging every time.
-4. **Draft** in the authors-voice skill's style. Target 2,000–3,500 words unless the chapter demands otherwise.
-5. **Revision pass.** Reread the full draft for prose quality against the authors-voice checklist. Fix, don't excuse.
-6. **Adversarial review.** Spawn an independent sub-agent to attack the draft: banned patterns and the slack rule, clarity/momentum, scene contracts, voice differentiation, canon/mechanics honesty (numbers audit!), genre pleasure. It must quote exact text, rank findings by severity, and state what passes so it doesn't get fixed away. Apply must-fixes and should-fixes; log the outcome. (Added after ch. 1 of Support Build, where this step caught a broken timeline, an empty demo, and an out-of-character beat.)
-7. **Continuity check.** Verify the draft against all four ledgers and the bible: no contradicted facts, no character knowing something `knowledge.md` says they don't, names/dates/details consistent. Fix the draft, not the ledger — unless the ledger was wrong, in which case log it.
-   - **First-mention audit (added after ch. 3, where the owner asked "Who are the Okafors?"):** every proper noun, backstory fact, and piece of gear the draft treats as known must be verified against the PUBLISHED CHAPTER TEXT — grep the chapters, do not trust the ledgers, and never the bible. The bible is what's true; the page is what's known. Anything not found on a published page must be introduced and developed in this chapter or removed. The reader cannot be assumed to know a character's surname, a district's history, or that the scout owns a bow until a chapter has shown it. **World terminology counts (added 2026-07-11, after an outside reader bounced off ch. 1 scene 1):** classes, institutions, jargon, and system terms get the same audit, and "introduced" means grounded, not merely used — a cold reader must be able to say roughly what a term is from the published page where it first appears (see the cold-reader rule in authors-voice). Run this against chapter 1 hardest of all: the opening pages carry the largest introduction debt, the premise itself.
-   - **Ledger honesty:** knowledge-ledger entries record only what a published page established, ideally with the establishing beat named. The ch. 3 failure mode was a ledger written from the bible — the continuity check then verified the draft against the ledger's fiction.
-8. **Final-text style audit.** After ALL revisions (including review fixes), run the authors-voice cadence audit — mechanical device counting against the structural budgets — on the final text. Revisions made after a review are unreviewed text: the ch. 3 failure was fixes that reinstalled the devices the review had removed. If this audit forces edits, re-audit the edited passages.
-9. **Update the ledgers.** Timeline entry for the chapter; knowledge changes; character-state changes; promises planted or paid (with chapter numbers). Knowledge entries cite the page, not the bible (see step 7).
-10. **Log.** Append to `works/<serial>/log.md`: date, chapter number, what was asked, notable decisions, anything the next session should know the reasoning behind.
-11. **Handoff.** Overwrite `handoff.md`: where the story stands, what the next chapter needs to do, any warnings (threads going stale, pacing debt).
-12. **Commit** the chapter, ledger updates, log entry, and handoff together. Commit message: chapter number and title only — no plot details. If the owner is reviewing via PR, the chapter goes to a side branch and the PR description carries no plot details either.
+### 1. State
+
+Read `handoff.md`, all four ledgers, the arc outline for the current arc, and the previous chapter in full (the previous two if returning after a long gap). Treat the ledgers as the canonical state for fast-changing facts. Keep `plan/` private; only published chapter text can be cited as reader knowledge.
+
+### 2. Design
+
+Use `story-engine` to shape the chapter before prose exists. It owns the chapter's mini-resolution, arc movement, promise movement, reader pull, and developmental questions. Keep the packet compact; do not turn this into a new checklist or load any voice registry.
+
+### 3. Compose
+
+Draft in `authors-voice composition mode` from the approved design packet. Keep the chapter's voice, scene movement, and line-level choices inside `authors-voice`; do not load the rule registry while composing.
+
+### 4. Develop
+
+Run `story-engine` developmental review on the draft. It diagnoses causal movement, agency, structural repetition, promise movement, and reader anticipation. It does not rewrite prose or rule on canon. Apply only the accepted fixes, then rerun this gate if the draft changed materially.
+
+### 5. Ground
+
+Run the canon/reader-knowledge gate against the bible, the ledgers, and the published chapter text. Use published chapter text, not the bible, to decide what the reader knows. Keep Ledger honesty: `knowledge.md` and `promises.md` record only what a published page established. If this gate finds a contradiction or spoiler leak, fix the draft and reopen only the affected gates.
+
+### 6. Audit
+
+Run `authors-voice audit mode` on the final prose. This is a prose audit, not a new design review. If edits are required, reopen only the affected gates; prose re-audit is limited to materially changed passages. Do not audit unchanged text again just because earlier gates revised nearby material.
+
+### 7. Update
+
+Update the ledgers: timeline entry for the chapter; knowledge changes; character-state changes; promises planted or paid (with chapter numbers). Then append to `works/<serial>/log.md`, overwrite `handoff.md`, and commit the chapter, ledger updates, log entry, and handoff together. Commit message: chapter number and title only — no plot details. If the owner is reviewing via PR, the chapter goes to a side branch and the PR description carries no plot details either.
 
 ## Ledger discipline
 
