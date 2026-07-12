@@ -201,4 +201,10 @@ Lab notebook for meta and process work. One entry per session that touches proce
 
 **Direction received:** Blind comparisons may consolidate, relax, or retire existing reader-taught rules when they now worsen prose through over-correction.
 
-**Status:** Michael approved implementation. Work is isolated on `feat/human-prose-system`; the clean repository baseline passed 22 tests, the four new skill-contract tests failed for the expected missing architecture, and frozen old-system prose evaluations are running before candidate skill files are written.
+**Status:** Michael approved implementation. Work is isolated on `feat/human-prose-system`; the clean repository baseline passed 22 publishing tests, and frozen old-system prose evaluations are running before candidate skill files are written.
+
+### Skill-contract test correction — 12 July 2026
+
+**Feedback:** JavaScript tests that assert wording and headings inside Markdown skills do not meaningfully test whether the skills work.
+
+**Decision:** Remove `test/skills.test.js` and the plan's test-first skill-edit requirements. Skill architecture is verified through focused spec and quality review, actual context-loading boundaries, candidate generation, and blind prose evaluation. The repository's `pnpm test` remains responsible for executable publishing behaviour.

@@ -6,7 +6,7 @@
 
 **Architecture:** Keep `serial-process` as the authoritative coordinator, add `story-engine` as the owner of positive dramatic design and generation packets, and refactor `authors-voice` into selectively loaded composition and audit modes. The draft context must not load the full defect registry. Qualitative changes are adopted only after blinded old-versus-candidate comparisons and independent review.
 
-**Tech stack:** Agent Skills Markdown, Node 22 built-in test runner, JSON evaluation fixtures, Hermes `gpt-5.4-mini` subagents for bounded generation and review.
+**Tech stack:** Agent Skills Markdown, JSON evaluation fixtures, Hermes `gpt-5.4-mini` subagents for bounded generation and review.
 
 ---
 
@@ -19,19 +19,18 @@
 - Keep the full defect registry out of composition context.
 - Preserve the original reader-visible defect and provenance when consolidating or reframing a rule.
 - No live-story prose changes in this process-change branch.
-- Use test-first changes and verify RED before modifying each skill.
+- Evaluate skill changes through focused review, real context-loading behaviour, and blind prose trials. Do not encode Markdown wording or heading structure as JavaScript tests.
 
-## Task 1: Capture the baseline and executable contracts
+## Task 1: Capture the baseline and review contract
 
 **Files:**
 - Create: `evals/human-prose-system/evals.json`
-- Create: `test/skills.test.js`
 - Modify: `log.md`
 
 **Steps:**
 
 1. Define three non-canon evaluation scenarios: social dialogue, causal action, and emotional aftermath.
-2. Add structural tests requiring:
+2. Record a review checklist requiring:
    - `.claude/skills/story-engine/SKILL.md`;
    - a compact generation-packet contract;
    - `authors-voice/references/compose.md` and `audit.md`;
@@ -39,10 +38,9 @@
    - selective mode loading and no full defect catalogue in the main voice router;
    - `serial-process` stage order: state → design → compose → develop → ground → audit → update;
    - clear ownership boundaries and spoiler discipline.
-3. Run `pnpm test -- test/skills.test.js` and confirm failure because `story-engine` and split voice references do not exist.
-4. Dispatch all three evaluation prompts against the current skills. Save outputs under ignored `_working/skill-system-evals/iteration-1/<case>/old-system/`.
-5. Record timing and agent self-reported process notes separately from final prose.
-6. Commit plan, baseline fixtures, tests, and log entry.
+3. Dispatch all three evaluation prompts against the current skills. Save outputs under ignored `_working/skill-system-evals/iteration-1/<case>/old-system/`.
+4. Record timing and agent self-reported process notes separately from final prose.
+5. Commit plan, baseline fixtures, and log entry.
 
 ## Task 2: Implement `story-engine`
 
@@ -50,17 +48,15 @@
 - Create: `.claude/skills/story-engine/SKILL.md`
 - Create: `.claude/skills/story-engine/references/generation-packet.md`
 - Create: `.claude/skills/story-engine/references/developmental-read.md`
-- Test: `test/skills.test.js`
 
 **Steps:**
 
-1. Run the targeted tests and confirm the story-engine assertions fail.
-2. Write a compact skill router whose description triggers on premise, arc, chapter, scene, pacing, character pressure, reader pull, and developmental review work.
-3. Define one generation packet containing reader pull, promise movement, character pressure, attention field, causal spine, shape choice, explanation budget, and voice anchors.
-4. Define developmental review as diagnosis only: exact evidence, reader consequence, materiality, owning layer, and `good as-is`.
-5. State that story-engine cannot adjudicate canon or rewrite prose.
-6. Run targeted and full tests.
-7. Commit as `feat: add positive story generation engine`.
+1. Write a compact skill router whose description triggers on premise, arc, chapter, scene, pacing, character pressure, reader pull, and developmental review work.
+2. Define one generation packet containing reader pull, promise movement, character pressure, attention field, causal spine, shape choice, explanation budget, and voice anchors.
+3. Define developmental review as diagnosis only: exact evidence, reader consequence, materiality, owning layer, and `good as-is`.
+4. State that story-engine cannot adjudicate canon or rewrite prose.
+5. Run a focused spec review and an independent quality/adoption-safety review.
+6. Commit as `feat: add positive story generation engine`.
 
 ## Task 3: Refactor `authors-voice` into isolated modes
 
@@ -70,38 +66,34 @@
 - Create: `.claude/skills/authors-voice/references/audit.md`
 - Create: `.claude/skills/authors-voice/references/rule-registry.md`
 - Preserve: `.claude/skills/authors-voice/references/michaels-voice-notes.md`
-- Test: `test/skills.test.js`
 
 **Steps:**
 
-1. Run targeted tests and confirm composition/audit separation assertions fail.
-2. Replace the large main skill with a compact mode router and shared voice contract.
-3. Put positive composition guidance in `compose.md`: character-owned attention, social action beneath dialogue, uneven narrative weight, ordinary connective tissue, clear causal action, and genre pleasure.
-4. Put corrective checks in `audit.md`: exact-text evidence, severity, reader consequence, smallest repair, and permission to pass.
-5. Move existing reader-taught rules into `rule-registry.md` with defect, provenance, scope, exceptions, and status.
-6. Keep the raw owner calibration notes unchanged as evidence.
-7. Verify the compose reference does not contain the full banned-pattern catalogue or mechanical structural budgets.
-8. Run targeted and full tests.
-9. Commit as `refactor: separate prose composition from audit`.
+1. Replace the large main skill with a compact mode router and shared voice contract.
+2. Put positive composition guidance in `compose.md`: character-owned attention, social action beneath dialogue, uneven narrative weight, ordinary connective tissue, clear causal action, and genre pleasure.
+3. Put corrective checks in `audit.md`: exact-text evidence, severity, reader consequence, smallest repair, and permission to pass.
+4. Move existing reader-taught rules into `rule-registry.md` with defect, provenance, scope, exceptions, and status.
+5. Keep the raw owner calibration notes unchanged as evidence.
+6. Verify the compose reference does not contain the full banned-pattern catalogue or mechanical structural budgets.
+7. Run a focused spec review and an independent quality/adoption-safety review.
+8. Commit as `refactor: separate prose composition from audit`.
 
 ## Task 4: Refactor `serial-process` as coordinator
 
 **Files:**
 - Modify: `.claude/skills/serial-process/SKILL.md`
 - Modify: `CLAUDE.md`
-- Test: `test/skills.test.js`
 
 **Steps:**
 
-1. Run targeted tests and confirm stage/ownership assertions fail.
-2. Keep lifecycle, filesystem layout, spoiler discipline, canonical state, ledgers, handoff, logs, and commits in `serial-process`.
-3. Route story design and developmental review to `story-engine`.
-4. Route composition and prose audit to the isolated `authors-voice` modes.
-5. Replace broad adversarial review with named developmental, canon/reader-knowledge, and prose-audit gates.
-6. Require material edits to reopen only affected gates.
-7. Update `CLAUDE.md` triggers so all three skills load at the correct stages.
-8. Run targeted and full tests.
-9. Commit as `refactor: coordinate three-stage fiction workflow`.
+1. Keep lifecycle, filesystem layout, spoiler discipline, canonical state, ledgers, handoff, logs, and commits in `serial-process`.
+2. Route story design and developmental review to `story-engine`.
+3. Route composition and prose audit to the isolated `authors-voice` modes.
+4. Replace broad adversarial review with named developmental, canon/reader-knowledge, and prose-audit gates.
+5. Require material edits to reopen only affected gates.
+6. Update `CLAUDE.md` triggers so all three skills load at the correct stages.
+7. Run a focused spec review and an independent quality/adoption-safety review.
+8. Commit as `refactor: coordinate three-stage fiction workflow`.
 
 ## Task 5: Run candidate and blind evaluations
 
@@ -133,7 +125,7 @@
 2. Resolve all Blocker and Important findings, then rerun spec review.
 3. Dispatch a quality/adoption-safety review covering duplication, trigger clarity, context separation, spoiler safety, and over-constraint.
 4. Resolve all Blocker and Important findings, then rerun quality review.
-5. Run `pnpm test` and `pnpm build`.
+5. Run `pnpm test` and `pnpm build` for the repository's executable publishing behaviour.
 6. Run `git diff --check` and inspect the complete branch diff.
 7. Append an honest process entry to `log.md` with evaluation results and adoption decision.
 8. Commit final review changes as a task-scoped process commit.
@@ -143,7 +135,7 @@
 
 The candidate may be adopted only when:
 
-- structural tests pass;
+- focused skill reviews pass;
 - all three skills have one authoritative responsibility;
 - the composition context excludes the full defect registry;
 - candidate output wins a majority of blind pairwise judgements overall;
