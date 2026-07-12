@@ -243,3 +243,19 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Not done (judged out of scope / over-engineering):** a new near-miss beat to re-fang the sodden during the dive (ranked should-consider) — the deliberate regard-redirect is a fair competence play, and Ren's new felt reaction supplies the menace without added choreography. Cass's last-out leap left as a signposted desperate move.
 
 **Final-text audit after the last edit:** banned patterns none; triads 0; personification 1 ("noise had gathered them"); callbacks continuity-only, none as scene-exit buttons; all three scene exits plain; opener/closer distinct from ch. 4; surviving timestamps (07:54, 14:26, 18:08) each carry stakes. Ledgers (timeline, knowledge, character-state) updated for the authorized-override event; handoff review-state rewritten. Still on `chapter/005`, not merged — published canon remains through ch. 4.
+
+## 2026-07-12 — Chapter 6: "The Sluice"
+
+**Owner:** Supplied the complete next-chapter workflow and asked for chapter 6 using the newly adopted serial-process, story-engine, and authors-voice skills, with frequent spoiler-safe progress updates.
+
+**Workspace:** Inspected the clean main checkout and existing worktrees, fetched origin, and confirmed `origin/feat/human-prose-system` had been deleted. Created isolated worktree `.worktrees/support-build-006` on `write/support-build-006` from the required immutable commit `84e4660`, which contains the adopted skill system and published chapter 5. No existing checkout or branch was disturbed.
+
+**State/design/compose:** Read the handoff, all four ledgers, relevant sealed planning material, necessary bible files, chapters 4–5, and recent owner feedback/process rulings. Wrote one temporary generation packet outside the repository, then drafted the complete chapter at 2,525 words. The chapter gives the immediate threshold problem a tactical resolution, makes Ren's live stop rule cost him a useful choice, and leaves the extraction route changed by visible physical conditions rather than by an assumed plan turn.
+
+**Independent Develop gate:** PASS with no material findings. The reviewer explicitly passed causal continuity, agency, promise movement, chapter shape, and forward pull. No developmental edits were made.
+
+**Ground gate:** Local canon/reader-knowledge review repaired four narrow seams: clarified that the stretcher is set down before the fight frees its carriers; changed Carry wording so Ren receives Hold Fast's upkeep rather than control of the skill; grounded [EDGE] on first named use as a burst step; and made Doc's physical pack handoff explicit before the stair climb. An independent grounding reviewer found no other canon, mechanics, inventory, timing, injury, or knowledge issue. Its sole provisional finding assumed chapter 5 might not be published; rejected after Git history and the task baseline confirmed chapter 5 is published and already grounds the doorkeeper.
+
+**Independent Audit gate:** PASS. A fresh reviewer loaded only `authors-voice/references/audit.md` and `rule-registry.md`, ran one bounded pass over active high-confidence rules, and found no material reader-visible defect. No audit edits were made.
+
+**Final reader pass:** Literal action, spatial causality, POV attention, dialogue pressure, ordinary connective prose, and the ending all pass. Scaffold scan and `git diff --check` are clean. Updated timeline, knowledge, character-state, promises, this log, and handoff from the accepted chapter text. No process, publishing, evaluation, bible, plan, or existing chapter file changed.

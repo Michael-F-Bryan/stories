@@ -13,7 +13,7 @@
 | The Stacks qualifier in nine days; four wipes since Y19, median eleven minutes; team has never cleared a C | 1 | major | open (arc 1) | — |
 | Okafor levy: 31,400 / 1,900 / 3,800 arrears; bonus arithmetic stated — first payment must land on-page | 1 | minor | **paid** | 2 |
 | Marc Osei's two-way with Kestrel Nine; Theo's "eleven years / four years, it rounds up" wound | 1 | minor | open | — |
-| Ren's 4-minute high-demand envelope — a hard limit that must bite, not just get mentioned | 1 | major | open | — |
+| Ren's 4-minute high-demand envelope — a hard limit that must bite, not just get mentioned | 1 | major | **paid** — one Hold Fast upkeep transfer brings tunnel vision; Ren stops skills for the day while the fight continues | 6 |
 | Clause nine cap (Cass's initialled margin figure) — contract detail; keep available, no obligation | 1 | minor | open | — |
 | Escort perception boundary: "sight, probably" — hearing ruled out on-page; smell/other senses and range untested | 2 | major | open (develops ch. 1 promise) | — |
 | Grey-out drops sustained effects — Doc's warning: "in there it costs whoever you were holding" | 2 | major | open | — |
@@ -23,7 +23,7 @@
 | Dree Vann's "Development is a broad church" — rivalry temperature set | 2 | minor | open | — |
 | Cass left the grey-out run off the whiteboard — small unremarked kindness/doctrine | 2 | minor | open | — |
 | Escort range: ~60 m open-ground, tracking-dependent; cover breaks it — and the Stacks "is nothing but cover" (Pip) | 3 | major | open (must matter at the Gate) | — |
-| "Break-glass only": upkeep-Carry reserved for emergencies — a loaded gun | 3 | major | open | — |
+| "Break-glass only": upkeep-Carry reserved for emergencies — a loaded gun | 3 | major | **paid** — Ren takes Hold Fast's upkeep for one doorkeeper charge under explicit consent, reaches tunnel vision, and stops | 6 |
 | Cass's kit: a dented shield corner "from some old fight," and a hammer Ren has never seen her train with | 3 | minor | open — hammer identified as the Core-breaker in ch. 4; dent remains unexplained | — |
 | Juno's banked-coal pots, triple-wrapped against the Stacks' water — ember-starts cost a fraction of cold starts | 3 | minor | **paid** — wrapping stays dry and a banked coal kills a palp | 4 |
 | The two-map junction protocol + retreat threshold — the plan the Gate will test | 3 | major | **paid** — reality exceeds the wet map and Cass orders immediate retreat without debate | 4 |
@@ -34,4 +34,5 @@
 | Ada swapped a Saturday shift (cost unstated on-page) | 3 | minor | open | — |
 | Ilyas dragged underwater by a sodden while the live camera keeps broadcasting | 4 | major | **paid** — rescued at 07:54; alive but injured, with extraction still in progress | 5 |
 | Underwater shoulder camera remains live after the team moves off-camera | 5 | minor | open | — |
-| Doorkeeper blocks the sluice bridge and the only solid stair currently available for extraction | 5 | major | open | — |
+| Doorkeeper blocks the sluice bridge and the only solid stair currently available for extraction | 5 | major | **paid** — team opens its shoulder joint, forces it into the sluice channel, and reaches the tower stair | 6 |
+| Mapped upper-gantry return span has collapsed beyond rope range; the only visible route continues to the crane cab, and the far-side catwalk cannot yet be checked | 6 | major | open | — |
