@@ -32,6 +32,18 @@ works/<serial-name>/
   retrospective.md       # written when the serial ends or is abandoned
 ```
 
+Each published chapter starts with metadata rather than an in-body H1:
+
+```yaml
+---
+index: 1
+title: Chapter Title
+description: "A short, spoiler-safe description for listings and social cards."
+---
+```
+
+`index` must match the numeric filename prefix. `title` contains only the title, without the chapter number. The Markdown body starts with prose; the publisher supplies the visible heading and recreates EPUB headings from this metadata.
+
 ## Lifecycle
 
 1. **Pitch.** Write 3–4 premises as a slate in `pitches/`. Each pitch is spoiler-free back-cover copy plus: the chapter engine (what generates a satisfying chapter, repeatably), the progression axis (what grows), and the craft risks. Do not invent twists at pitch time — twists are designed during planning, inside `plan/`.
