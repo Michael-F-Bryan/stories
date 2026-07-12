@@ -29,41 +29,6 @@ const markdownIt = new MarkdownIt({
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const siteInputDir = path.join(repoRoot, 'site');
 
-function trimBlankEdges(lines) {
-  let start = 0;
-  let end = lines.length;
-
-  while (start < end && lines[start].trim() === '') {
-    start += 1;
-  }
-
-  while (end > start && lines[end - 1].trim() === '') {
-    end -= 1;
-  }
-
-  return lines.slice(start, end);
-}
-
-function stripFirstChapterHeading(markdown, sourcePath) {
-  const lines = markdown.split(/\r?\n/);
-  const headingIndex = lines.findIndex((line) => /^#\s+/.test(line.trim()));
-
-  if (headingIndex === -1) {
-    throw new Error(`${sourcePath}: missing level-one heading`);
-  }
-
-  const [headingLine] = lines.splice(headingIndex, 1);
-  const headingMatch = headingLine.match(/^#\s+(.+?)(?:\s+#+)?\s*$/);
-  if (!headingMatch) {
-    throw new Error(`${sourcePath}: missing level-one heading`);
-  }
-
-  return {
-    title: headingMatch[1].trim(),
-    markdown: trimBlankEdges(lines).join('\n'),
-  };
-}
-
 function renderChapterHtml(markdown) {
   return markdownIt.render(markdown);
 }
@@ -134,12 +99,11 @@ async function prepareBuildData(books, pathPrefix, siteOrigin) {
     for (const [index, chapter] of book.chapters.entries()) {
       const sourceMarkdown = await readFile(chapter.sourcePath, 'utf8');
       const parsedChapter = parseChapterMarkdown(sourceMarkdown, chapter.sourcePath);
-      const strippedChapter = stripFirstChapterHeading(parsedChapter.bodyMarkdown, chapter.sourcePath);
       const chapterOutputPath = normalizeChapterPath(book.slug, chapter.numberLabel, chapter.slug);
       const chapterUrl = joinBasePath(pathPrefix, chapterOutputPath);
       const previousChapter = index > 0 ? preparedChapters[index - 1] : null;
       const nextChapter = index < chapterCount - 1 ? book.chapters[index + 1] : null;
-      const chapterTitle = chapter.title ?? strippedChapter.title;
+      const chapterTitle = chapter.title;
       const preparedChapter = {
         number: chapter.number,
         numberLabel: chapter.numberLabel,
@@ -166,7 +130,7 @@ async function prepareBuildData(books, pathPrefix, siteOrigin) {
           imageUrl: coverAbsoluteUrl,
           imageAlt: coverAbsoluteUrl ? `Cover of ${book.title}` : null,
         }),
-        bodyHtml: renderChapterHtml(strippedChapter.markdown),
+        bodyHtml: renderChapterHtml(parsedChapter.bodyMarkdown),
       };
 
       preparedChapters.push(preparedChapter);

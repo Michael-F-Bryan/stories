@@ -87,15 +87,15 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
       chapters: [
         {
           name: '001-the-door.md',
-          body: '---\ndescription: "A mapmaker tests a door with <sharp> edges & uncertain rules."\n---\n\n# The Door\n\nOpening paragraph with raw HTML disabled: <em>not italic</em>.\n\nA second paragraph with **markdown** intact.',
+          body: '---\nindex: 1\ntitle: The Door\ndescription: "A mapmaker tests a door with <sharp> edges & uncertain rules."\n---\n\nOpening paragraph with raw HTML disabled: <em>not italic</em>.\n\nA second paragraph with **markdown** intact.',
         },
         {
           name: '002-the-market.md',
-          body: '# The Market\n\nThe market breathes, and the clerk counts doors.\n',
+          body: '---\nindex: 2\ntitle: The Market\n---\n\nThe market breathes, and the clerk counts doors.\n',
         },
         {
           name: '003-the-archive.md',
-          body: '# The Archive\n\nFinal chapter prose with an `inline code` fragment.\n',
+          body: '---\nindex: 3\ntitle: The Archive\n---\n\nFinal chapter prose with an `inline code` fragment.\n',
         },
       ],
       extras: [
@@ -112,7 +112,7 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
       chapters: [
         {
           name: '001-first-snow.md',
-          body: '# First Snow\n\nThe road opens.\n',
+          body: '---\nindex: 1\ntitle: First Snow\n---\n\nThe road opens.\n',
         },
       ],
     });
@@ -229,7 +229,7 @@ test('buildSite rejects output directories that overlap source or protected root
     const worksRoot = path.join(root, 'works');
     await createWork(worksRoot, 'safe-book', {
       readme: '# Safe Book\n\n**Premise (spoiler-free):** A deliberately small fixture.\n',
-      chapters: [{ name: '001-start.md', body: '# Start\n\nSafe prose.\n' }],
+      chapters: [{ name: '001-start.md', body: '---\nindex: 1\ntitle: Start\n---\n\nSafe prose.\n' }],
     });
 
     for (const outputDir of [

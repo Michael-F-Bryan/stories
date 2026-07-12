@@ -1,8 +1,8 @@
 ---
+index: 6
+title: The Sluice
 description: "A doorkeeper guards the only solid stair, leaving Grave Society a narrow bridge, an injured rival, and no safe route back."
 ---
-
-# 6 — The Sluice
 
 The bridge was wide enough for Cass and her shield. It was not wide enough for anyone to pass her.
 

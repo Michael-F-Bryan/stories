@@ -1,8 +1,8 @@
 ---
+index: 5
+title: Blackwater
 description: "With a rival player dragged beneath the flooded Stacks, Ren must use an untested skill while Grave Society's safe route collapses behind them."
 ---
-
-# 5 — Blackwater
 
 Ren let Doc's pack go.
 

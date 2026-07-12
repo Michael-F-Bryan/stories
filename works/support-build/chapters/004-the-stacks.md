@@ -1,8 +1,8 @@
 ---
+index: 4
+title: The Stacks
 description: "Grave Society enters the flooded Stacks on a live broadcast, where rusted aisles, black water, and another team make the clearance dangerous."
 ---
-
-# 4 — The Stacks
 
 "The broadcast goes live in ninety seconds," the producer said.
 

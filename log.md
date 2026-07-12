@@ -221,8 +221,8 @@ Lab notebook for meta and process work. One entry per session that touches proce
 
 ## 2026-07-12 — Open Graph metadata added
 
-**Asked:** Add Open Graph metadata to the generated fiction site in an isolated worktree and open a pull request.
+**Asked:** Add Open Graph metadata to the generated fiction site in an isolated worktree and open a pull request. Michael later directed that chapter titles move into frontmatter, with the chapter index stored separately.
 
-**Done:** Added validated public-origin configuration, canonical URLs, HTML descriptions, Open Graph fields, Twitter Card compatibility, optional absolute cover images, and spoiler-safe chapter descriptions in YAML frontmatter. Catalogue pages use site metadata, book pages use their public premise, and chapter pages use their own description with a premise fallback.
+**Done:** Added validated public-origin configuration, canonical URLs, HTML descriptions, Open Graph fields, Twitter Card compatibility, optional absolute cover images, and spoiler-safe chapter descriptions. Chapter frontmatter now owns `index`, `title`, and optional `description`; the publisher validates the index against the filename, supplies HTML headings, and recreates headings for EPUB navigation. Catalogue pages use site metadata, book pages use their public premise, and chapter pages use their own description with a premise fallback.
 
-**Verification:** Behaviour tests cover frontmatter parsing and failures, HTML escaping, path-prefix-aware absolute URLs, covered and coverless books, chapter fallbacks, and workflow configuration. The real `/stories/` build completed with six chapter descriptions between 122 and 146 characters, and the generated EPUB contains no frontmatter markers.
+**Verification:** Behaviour tests cover frontmatter parsing and failures, index mismatch rejection, heading-free HTML and EPUB rendering, HTML escaping, path-prefix-aware absolute URLs, covered and coverless books, chapter fallbacks, and workflow configuration. The real `/stories/` build completed with six chapter descriptions between 122 and 146 characters, and the generated EPUB contains no frontmatter markers.

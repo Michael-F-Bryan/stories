@@ -121,6 +121,9 @@ async function discoverBook(bookPath, slug) {
 
     const chapterBody = await readFile(chapter.sourcePath, 'utf8');
     const parsedChapter = parseChapterMarkdown(chapterBody, chapter.sourcePath);
+    if (parsedChapter.index !== chapter.number) {
+      throw new Error(`${chapter.sourcePath}: chapter index ${parsedChapter.index} must match filename index ${chapter.number}`);
+    }
 
     chapters.push({
       number: chapter.number,
@@ -148,35 +151,43 @@ async function discoverBook(bookPath, slug) {
 export function parseChapterMarkdown(markdown, sourcePath) {
   const hasFrontmatter = /^---\r?\n/.test(markdown);
   const frontmatterMatch = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
-  let bodyMarkdown = markdown;
-  let description = null;
 
-  if (hasFrontmatter && !frontmatterMatch) {
+  if (!hasFrontmatter) {
+    throw new Error(`${sourcePath}: missing chapter frontmatter`);
+  }
+
+  if (!frontmatterMatch) {
     throw new Error(`${sourcePath}: invalid chapter frontmatter: missing closing delimiter`);
   }
 
-  if (frontmatterMatch) {
-    let metadata;
-    try {
-      metadata = parseYaml(frontmatterMatch[1]) ?? {};
-    } catch (error) {
-      throw new Error(`${sourcePath}: invalid chapter frontmatter: ${error.message}`, { cause: error });
-    }
+  let metadata;
+  try {
+    metadata = parseYaml(frontmatterMatch[1]) ?? {};
+  } catch (error) {
+    throw new Error(`${sourcePath}: invalid chapter frontmatter: ${error.message}`, { cause: error });
+  }
 
-    if (metadata.description !== undefined) {
-      if (typeof metadata.description !== 'string' || metadata.description.trim() === '') {
-        throw new Error(`${sourcePath}: chapter description must be a non-empty string`);
-      }
-      description = metadata.description.trim();
-    }
+  if (!Number.isInteger(metadata.index) || metadata.index < 1) {
+    throw new Error(`${sourcePath}: chapter index must be a positive integer`);
+  }
 
-    bodyMarkdown = markdown.slice(frontmatterMatch[0].length);
+  if (typeof metadata.title !== 'string' || metadata.title.trim() === '') {
+    throw new Error(`${sourcePath}: chapter title must be a non-empty string`);
+  }
+
+  let description = null;
+  if (metadata.description !== undefined) {
+    if (typeof metadata.description !== 'string' || metadata.description.trim() === '') {
+      throw new Error(`${sourcePath}: chapter description must be a non-empty string`);
+    }
+    description = metadata.description.trim();
   }
 
   return {
-    title: extractFirstHeading(bodyMarkdown, sourcePath),
+    index: metadata.index,
+    title: metadata.title.trim(),
     description,
-    bodyMarkdown,
+    bodyMarkdown: markdown.slice(frontmatterMatch[0].length),
   };
 }
 
