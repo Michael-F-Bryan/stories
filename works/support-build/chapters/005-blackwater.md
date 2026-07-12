@@ -2,7 +2,7 @@
 
 Ren let Doc's pack go.
 
-The weight returned to Doc hard enough to make him catch the rail. Ilyas was not in the party, so none of Ren's skills would reach him — but Pip was, and Ren needed her eyes on whatever had hold of him before anyone could cut him loose.
+Doc caught the rail when the medical pack dropped onto his shoulders. Ilyas was not in the party, so none of Ren's skills would reach him — but Pip was, and Ren needed her eyes on whatever had hold of him before anyone could cut him loose.
 
 Cass still had one hand locked around Ilyas's shoulder strap. The pull from below had dragged her down to the last dry step, where she had planted and used [HOLD FAST], so the next pull washed water over her boots instead of moving her.
 
@@ -10,7 +10,7 @@ Cass had ruled, nine days ago in a gym with crash mats down, that Attend stayed 
 
 "I'm putting Attend on Pip while she moves — the part we never trained," he told Cass.
 
-Cass did not look away from the water. "Do it. Keep talking to me."
+Cass kept her eyes on the water. "Do it. Keep talking to me."
 
 "I need your eyes under there," Ren said to Pip.
 
@@ -82,7 +82,7 @@ Pip looked across the gap towards the nearest racking tower. A diagonal brace ra
 
 "I can get across that," she said.
 
-Cass looked at Ren.
+Cass pointed to the brace. "Can Escort hold her on that?"
 
 "Escort can keep her from stumbling as long as the brace still gives her somewhere to put a foot," he said. "If the brace breaks, she still falls."
 
@@ -96,7 +96,7 @@ It flexed under her weight. Her first foot slid on the wet steel and corrected b
 
 Halfway across, the staircase dropped again. The brace jerked down with it. Pip's legs changed position too quickly for Ren to follow, and she landed in a crouch with both feet still on the steel.
 
-Escort's drain rose sharply.
+Escort started taking Focus much faster.
 
 "Keep going," he said.
 
@@ -146,7 +146,7 @@ Ren handed the pack back to Doc, who put it on, and Ren used Carry to take its w
 
 Without the shoulder camera, Theo moved like he had in the gym. He crossed each marked span at the pace the stretcher set and kept both swords sheathed. There was nothing useful for him to attack on the walkway.
 
-Ilyas coughed every few steps. When the coughing started again, Theo and Juno stopped the stretcher without being told. Doc listened to Ilyas's chest and waited until he could speak. He waved them on at a slower pace. Nobody looked back towards the camera.
+Ilyas coughed every few steps. When the coughing started again, Theo and Juno stopped the stretcher without being told. Doc listened to Ilyas's chest and waited until he could speak. He waved them on at a slower pace.
 
 The higher route gave Ren a view over the flooded aisles. The black water had spread through more than the low third of the warehouse. Containers floated between the racks, turning slowly where their corners touched. In several places, the racking had folded into the water under loads it had once carried above the dry floor.
 
@@ -160,6 +160,6 @@ It stood when Cass came to the mouth of the bridge. The gaunt was as broad as he
 
 The doorkeeper lowered its head and struck one armoured fist against the concrete.
 
-Cass looked back at the stretcher, then at the door. "We need that stair."
+Cass checked the straps holding Ilyas to the stretcher. "We need that stair."
 
 She raised her shield and walked onto the bridge.

@@ -277,3 +277,7 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 ## 2026-07-12 — Humanisation pass: chapter 4
 
 **Done:** Reworked chapter 4’s abstract skill activation, camera-related negative action, synthetic training recap, and clusters of storyboard buttons. Preserved the concrete Gate crossing and physical cliffhanger. No plot, mechanics, or canon changed.
+
+## 2026-07-12 — Humanisation pass: chapter 5
+
+**Done:** Reworked chapter 5’s abstract-subject action, meaningful non-action, deliberation shorthand, and overly conceptual skill drain. Preserved rescue clarity and tactical mechanics. No plot, mechanics, or canon changed.
