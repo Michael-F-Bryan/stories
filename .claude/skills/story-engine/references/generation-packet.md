@@ -1,6 +1,6 @@
 # Generation packet
 
-One compact artefact for one design pass. Fill this before planning a chapter, scene, arc beat, or revision target. Keep it current; do not split it into separate forms.
+One compact artefact: one packet for one active design thread; revise it in place as work changes rather than splitting it into competing forms. Fill this before planning a chapter, scene, arc beat, or revision target. Keep it current.
 
 ## Reader pull
 What the reader should want next, fear next, or understand next.
@@ -15,8 +15,9 @@ The character's immediate want, private fear, current misreading, social strateg
 What the POV notices first, what it habitually ignores, and what it cannot interpret correctly yet; use this to drive character-owned detail selection.
 
 ## Causal spine
+Treat the causal spine as the default planning and diagnostic lens:
 First action → resistance → turn → choice → consequence → changed residue.
-State the concrete action and the concrete change in that order.
+Not every beat has to dramatise each field separately; quieter units can record the changed understanding, relationship, or stakes as residue.
 
 ## Shape choice
 Why this is a scene, chapter, beat sequence, or variation; where the turn lands; what structural shape best serves the pressure.

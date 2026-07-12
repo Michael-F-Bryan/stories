@@ -1,6 +1,6 @@
 ---
 name: story-engine
-description: Use when premise, arc, chapter, scene, pacing, character pressure, reader pull/anticipation, promise/payoff, structural variation, or developmental review work needs to be designed.
+description: Use when premise, arc, chapter, scene, pacing, character pressure, reader pull/anticipation, promise movement, structural variation, or developmental review work needs to be designed.
 ---
 
 # Story-engine
@@ -17,7 +17,7 @@ It is for design and structural diagnosis, not for line-level composition or can
 - arc and chapter design
 - scene purpose and pacing
 - character pressure and reader pull
-- promise/payoff movement
+- promise movement
 - structural variation across a run of scenes or chapters
 - developmental review of a finished draft
 
@@ -31,8 +31,8 @@ It is for design and structural diagnosis, not for line-level composition or can
 
 Character pressure → scene action → changed situation → reader desire → arc movement.
 
-If a beat does not change the situation, sharpen the pressure or cut the beat.
-If a chapter does not move desire forward, the chapter shape is wrong.
+Treat that chain as the default diagnostic lens, not a mandatory scene sequence.
+Quiet, reaction, recovery, observation, and aftermath beats are valid when they materially change understanding, stakes, relationships, commitment, or the reader's interpretation.
 
 ## Working boundary
 
@@ -40,7 +40,7 @@ Story-engine owns the why and the shape, not the sentence.
 Use it to decide what should happen, what should be withheld, and what should be emphasized.
 Then hand the packet to `authors-voice` for prose.
 
-## One packet, one pass
+## One packet, one active thread
 
 The generation packet is one compact artefact. Do not split it into separate planning forms.
 Use it to capture the current state of the story, the immediate dramatic job, and the design constraints that matter right now.
@@ -52,7 +52,7 @@ Avoid catchphrase mimicry and psych-label biographies; write for how the charact
 ## Developmental review
 
 A developmental read is diagnosis only.
-It checks causal movement, agency/choice, character-specific pressure, promise/payoff movement, reader anticipation, and structural repetition.
+It checks causal movement, agency/choice, character-specific pressure, promise movement, reader anticipation, and structural repetition.
 It reports findings with exact quotation, reader consequence, materiality, owning layer, and `good as-is` when nothing needs changing.
 It may not check canon or perform line edits.
 If a line-level fix is needed, route that to `authors-voice`.
