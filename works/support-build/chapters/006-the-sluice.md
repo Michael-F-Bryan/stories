@@ -1,6 +1,6 @@
 # 6 — The Sluice
 
-The bridge was wide enough for Cass and her shield. It was not wide enough for anyone to pass her.
+Cass and her shield filled most of the bridge, leaving Theo no room to get past.
 
 Ren stayed at the mouth with the others. The steel deck crossed six metres of open water to the concrete tower. A handrail ran down each side, orange with rust. The doorkeeper waited in front of the tower door with its forelimbs spread across the threshold.
 
@@ -38,7 +38,7 @@ Cass moved another step towards it.
 
 "Wait," Ren said.
 
-She stopped without looking back.
+She stopped and kept her shield raised.
 
 Ren released Carry. Doc's pack returned to him while he was crouched beside Ilyas. It pulled one shoulder down, and Juno caught the pack before it dragged him across the stretcher.
 
@@ -56,7 +56,7 @@ Cass glanced back. "You already spent Attend and Escort."
 
 The doorkeeper hit the concrete again.
 
-Cass looked at the blood on the inside of her shield, then at the bridge. "One charge. You call the stop."
+Cass wiped the blood from her cheek and reset the shield. "One charge. You call the stop."
 
 "I need you to agree to the burden."
 
@@ -64,7 +64,7 @@ Cass looked at the blood on the inside of her shield, then at the bridge. "One c
 
 Ren used Carry.
 
-The weight was nothing like Doc's pack. There was no pull on his shoulders and no new strain in his legs. Instead, the upkeep from Cass's skill settled into his attention with the pressure already waiting for it. Holding her in place against the next impact was going to cost her Focus. Now it would cost Ren instead.
+No weight settled on his shoulders this time. Hold Fast began taking Focus from Ren instead of Cass.
 
 Pip moved to the right-hand rail. Juno took a wrapped coal pot from her satchel.
 
@@ -80,9 +80,9 @@ Pip raised her bow. Cass planted and lifted the shield. The doorkeeper's right a
 
 A red mark appeared over the joint.
 
-The collision reached Ren through Carry.
+The doorkeeper hit Cass. Through Carry, Hold Fast began taking Focus from Ren much faster.
 
-His attention narrowed around the single fact of Cass remaining in place. The skill took everything the doorkeeper put into the shield and billed him for it. He could still see the bridge and hear Juno calling the angle, but both had become things he had to keep picking up after they slipped away.
+His vision narrowed. He could hear Juno calling the angle, but he lost half the words and had to drag his attention back to the bridge.
 
 Juno opened her hand. A thin line of fire crossed beside Cass's shield and struck the marked joint. She held it there just long enough for the dark hide to pull tight.
 
@@ -118,15 +118,13 @@ Juno closed her hand. The flame went out. She wrapped the coal while she watched
 
 "No," Ren said.
 
-Everyone looked at him.
-
 He had one hand on the bridge rail. His sight had stopped narrowing after he released Carry, but the dark rim had not gone away.
 
 "I called first symptom. I'm done with skills for the day."
 
-Cass watched him for a moment. "Then you're done. Get behind Doc."
+Cass pointed behind Doc. "Then you're done. Get back there."
 
-The order hurt more than the Focus did. Ren stepped away from the bridge anyway.
+Ren wanted to argue. The dark rim around his sight was still there, so he stepped behind Doc.
 
 Doc moved between Ren and the fight. "Keep telling me if it changes."
 
@@ -138,13 +136,11 @@ Doc moved between Ren and the fight. "Keep telling me if it changes."
 
 Cass rolled her left shoulder once. It moved, although not through its full range.
 
-Theo saw it. "You can't take another one like that."
+Theo nodded at the shoulder she was protecting. "You can't block another charge."
 
-"I can take one."
+Cass tried to raise the shield and stopped halfway.
 
-"That's what you said about the last one."
-
-"Then make this one useful."
+"Then we don't let it hit square," she said.
 
 Pip kept the mark on the wounded joint. "The plate above it isn't sitting flat now. If it charges on that arm, the gap will open farther."
 
@@ -170,9 +166,7 @@ Theo sheathed one sword. He held the hammer across his body and tested the space
 
 Cass walked onto the bridge for the third time.
 
-Ren stood behind Doc with nothing running. The urge to designate Theo was immediate. Escort could keep his feet under him when he swung the unfamiliar hammer. It could get him through the gap faster. Ren still had clear hearing. The tunnel around his vision had not closed, but it had not deepened either.
-
-He could help for one more exchange. That did not mean he should.
+Ren stood behind Doc with nothing running. He reached for Escort by reflex. The dark rim around his sight was still there, so he stopped.
 
 The doorkeeper charged.
 
@@ -196,7 +190,7 @@ Juno stopped feeding the coal.
 
 Theo's fourth cut severed something inside the shoulder. The doorkeeper's right side dropped. It struck the damaged handrail, which folded under its weight.
 
-For a moment, half the gaunt hung over the water. Its left hand scraped across the deck and found Cass's ankle.
+Half the gaunt hung over the water. Its left hand scraped across the deck and found Cass's ankle.
 
 She brought the edge of the shield down across its wrist. The grip loosened. Theo kicked the broken shoulder plate clear, put one boot against the gaunt's side, and pushed.
 
@@ -222,7 +216,7 @@ The room smelled drier than the warehouse. Water moved through pipes beneath the
 
 Doc made everyone stop on the first landing. He checked Cass's shoulder while she held the shield upright with her other hand.
 
-"Bruised," he said. "Possibly cracked. You can still use it, which is not the same as it being fine."
+"Bruised," he said. "You can move it, but it may be cracked."
 
 "Can you Mend it?"
 
@@ -256,21 +250,19 @@ Pip looked up the central shaft. "Five landings to the upper gantry. About twent
 
 Theo took the front of the stretcher this time, walking backwards up the stairs while Juno lifted from below. Pip went ahead and checked every landing. Cass followed beside Juno where the stair was wide enough. Doc handed Ren his pack before they started up. Without Carry, its full weight dragged at the straps and made him lean forward on every step.
 
-Nobody offered to take it from him. It was ordinary weight, and carrying it gave him something to do.
+Ren settled the straps and climbed.
 
 The second landing had a window looking over the warehouse. From higher up, Ren could see the route they had taken through the racking as a broken line of green marks. The receiving platform was hidden behind a wall of containers. The underwater camera's feed could still be running somewhere below, filming whatever moved through the junction after them.
 
 He turned away from the window and kept climbing.
 
-At the fourth landing, Ilyas began coughing again. Theo and Juno set the stretcher down across the stairs. Doc knelt beside him until the fit passed. Cass did not ask how much time it cost.
+At the fourth landing, Ilyas began coughing again. Theo and Juno set the stretcher down across the stairs. Doc knelt beside him until the fit passed. Cass waited until Doc waved them on.
 
 Pip checked the stopwatch when they moved again and kept the number to herself.
 
-The final stair ended at a steel door. Pip opened it a few centimetres, looked through the gap, then pushed it wide.
+The final stair ended at a steel door. Pip eased it open, checked the gap, then pushed it wide.
 
-The upper gantry ran along the warehouse wall at the level of the highest racking. It was broad enough for the stretcher and built from heavier steel than the maintenance walkways below. For the first thirty metres, it looked intact.
-
-Then it ended in open air.
+The upper gantry ran along the warehouse wall at the level of the highest racking. It was broad enough for the stretcher and built from heavier steel than the maintenance walkways below. It ran intact for thirty metres before ending over open air.
 
 A section longer than the sluice bridge had torn away from the wall and fallen across the racking. The far end of the return route remained attached near the receiving platform, but there was no steel between the two halves. The gap was too wide for their rope.
 
@@ -290,7 +282,7 @@ Pip raised her binoculars. She took her time with the answer.
 
 "From here to the crane cab, yes. I can't see the section on the other side."
 
-Cass looked at Ilyas on the stretcher, then at the route leading deeper into the warehouse.
+Cass checked the straps holding Ilyas to the stretcher.
 
 "We check it," she said. "Extraction is still the job."
 

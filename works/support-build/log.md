@@ -281,3 +281,9 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 ## 2026-07-12 — Humanisation pass: chapter 5
 
 **Done:** Reworked chapter 5’s abstract-subject action, meaningful non-action, deliberation shorthand, and overly conceptual skill drain. Preserved rescue clarity and tactical mechanics. No plot, mechanics, or canon changed.
+
+## 2026-07-12 — Humanisation pass: chapter 6
+
+**Done:** Reworked chapter 6’s balanced corrections, abstract-subject action, interpretive Focus passage, polished dialogue staircase, look-then-deliberate blocking, negative-space emotion, and weak scene buttons. Preserved the concrete action ending and all live stop-rule consequences. No plot, mechanics, or canon changed.
+
+**Serial-wide verification:** Compared the edited corpus against the branch baseline. Targeted search counts changed as follows: interpretive `which` tails 9→0; balanced corrections 3→0; negative-space delivery 6→1; look-then decision blocking 10→2; abstract triggers 4→0; managed-figure seeds 9→0; accounting overfit 4→0. The remaining hits are intentional uses rather than automatic failures. `git diff --check`, all 22 Node tests, the site build, EPUB build, and output verification pass.
