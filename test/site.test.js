@@ -168,6 +168,7 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
     assert.match(catalogue, /Download EPUB/);
     assert.match(catalogue, /<img[^>]+src="\/stories\/atlas\/cover\.png"/);
     assert.match(catalogue, /book-cover--typographic/);
+    assert.match(catalogue, /book-cover--illustrated/);
     assert.match(catalogue, /href="\/stories\/atlas\/index\.html"/);
     assert.match(catalogue, /href="\/stories\/atlas\/001-the-door\/index\.html"/);
     assert.match(catalogue, /href="\/stories\/atlas\/atlas\.epub"/);
