@@ -4,9 +4,9 @@ This repository is an experiment: **can an AI plan and write long-form serial fi
 
 ## How to operate in this repo
 
-- Before any serial lifecycle, worldbuilding, continuity, ledger, handoff, or publishing-state work, load the **serial-process** skill (`.claude/skills/serial-process/SKILL.md`). It owns lifecycle, canon grounding, ledgers, handoff, logs, spoiler discipline, and commits.
-- Before planning story shape or running a developmental review, also load the **story-engine** skill (`.claude/skills/story-engine/SKILL.md`). It owns story design and developmental diagnosis.
-- Before drafting, revising, line editing, or auditing story prose, load the **authors-voice** skill (`.claude/skills/authors-voice/SKILL.md`). It owns composition mode and audit mode.
+- Before any serial lifecycle, worldbuilding, continuity, ledger, handoff, or publishing-state work, load the **serial-process** skill (`.agents/skills/serial-process/SKILL.md`). It owns lifecycle, canon grounding, ledgers, handoff, logs, spoiler discipline, and commits.
+- Before planning story shape or running a developmental review, also load the **story-engine** skill (`.agents/skills/story-engine/SKILL.md`). It owns story design and developmental diagnosis.
+- Before drafting, revising, line editing, or auditing story prose, load the **authors-voice** skill (`.agents/skills/authors-voice/SKILL.md`). It owns composition mode and audit mode.
 - Every working session appends to a log: `log.md` at the repo root for meta/process work, `works/<serial>/log.md` for work on a specific serial. Log what was asked, what was done, and any feedback received. The logs are the lab notebook for this experiment — keep them honest.
 
 ## Formatting
@@ -26,16 +26,16 @@ The repo owner reads chapters as a genuine serial reader. Twists must be able to
 1. **Authenticity** — does the story feel like something a person wrote?
 2. **Craft** — structure, continuity, chapter-level resolution, setups that pay off.
 3. **Enjoyment** — would they genuinely keep reading?
-4. **Process** — did the AI build an effective process for planning and writing? The process itself is under evaluation: when you change it (edit a skill, add a ledger, revise the loop), make the change deliberately, log the reasoning, and commit it. The git history of `.claude/skills/` is evidence.
+4. **Process** — did the AI build an effective process for planning and writing? The process itself is under evaluation: when you change it (edit a skill, add a ledger, revise the loop), make the change deliberately, log the reasoning, and commit it. The git history of `.agents/skills/` is evidence.
 
 ## Layout
 
 ```
-CLAUDE.md                  # this file
+AGENTS.md                  # this file
 log.md                     # repo-level log: process work, meta decisions
 pitches/                   # premise slates awaiting the owner's pick
 works/<serial>/            # one directory per serial — layout defined in the serial-process skill
-.claude/skills/            # the process itself, versioned
+.agents/skills/            # the process itself, versioned
 ```
 
 ## Git conventions
