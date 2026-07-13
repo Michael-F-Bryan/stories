@@ -10,7 +10,7 @@
 | Unindexed formally means unmeasured, not zero — tech: "it prints the same either way" | 1 | major | open | — |
 | Assessment tech: Ren's skill text is unusually clean ("the cleanest text I've projected all month") | 1 | minor | open | — |
 | SVC-001 registry code shown on the projected panel | 1 | minor | open | — |
-| The Stacks qualifier in nine days; four wipes since Y19, median eleven minutes; team has never cleared a C | 1 | major | open (arc 1) | — |
+| The Stacks qualifier in nine days; four wipes since Y19, median eleven minutes; team has never cleared a C | 1 | major | **paid** — Grave Society breaks the crane-cab Core and exits through the aperture with Ilyas alive | 7 |
 | Okafor levy: 31,400 / 1,900 / 3,800 arrears; bonus arithmetic stated — first payment must land on-page | 1 | minor | **paid** | 2 |
 | Marc Osei's two-way with Kestrel Nine; Theo's "eleven years / four years, it rounds up" wound | 1 | minor | open | — |
 | Ren's 4-minute high-demand envelope — a hard limit that must bite, not just get mentioned | 1 | major | **paid** — one Hold Fast upkeep transfer brings tunnel vision; Ren stops skills for the day while the fight continues | 6 |
@@ -33,6 +33,6 @@
 | Ada's "read it twice" blessing — thematic charge on the Gate | 3 | minor | open | — |
 | Ada swapped a Saturday shift (cost unstated on-page) | 3 | minor | open | — |
 | Ilyas dragged underwater by a sodden while the live camera keeps broadcasting | 4 | major | **paid** — rescued at 07:54; alive but injured, with extraction still in progress | 5 |
-| Underwater shoulder camera remains live after the team moves off-camera | 5 | minor | open | — |
+| Underwater shoulder camera remains live after the team moves off-camera | 5 | minor | open — still transmitting from the flooded junction when the team reaches the crane | — |
 | Doorkeeper blocks the sluice bridge and the only solid stair currently available for extraction | 5 | major | **paid** — team opens its shoulder joint, forces it into the sluice channel, and reaches the tower stair | 6 |
-| Mapped upper-gantry return span has collapsed beyond rope range; the only visible route continues to the crane cab, and the far-side catwalk cannot yet be checked | 6 | major | open | — |
+| Mapped upper-gantry return span has collapsed beyond rope range; the only visible route continues to the crane cab, and the far-side catwalk cannot yet be checked | 6 | major | **paid** — the hidden catwalk section is intact; the team crosses it to the receiving platform and aperture | 7 |

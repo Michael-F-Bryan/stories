@@ -2,6 +2,16 @@
 
 *Current arc position vs the bible's starting states. Updated when it moves.*
 
+## As of ch. 7 (outside the Stacks after the clear)
+
+- **Ren:** Remains off all skills and still has a narrowing rim of tunnel vision at the crane. Rigs the stretcher through the crane access, identifies the jammed trolley stop, directs the transfer, and keeps working by hand. Exits with rope-burned palms and shaking hands after confirming the whole team is outside.
+- **Cass:** Keeps her injured left shoulder close, redirects the crane hook with her shield, and pins the guardian at the cab. Cannot raise the Core hammer normally; cracks the floorplate with a limited two-handed strike, then combines with Theo for the breaking blow. Exits with shield and hammer.
+- **Theo:** Carries the stretcher, climbs onto the cab roof after Pip redirects the hook, levers the heated brake stop, cuts the guardian's chain, and helps Cass break the Core. Retains both swords.
+- **Juno:** Keeps the stretcher stable and uses narrow, controlled heat on the brake housing, guardian webbing, and Core floorplate. No overcast or grey-out.
+- **Pip:** Confirms the far catwalk reaches the receiving platform, redirects the hook chain with one arrow, marks the Core seam and sound catwalk sections, and carries the stopwatch outside.
+- **Doc:** Monitors Ilyas throughout the crane transfer, helps lift the stretcher, and keeps Ren off skills. Exits with the team.
+- **Ilyas:** Remains conscious, coughing, and strapped to the stretcher until the port medics take him to an ambulance. His knee remains non-weight-bearing; the detached shoulder camera is still transmitting from the flooded junction.
+
 ## As of ch. 6 (inside the Stacks, upper gantry after 18:08 elapsed)
 
 - **Ren:** Releases Carry from Doc's pack and, with Cass's explicit consent, takes the upkeep of Hold Fast for one doorkeeper charge. The Rank VII upkeep drives him to tunnel vision; he reports it immediately, releases Carry, and stops all skills for the day. He later wants to use Escort on Theo and deliberately obeys the stop instead. Tunnel vision is receding but remains present at the tower; he physically carries Doc's pack up the stairs.
