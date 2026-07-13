@@ -13,7 +13,7 @@ title: Stories
     {% for book in books %}
       <li>
         <article class="book-card">
-          <a class="book-card__cover book-cover book-cover--typographic" href="{{ book.url }}" aria-label="Open {{ book.title }}">
+          <a class="book-card__cover book-cover book-cover--typographic{% if book.coverUrl %} book-cover--illustrated{% endif %}" href="{{ book.url }}" aria-label="Open {{ book.title }}">
             {% if book.coverUrl %}
               <img src="{{ book.coverUrl }}" alt="" loading="lazy" decoding="async">
             {% endif %}
