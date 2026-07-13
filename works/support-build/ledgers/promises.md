@@ -19,7 +19,7 @@
 | Grey-out drops sustained effects — Doc's warning: "in there it costs whoever you were holding" | 2 | major | open | — |
 | The Ganz Freeze clip surfaced on-page; the incident behind it untold; Theo left mid-joke | 2 | major | open | — |
 | The Stacks survey is from Year 20, two years stale; water table moved twice — Juno's flood budget depends on it | 2 | major | **paid** — actual water exceeds even Pip's wet map at the first junction | 4 |
-| Preview prediction: GS 71st of 71; Kef cited their zero-flag record on air | 2 | minor | open | — |
+| Preview prediction: GS 71st of 71; Kef cited their zero-flag record on air | 2 | minor | open — first-round provisional placement reaches 34th, then 36th, on strong damage economy and zero casualty flags | — |
 | Dree Vann's "Development is a broad church" — rivalry temperature set | 2 | minor | open | — |
 | Cass left the grey-out run off the whiteboard — small unremarked kindness/doctrine | 2 | minor | open | — |
 | Escort range: ~60 m open-ground, tracking-dependent; cover breaks it — and the Stacks "is nothing but cover" (Pip) | 3 | major | open (must matter at the Gate) | — |
@@ -28,11 +28,15 @@
 | Juno's banked-coal pots, triple-wrapped against the Stacks' water — ember-starts cost a fraction of cold starts | 3 | minor | **paid** — wrapping stays dry and a banked coal kills a palp | 4 |
 | The two-map junction protocol + retreat threshold — the plan the Gate will test | 3 | major | **paid** — reality exceeds the wet map and Cass orders immediate retreat without debate | 4 |
 | Attend's 30-second door test — first Attend use pending | 3 | major | **paid** — test completed at the receiving platform | 4 |
-| Theo enters a broadcast Gate with a live camera problem; formation shields him from the rig's entry side | 3 | major | open — shielded position saves his first live chain in ch. 4; in ch. 5 he moves cleanly after the inside camera is lost; larger camera arc continues | — |
+| Theo enters a broadcast Gate with a live camera problem; formation shields him from the rig's entry side | 3 | major | open — shielded position saves his first live chain in ch. 4; in ch. 5 he moves cleanly after the inside camera is lost; in ch. 8 he freezes while volunteering to defend Ren in a live interview; larger camera arc continues | — |
 | Juno's diagnosis ("you want to spend it all so nothing gets through") — does it change her in the Gate? | 3 | major | open — she stops a narrow first cast cleanly in ch. 4; fear test continues | — |
 | Ada's "read it twice" blessing — thematic charge on the Gate | 3 | minor | open | — |
 | Ada swapped a Saturday shift (cost unstated on-page) | 3 | minor | open | — |
 | Ilyas dragged underwater by a sodden while the live camera keeps broadcasting | 4 | major | **paid** — rescued at 07:54; alive but injured, with extraction still in progress | 5 |
-| Underwater shoulder camera remains live after the team moves off-camera | 5 | minor | open — still transmitting from the flooded junction when the team reaches the crane | — |
+| Underwater shoulder camera remains live after the team moves off-camera | 5 | minor | **paid** — recovered feed shows only three sodden and black water, with mostly unusable audio; it does not explain the clear | 8 |
 | Doorkeeper blocks the sluice bridge and the only solid stair currently available for extraction | 5 | major | **paid** — team opens its shoulder joint, forces it into the sluice channel, and reaches the tower stair | 6 |
 | Mapped upper-gantry return span has collapsed beyond rope range; the only visible route continues to the crane cab, and the far-side catwalk cannot yet be checked | 6 | major | **paid** — the hidden catwalk section is intact; the team crosses it to the receiving platform and aperture | 7 |
+| League replay records Ren as NO RECORDED OUTPUT and labels him a passenger despite the team's clean clear | 8 | major | open | — |
+| Cass asks Ren to read his complete panel and pauses over Attend's exact text without explaining why | 8 | major | open | — |
+| Stacks payment funds the team's first visible gear upgrades, including a proper lifting harness for Ren | 8 | minor | open | — |
+| Morrow Yard second qualifier accepted at D-grade with four days left in its term | 8 | major | open | — |

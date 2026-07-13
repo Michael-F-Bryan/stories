@@ -2,6 +2,16 @@
 
 *Current arc position vs the bible's starting states. Updated when it moves.*
 
+## As of ch. 8 (Sunday evening, after the Stacks result)
+
+- **Ren:** Immediate medical checks pass; his palms are dressed, and he remains off skills until the next day. The official package records no output and labels him a passenger. He answers the broadcast's questions plainly, receives his Gate share, and pays 1,900 marks against the next levy quarter. Cass asks him to read his panel and pauses over Attend.
+- **Cass:** X-ray rules out a fracture, but a deep bruise and strained left shoulder keep her off the shield for two weeks. She cuts off the interview after Theo freezes, budgets the clear payment for rent, shares, repairs, and upgrades, then accepts Morrow Yard.
+- **Theo:** Volunteers to correct the passenger framing, answers the first interview question, then freezes under the tally light while trying to defend Ren. He turns off his phone at the gym and services his damaged sword.
+- **Juno:** Supports the team through the medical wait and aftermath, pushes for useful equipment spending, and adds waterproof coal tins to the repair list.
+- **Pip:** Interprets the first-round score, follows Theo when he leaves the interview, and identifies the Morrow Yard assignment and graveyard-week bounty.
+- **Doc:** Enforces Cass's clinic visit, Ren's rest restriction, and the shoulder instructions.
+- **Ilyas:** Stable and awake in hospital with family present; kept overnight after breathing water. His knee has a torn ligament. The recovered feed from his detached camera is not useful beyond confirming activity in the junction.
+
 ## As of ch. 7 (outside the Stacks after the clear)
 
 - **Ren:** Remains off all skills and still has a narrowing rim of tunnel vision at the crane. Rigs the stretcher through the crane access, identifies the jammed trolley stop, directs the transfer, and keeps working by hand. Exits with rope-burned palms and shaking hands after confirming the whole team is outside.

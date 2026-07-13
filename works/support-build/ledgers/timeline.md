@@ -60,3 +60,11 @@
 - The guardian blocks the cab entrance. Cass pins its arm with her shield, Theo cuts the chain, Juno burns through the webbing binding it to the controls, and Pip marks the Core seam behind the console.
 - Cass cannot raise the Core hammer normally with her injured shoulder. She cracks the floorplate with a limited strike, then she and Theo break the Core together. The guardian stops moving, the hook settles, and the hidden catwalk section is intact.
 - The team carries Ilyas across the catwalk and through the aperture. Port medics take him to an ambulance. The League status board changes from LIVE to CLEAR; all six members of Grave Society are outside, and Ren has kept the first-symptom stop without becoming passive.
+
+## Ch. 8 — Passenger (Sunday, day 9; immediate Stacks aftermath)
+
+- League and club doctors clear Ren from immediate treatment but keep him off skills until the next day. Cass's X-ray shows no fracture: a deep bruise and strained joint require two weeks without the shield. Ilyas is stable, awake, and kept overnight after breathing water; his knee has a torn ligament.
+- The submerged shoulder-camera feed proves unusable beyond three sodden and black water. Grave Society's verified first-round score shows a slow clear, the division's fourth-best damage economy so far, one control penalty for the lost camera, and zero casualty flags. Their provisional placement first lands at 34th, then moves to 36th with twelve teams still unresolved.
+- The League replay lists Ren as NO RECORDED OUTPUT and packages the clear as a passenger story. Ren explains Attend, Escort, Carry, and his live stop in an interview. Theo volunteers to defend him, freezes under the tally light, and Cass ends the interview.
+- The clear purse and Core buyback cover rent, player shares, damaged-kit replacement, and limited upgrades. Ren pays 1,900 marks against the next levy quarter. The team lists a repaired shield, arrows, sword service, a new stretcher, waterproof coal tins, and a proper lifting harness for Ren.
+- Cass asks Ren to read his complete panel and pauses over Attend's text. Before she explains why, the second qualifier arrives: Morrow Yard, D-grade, with four days left in its term. Cass accepts it for the graveyard-week bounty.
