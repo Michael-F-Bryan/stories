@@ -2,6 +2,17 @@
 
 *Who knows what, when they learned it (chapter), and what they wrongly believe. Also defines what the READER can be assumed to know — if it isn't on the page, it isn't known.*
 
+## New in ch. 9
+
+- **SVC-001 grounded:** the Authority registry code means Attendant was the first service-category class recorded; it is not a rank.
+- **Human techniques and broadcast tags:** technique names are repeatable human labels rather than System skills. Grave Society names a called Carry transfer [LOAD SHIFT] and the rope-plus-Escort application [GUIDE LINE] so the League graphics desk can tag Ren's work.
+- **[LOOSE] first shown by name:** Pip states that it sends an arrow where she looked, then turns her bow away and hits a lunch tin she had already sighted. The sound draws bell jellies across a skitter pack.
+- **Bell jellies first published:** the translucent floating gaunts follow sound and burst in a concussive ring on hard contact. Grave Society deliberately bursts one above skitters, staggering rather than killing them.
+- **Morrow Yard route and clear:** the D-grade far side is a rail-maintenance hall. The surveyed bridge to the signal cabin is crushed, and the planned inspection-trench route reaches a damaged maintenance shaft. Ren's physical harness and rope catch Cass after a bracket fails; Escort preserves footing only while a surface remains. Theo breaks the signal-desk Core.
+- **Competition state:** Grave Society clears in 18:22 with no casualty flags or control penalties. Its two-round qualifier placing settles at 31st of 71, securing entry to the split. Morrow footage carries technique tags beneath Ren's name.
+- **Marc and the split:** Marc Osei appears with Kestrel Nine at the regional draw. He congratulates Cass, checks on Theo without pressing the interview freeze, and tells Ren he is glad Grave Society filled the slot. Kestrel Nine draws Grave Society for the split opener.
+- **Reader still does NOT know:** why Cass focused on Attend; the history behind Theo and Marc beyond the published defection; what caused the Stacks flooding discrepancy; anything about Cass's past.
+
 ## New in ch. 8
 
 - **Qualifier structure:** Division D teams complete two qualifier rounds before split fixtures. Grave Society's first-round score is initially 34th, then 36th while twelve results remain unresolved. Their clear time scores poorly, damage economy is fourth-best so far, the lost camera earns one control penalty, and they retain zero casualty flags.

@@ -20,3 +20,4 @@
 | 006 | [The Sluice](chapters/006-the-sluice.md) | ~2,400 |
 | 007 | [Counterweight](chapters/007-counterweight.md) | ~2,500 |
 | 008 | [Passenger](chapters/008-passenger.md) | ~2,550 |
+| 009 | [Morrow Yard](chapters/009-morrow-yard.md) | ~2,900 |

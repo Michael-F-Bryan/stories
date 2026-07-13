@@ -68,3 +68,12 @@
 - The League replay lists Ren as NO RECORDED OUTPUT and packages the clear as a passenger story. Ren explains Attend, Escort, Carry, and his live stop in an interview. Theo volunteers to defend him, freezes under the tally light, and Cass ends the interview.
 - The clear purse and Core buyback cover rent, player shares, damaged-kit replacement, and limited upgrades. Ren pays 1,900 marks against the next levy quarter. The team lists a repaired shield, arrows, sword service, a new stretcher, waterproof coal tins, and a proper lifting harness for Ren.
 - Cass asks Ren to read his complete panel and pauses over Attend's text. Before she explains why, the second qualifier arrives: Morrow Yard, D-grade, with four days left in its term. Cass accepts it for the graveyard-week bounty.
+
+## Ch. 9 — Morrow Yard (Monday to Wednesday after the Stacks)
+
+- Ren receives medical clearance. Grave Society spends part of the Stacks payment on a lifting harness, clean rope, replacement arrows, waterproof coal tins, a straight stretcher, shield repair, and sword servicing. Cass remains barred from the shield.
+- A League producer asks for repeatable human technique labels so the broadcast can tag Ren's work. Pip explains SVC-001 as the first service-category class recorded. The team names a called Carry transfer [LOAD SHIFT] and an Escort-plus-rope application [GUIDE LINE].
+- At Morrow Yard, Pip uses [LOOSE] and sound to draw bell jellies over a skitter pack; one jelly's concussive burst staggers the pack for Theo, Juno, and Pip to finish. Ren uses Escort to let Theo cross oily ground safely and uses Load Shift to take Doc's pack through a narrow gap while the broadcast tags the transfer.
+- The surveyed footbridge to the signal cabin is already crushed. The planned trench route reaches a maintenance shaft with damaged rungs. Ren uses the new harness, rope, and Guide Line to belay Cass one-handed; Escort preserves her footing until a bracket tears free, and the physical rope catches the fall.
+- Theo clears the signal cabin, Juno heats the Core casing in a short burst, Pip marks the seam, and Theo breaks the D-grade Core with Cass's hammer on camera. Grave Society exits in 18:22 with no casualty flags or control penalties. Their two-round qualifier result settles at 31st of 71, securing a place in the split.
+- Two days later at the regional draw, Marc Osei appears on-page with Kestrel Nine and speaks briefly with Cass, Theo, and Ren. The split opener pairs Kestrel Nine against Grave Society.

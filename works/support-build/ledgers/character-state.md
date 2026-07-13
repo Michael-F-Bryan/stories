@@ -2,6 +2,16 @@
 
 *Current arc position vs the bible's starting states. Updated when it moves.*
 
+## As of ch. 9 (qualified for the split, Kestrel opener drawn)
+
+- **Ren:** Medically cleared and equipped with a lifting harness. Accepts descriptive technique labels without letting the broadcast call replace team comms. Uses Escort on Theo, Load Shift on Doc's pack, and Guide Line plus physical rope to belay Cass. Shows no Focus symptoms. His tagged Morrow footage replaces the interview freeze on much of the current sports cycle.
+- **Cass:** Remains off the repaired shield and explicitly removes herself from the front position. Carries the Core hammer inside the formation, accepts the planned trench route, and climbs the damaged shaft one-handed under Guide Line. Attends the split draw in the sling.
+- **Theo:** Leads the Morrow formation on camera, completes the first skitter chain, clears the signal cabin, and breaks the Core with Cass's hammer. At the draw, he answers Marc plainly and does not perform for the room.
+- **Juno:** Uses short, controlled bursts against skitters and the signal-desk casing; no overcast or grey-out. Receives waterproof coal tins as the first gear upgrade.
+- **Pip:** Explains SVC-001, helps name the techniques, uses [LOOSE] to direct bell jellies, and marks the Core seam.
+- **Doc:** Carries the medical pack until consenting to Load Shift at the narrow gap and continues enforcing Cass's shoulder restriction.
+- **Marc:** Appears on-page with Kestrel Nine at the regional draw. Congratulates Cass, checks on Theo, and greets Ren without hostility. Will face Grave Society in the split opener.
+
 ## As of ch. 8 (Sunday evening, after the Stacks result)
 
 - **Ren:** Immediate medical checks pass; his palms are dressed, and he remains off skills until the next day. The official package records no output and labels him a passenger. He answers the broadcast's questions plainly, receives his Gate share, and pays 1,900 marks against the next levy quarter. Cass asks him to read his panel and pauses over Attend.
