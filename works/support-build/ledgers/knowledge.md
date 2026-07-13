@@ -35,6 +35,15 @@ An outside reader bounced off ch. 1 scene 1 — the prose used world terms as if
 - **Route state:** the concrete tower stair reaches the upper gantry, but the mapped return span to the receiving platform has collapsed beyond rope range. The route to the crane cab appears connected; the catwalk on its far side cannot yet be seen. The team continues towards the crane cab while treating extraction as the job.
 - **Reader still does NOT know:** whether the catwalk beyond the crane cab remains connected; what occupies the crane cab now; whether the underwater camera feed remains useful; why the Stacks' flooding and structural decay exceed both maps; whether Grave Society can still reach the aperture.
 
+## New in ch. 7
+
+- **Crane route paid:** the hidden section of the far-side catwalk is intact and reaches the receiving platform. The crane's low hook and concrete stop prevent the stretcher turning through the cab until the team frees the trolley stop.
+- **Gate-specific guardian:** the crane-cab guardian is roughly human-shaped, grown into an operator harness, and can use the crane controls and hook chain to defend the cab. It stops moving when the Core breaks.
+- **Ren without skills:** his tunnel vision is still receding at the crane, and he remains off all skills. He contributes through rope rigging, clearance checks, and directing the stretcher transfer.
+- **Core and clear:** the Stacks Core is grown beneath the crane-cab console. Cass cracks its floorplate despite her shoulder injury, Theo assists the second hammer strike, and the Core breaks. The team crosses the catwalk and aperture; the League board changes from LIVE to CLEAR.
+- **Extraction state:** Ilyas reaches the port alive and is taken to an ambulance. His detached shoulder camera is still transmitting from the flooded junction when the team reaches the crane.
+- **Reader still does NOT know:** what the underwater feed captured or whether it will matter; Grave Society's score and public reception; why the flooding and structural decay exceed both maps; anything about Cass's past.
+
 ## New in ch. 4
 
 - **World terms first published and grounded:** gaunts (the animals inside Gates); regard (the observed pattern by which gaunts choose targets); skitters (dog-sized six-legged pack hunters that follow movement); sodden (submerged grapplers that follow ripples and pull victims under); palps (pale racking ambushers that lie flat overhead and drop).

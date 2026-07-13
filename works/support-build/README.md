@@ -17,3 +17,5 @@
 | 003 | [Burn Rate](chapters/003-burn-rate.md) | ~2,850 |
 | 004 | [The Stacks](chapters/004-the-stacks.md) | ~2,150 |
 | 005 | [Blackwater](chapters/005-blackwater.md) | ~2,050 |
+| 006 | [The Sluice](chapters/006-the-sluice.md) | ~2,400 |
+| 007 | [Counterweight](chapters/007-counterweight.md) | ~2,500 |

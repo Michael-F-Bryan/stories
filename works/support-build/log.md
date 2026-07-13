@@ -291,3 +291,17 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 ## 2026-07-12 — Late independent audit follow-up
 
 **Review outcome:** The chapter 1–2 and chapter 5–6 auditors timed out without summaries. The chapter 3–4 auditor completed after the main pass and found five residual candidates. Three chapter 3 findings were accepted: simplify the fire-upkeep setup, loosen Cass's pre-entry briefing, and make Ada's warning less speech-like. Its chapter 4 recap finding was rejected because the line states live formation and skill state needed for the next sequence; its other chapter 4 finding had already been removed during the main pass.
+
+## 2026-07-13 — Chapter 7: "Counterweight"
+
+**Owner:** Asked for chapter 7, then directed the complete story-writing process through a merge-ready result.
+
+**State/design:** Confirmed chapter 6 is published on `main` despite the stale handoff, then created isolated worktree `.worktrees/support-build-007` on `write/support-build-007`. Two independent design passes were considered. The selected chapter shape resolves the Stacks clear while keeping Ren off skills and making his contribution physical and practical.
+
+**Draft and repair:** Composition-only drafting produced 3,195 words. The coordinator's first read caught an ambiguous false exit at the receiving platform, incorrect human-origin wording for the guardian, an implausible one-handed Core break with Cass's injured shoulder, and a dense managed-prose cluster. Repairs made the aperture crossing explicit, kept the guardian a Gate-specific gaunt, required Cass and Theo to break the Core together, restored Ren's carried-forward tunnel vision, and reduced the final chapter to 2,495 words without changing its causal spine.
+
+**Develop and Ground:** The initial reviews identified structural repetition and the false exit in the old draft. After repair, both gates were rerun on the current file and passed: the crane/stretcher problem reads distinctly from the doorkeeper fight, the official clear supplies the mini-resolution, and route, injuries, mechanics, inventory, party boundary, and POV are consistent.
+
+**Audit:** Formal fresh-context authors-voice Audit passed with no material findings. A separate ordinary-reader pass found the ending clean but less hook-driven; no change was made because the chapter's job is to finish the qualifier cleanly and the next chapter owns the external aftermath. Banned-pattern scans found no high-signal accumulation. Ledgers and handoff were then updated from the accepted final text.
+
+**Verification:** `pnpm test` passed all 27 tests. `pnpm build` completed the site, EPUB, and output verification stages. The generated site contains `support-build/007-counterweight/index.html`, and the Support Build EPUB was regenerated. Final-copy scaffolding scan returned zero matches. The broad prose-pattern scan returned only the substring `ash` inside `smashed`, a false positive. `git diff --check` passed.
