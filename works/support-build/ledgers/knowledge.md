@@ -2,6 +2,28 @@
 
 *Who knows what, when they learned it (chapter), and what they wrongly believe. Also defines what the READER can be assumed to know — if it isn't on the page, it isn't known.*
 
+## New in ch. 9
+
+- **SVC-001 grounded:** the Authority registry code means Attendant was the first service-category class recorded; it is not a rank.
+- **Human techniques and broadcast tags:** technique names are repeatable human labels rather than System skills. Grave Society names a called Carry transfer [LOAD SHIFT] and the rope-plus-Escort application [GUIDE LINE] so the League graphics desk can tag Ren's work.
+- **[LOOSE] first shown by name:** Pip states that it sends an arrow where she looked, then turns her bow away and hits a lunch tin she had already sighted. The sound draws bell jellies across a skitter pack.
+- **Bell jellies first published:** the translucent floating gaunts follow sound and burst in a concussive ring on hard contact. Grave Society deliberately bursts one above skitters, staggering rather than killing them.
+- **Morrow Yard route and clear:** the D-grade far side is a rail-maintenance hall. The surveyed bridge to the signal cabin is crushed, and the planned inspection-trench route reaches a damaged maintenance shaft. Ren's physical harness and rope catch Cass after a bracket fails; Escort preserves footing only while a surface remains. Theo breaks the signal-desk Core.
+- **Competition state:** Grave Society clears in 18:22 with no casualty flags or control penalties. Its two-round qualifier placing settles at 31st of 71, securing entry to the split. Morrow footage carries technique tags beneath Ren's name.
+- **Marc and the split:** Marc Osei appears with Kestrel Nine at the regional draw. He congratulates Cass, checks on Theo without pressing the interview freeze, and tells Ren he is glad Grave Society filled the slot. Kestrel Nine draws Grave Society for the split opener.
+- **Reader still does NOT know:** why Cass focused on Attend; the history behind Theo and Marc beyond the published defection; what caused the Stacks flooding discrepancy; anything about Cass's past.
+
+## New in ch. 8
+
+- **Qualifier structure:** Division D teams complete two qualifier rounds before split fixtures. Grave Society's first-round score is initially 34th, then 36th while twelve results remain unresolved. Their clear time scores poorly, damage economy is fourth-best so far, the lost camera earns one control penalty, and they retain zero casualty flags.
+- **Medical aftermath:** Ilyas is stable and awake but kept overnight after breathing water; his knee has a torn ligament. Cass's shoulder is not fractured, but the deep bruise and strained joint keep her off the shield for two weeks. Ren is released with dressed palms and remains off skills until the next day.
+- **Underwater camera paid:** the feed continues until the Core breaks, but the lens shows only the flooded junction, three sodden, and black water; the audio is mostly interference. It does not explain the off-camera clear.
+- **Public interpretation:** official telemetry records no damage or healing output for Ren. The League package calls him a passenger despite his on-air account of the underwater Attend relay, escorted brace crossing, Hold Fast upkeep transfer, and manual stretcher work. Theo volunteers to defend him, freezes under the live tally light, and Cass stops the interview.
+- **Money and gear:** the clear purse and Core buyback fund rent, player Gate shares, repairs, and limited upgrades. Ren pays 1,900 marks against the next family levy quarter. The team's immediate kit needs include a new stretcher and a proper lifting harness for Ren.
+- **Cass and the panel:** Cass asks Ren to read his complete panel and pauses over Attend's exact text. She does not explain what she is looking for before the next assignment arrives.
+- **Next assignment:** Grave Society accepts Morrow Yard, a D-grade Gate with four days left in its term, as its second qualifier.
+- **Reader still does NOT know:** why Cass focused on Attend; the final first-round placing; what Morrow Yard contains; why the Stacks' flooding exceeded both maps; anything about Cass's past.
+
 ## Cold-reader revision pass, 2026-07-11 (applies across ch. 1–3 published text)
 
 An outside reader bounced off ch. 1 scene 1 — the prose used world terms as if already known. Chapters 1–3 were revised so a cold reader is oriented from the page alone. Newly ON-PAGE as of this pass:

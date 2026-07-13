@@ -9,17 +9,17 @@
 | [Attend] untested — "waits for a Gate" | 1 | minor | **paid** — first 30-second Gate test establishes borrowed sight/hearing, dulled own senses, nausea, and low stationary drain | 4 |
 | Unindexed formally means unmeasured, not zero — tech: "it prints the same either way" | 1 | major | open | — |
 | Assessment tech: Ren's skill text is unusually clean ("the cleanest text I've projected all month") | 1 | minor | open | — |
-| SVC-001 registry code shown on the projected panel | 1 | minor | open | — |
+| SVC-001 registry code shown on the projected panel | 1 | minor | **paid** — Pip explains it marks Attendant as the first service-category class recorded, not a rank | 9 |
 | The Stacks qualifier in nine days; four wipes since Y19, median eleven minutes; team has never cleared a C | 1 | major | **paid** — Grave Society breaks the crane-cab Core and exits through the aperture with Ilyas alive | 7 |
 | Okafor levy: 31,400 / 1,900 / 3,800 arrears; bonus arithmetic stated — first payment must land on-page | 1 | minor | **paid** | 2 |
-| Marc Osei's two-way with Kestrel Nine; Theo's "eleven years / four years, it rounds up" wound | 1 | minor | open | — |
+| Marc Osei's two-way with Kestrel Nine; Theo's "eleven years / four years, it rounds up" wound | 1 | minor | open — Marc appears on-page at the split draw; Kestrel Nine draws Grave Society for the opener | — |
 | Ren's 4-minute high-demand envelope — a hard limit that must bite, not just get mentioned | 1 | major | **paid** — one Hold Fast upkeep transfer brings tunnel vision; Ren stops skills for the day while the fight continues | 6 |
 | Clause nine cap (Cass's initialled margin figure) — contract detail; keep available, no obligation | 1 | minor | open | — |
 | Escort perception boundary: "sight, probably" — hearing ruled out on-page; smell/other senses and range untested | 2 | major | open (develops ch. 1 promise) | — |
 | Grey-out drops sustained effects — Doc's warning: "in there it costs whoever you were holding" | 2 | major | open | — |
 | The Ganz Freeze clip surfaced on-page; the incident behind it untold; Theo left mid-joke | 2 | major | open | — |
 | The Stacks survey is from Year 20, two years stale; water table moved twice — Juno's flood budget depends on it | 2 | major | **paid** — actual water exceeds even Pip's wet map at the first junction | 4 |
-| Preview prediction: GS 71st of 71; Kef cited their zero-flag record on air | 2 | minor | open | — |
+| Preview prediction: GS 71st of 71; Kef cited their zero-flag record on air | 2 | minor | **paid** — Grave Society completes both rounds at 31st of 71 and qualifies for the split | 9 |
 | Dree Vann's "Development is a broad church" — rivalry temperature set | 2 | minor | open | — |
 | Cass left the grey-out run off the whiteboard — small unremarked kindness/doctrine | 2 | minor | open | — |
 | Escort range: ~60 m open-ground, tracking-dependent; cover breaks it — and the Stacks "is nothing but cover" (Pip) | 3 | major | open (must matter at the Gate) | — |
@@ -28,11 +28,16 @@
 | Juno's banked-coal pots, triple-wrapped against the Stacks' water — ember-starts cost a fraction of cold starts | 3 | minor | **paid** — wrapping stays dry and a banked coal kills a palp | 4 |
 | The two-map junction protocol + retreat threshold — the plan the Gate will test | 3 | major | **paid** — reality exceeds the wet map and Cass orders immediate retreat without debate | 4 |
 | Attend's 30-second door test — first Attend use pending | 3 | major | **paid** — test completed at the receiving platform | 4 |
-| Theo enters a broadcast Gate with a live camera problem; formation shields him from the rig's entry side | 3 | major | open — shielded position saves his first live chain in ch. 4; in ch. 5 he moves cleanly after the inside camera is lost; larger camera arc continues | — |
-| Juno's diagnosis ("you want to spend it all so nothing gets through") — does it change her in the Gate? | 3 | major | open — she stops a narrow first cast cleanly in ch. 4; fear test continues | — |
+| Theo enters a broadcast Gate with a live camera problem; formation shields him from the rig's entry side | 3 | major | open — shielded position saves his first live chain in ch. 4; in ch. 5 he moves cleanly after the inside camera is lost; in ch. 8 he freezes in a live interview; in ch. 9 he leads and breaks the Core on camera, and the Morrow replay displaces the new freeze on current sports feeds; larger camera arc continues | — |
+| Juno's diagnosis ("you want to spend it all so nothing gets through") — does it change her in the Gate? | 3 | major | open — she stops a narrow first cast cleanly in ch. 4 and repeats controlled short bursts through Morrow Yard; fear test continues | — |
 | Ada's "read it twice" blessing — thematic charge on the Gate | 3 | minor | open | — |
 | Ada swapped a Saturday shift (cost unstated on-page) | 3 | minor | open | — |
 | Ilyas dragged underwater by a sodden while the live camera keeps broadcasting | 4 | major | **paid** — rescued at 07:54; alive but injured, with extraction still in progress | 5 |
-| Underwater shoulder camera remains live after the team moves off-camera | 5 | minor | open — still transmitting from the flooded junction when the team reaches the crane | — |
+| Underwater shoulder camera remains live after the team moves off-camera | 5 | minor | **paid** — recovered feed shows only three sodden and black water, with mostly unusable audio; it does not explain the clear | 8 |
 | Doorkeeper blocks the sluice bridge and the only solid stair currently available for extraction | 5 | major | **paid** — team opens its shoulder joint, forces it into the sluice channel, and reaches the tower stair | 6 |
 | Mapped upper-gantry return span has collapsed beyond rope range; the only visible route continues to the crane cab, and the far-side catwalk cannot yet be checked | 6 | major | **paid** — the hidden catwalk section is intact; the team crosses it to the receiving platform and aperture | 7 |
+| League replay records Ren as NO RECORDED OUTPUT and labels him a passenger despite the team's clean clear | 8 | major | open — Morrow's broadcast tags Load Shift and Guide Line beneath Ren's name, giving the public visible labels for his work | — |
+| Cass asks Ren to read his complete panel and pauses over Attend's exact text without explaining why | 8 | major | open | — |
+| Stacks payment funds the team's first visible gear upgrades, including a proper lifting harness for Ren | 8 | minor | **paid** — upgrades are fitted before Morrow Yard, and the harness catches Cass when a shaft bracket fails | 9 |
+| Morrow Yard second qualifier accepted at D-grade with four days left in its term | 8 | major | **paid** — cleared in 18:22 with no casualty flags or control penalties | 9 |
+| Kestrel Nine draws Grave Society for the first split fixture; Marc now stands on the opposing roster | 9 | major | open | — |

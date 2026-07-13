@@ -305,3 +305,23 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Audit:** Formal fresh-context authors-voice Audit passed with no material findings. A separate ordinary-reader pass found the ending clean but less hook-driven; no change was made because the chapter's job is to finish the qualifier cleanly and the next chapter owns the external aftermath. Banned-pattern scans found no high-signal accumulation. Ledgers and handoff were then updated from the accepted final text.
 
 **Verification:** `pnpm test` passed all 27 tests. `pnpm build` completed the site, EPUB, and output verification stages. The generated site contains `support-build/007-counterweight/index.html`, and the Support Build EPUB was regenerated. Final-copy scaffolding scan returned zero matches. The broad prose-pattern scan returned only the substring `ash` inside `smashed`, a false positive. `git diff --check` passed.
+
+## 2026-07-13 — Chapter 8: "Passenger"
+
+**Owner:** Asked for the next two Support Build chapters in a new worktree, followed by a PR and a green CI run, using the repository's serial-process, story-engine, and authors-voice skills.
+
+**State/design/compose:** Created `.worktrees/support-build-chapters-008-009` on `story/support-build-008-009` from current `origin/main`; all 28 baseline tests passed. Read the handoff, ledgers, sealed current-arc material, previous chapters, relevant bible files, owner-feedback log, and the three repository skills. Kept the generation packet outside the repository. The chapter covers the immediate medical result, qualifier score, broadcast interpretation, payment and first gear budget, then accepts the second qualifier.
+
+**Review and grounding:** Local Develop passed causal movement, choice, promise movement, and the aftermath shape. Grounding added an explicit first-use explanation that Division D has two qualifier rounds and kept the score provisional. Medical state, Focus restriction, camera footage, public telemetry, payment, gear, party boundaries, and reader knowledge were checked against the accepted chapter 7 state. The late independent Develop report returned `good as-is`, and the independent Ground report returned PASS with no material issues.
+
+**Prose audit and verification:** The independent fresh-context authors-voice Audit returned `good as-is` with no material reader-visible defects. High-signal banned-pattern scans returned zero material hits; the only broad serial scan match was the ordinary phrase “first C-grade clear in Grave Society’s history.” The draft has two deliberately unequal scenes and no repeated four- or five-word phrase cluster. `pnpm test` passed all 28 tests, `pnpm build` passed the site, EPUB, and output checks, EPUB chapter 8 was generated, and `git diff --check` passed.
+
+## 2026-07-13 — Chapter 9: "Morrow Yard"
+
+**State/design/compose:** Started from the committed chapter 8 state and used a separate generation packet. The arc closer fits the first visible gear upgrades, defines two descriptive human technique labels for broadcast tagging, runs a compact graveyard-term D-grade clear with Cass still off the shield, settles the two-round qualifier placement, and ends on the split draw.
+
+**Develop:** The initial route repeated the Stacks pattern by making another survey fail. The Develop pass changed Morrow Yard to a known crushed-bridge problem with a planned trench alternative; the live resistance is now the damaged shaft bracket. This makes the chapter a competence payoff rather than another improvisation after bad information. The Morrow set piece remains distinct from the Stacks through sound-led bell-jelly control, a lower-grade threat level, no casualty spiral, and visible technique tagging.
+
+**Ground:** Checked medical recovery, Cass's two-week shield restriction, one-burden Carry, sequential Escort/Carry use, Escort's structural boundary, [LOOSE], bell-jelly behaviour, physical belay geometry, camera-operator party boundaries, Core closure, qualifier structure, and Marc's established role. Replaced an unsafe belt clip with a rope seat sling and top-anchored belay. No sealed information appears in the chapter.
+
+**Audit and verification:** Replaced one fragment-list score line, removed an interpretive statement about Cass's role change, grounded [LOOSE] on first named use, and kept the technique names descriptive rather than load-bearing. Final high-signal scans returned zero hits. `pnpm test` passed all 28 tests, `pnpm build` passed site, EPUB, and output verification, chapter 9 was generated in the EPUB, and `git diff --check` passed.
