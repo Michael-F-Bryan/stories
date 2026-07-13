@@ -6,9 +6,9 @@ export const CHAPTER_FILENAME_PATTERN = /^(?<number>\d{3})-(?<slug>[a-z0-9]+(?:-
 export const PREMISE_LABEL = '**Premise (spoiler-free):**';
 
 export const SITE_TITLE = 'Stories';
-export const SITE_DESCRIPTION = 'Sequential fiction by Michael F. Bryan.';
+export const SITE_DESCRIPTION = 'Sequential fiction by Ashley Bennet.';
 export const DEFAULT_SITE_ORIGIN = 'https://michael-f-bryan.github.io';
-export const EPUB_AUTHOR = 'Michael F. Bryan';
+export const EPUB_AUTHOR = 'Ashley Bennet';
 export const EPUB_LANGUAGE = 'en-AU';
 export const OUTPUT_MARKER_FILENAME = '.story-publish-output';
 export const OUTPUT_MARKER_CONTENTS = 'stories-publisher\n';

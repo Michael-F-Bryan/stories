@@ -155,7 +155,7 @@ test('buildEpubs generates ordered EPUB3 editions with the repository metadata a
     });
 
     assert.equal(atlasEpub.metadata.title, 'Atlas <One> & Co.');
-    assert.equal(atlasEpub.metadata.author, 'Michael F. Bryan');
+    assert.equal(atlasEpub.metadata.author, 'Ashley Bennet');
     assert.equal(atlasEpub.metadata.language, 'en-AU');
     assert.deepStrictEqual(atlasEpub.navChapterTitles, ['The *Door* #1', 'The Market', 'The Archive']);
     assert.deepStrictEqual(atlasEpub.spineChapterTitles, ['The *Door* #1', 'The Market', 'The Archive']);
@@ -165,7 +165,7 @@ test('buildEpubs generates ordered EPUB3 editions with the repository metadata a
     assert.equal(atlasEpub.forbiddenReferences.length, 0);
 
     assert.equal(borealEpub.metadata.title, 'Boreal & Beyond');
-    assert.equal(borealEpub.metadata.author, 'Michael F. Bryan');
+    assert.equal(borealEpub.metadata.author, 'Ashley Bennet');
     assert.equal(borealEpub.metadata.language, 'en-AU');
     assert.deepStrictEqual(borealEpub.navChapterTitles, ['Cover', 'Title Page', 'Table of Contents', 'Boreal & Beyond']);
     assert.deepStrictEqual(borealEpub.spineChapterTitles, ['Cover', 'Title Page', 'Table of Contents', 'Boreal & Beyond']);

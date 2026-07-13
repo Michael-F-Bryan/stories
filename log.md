@@ -264,3 +264,13 @@ Both outputs were randomly assigned A/B filenames. The mapping was concealed unt
 **Files created:**
 - `.claude/skills/crafting-fantasy-cover-art/SKILL.md`
 - `.claude/skills/crafting-fantasy-cover-art/references/cover-principles.md`
+
+---
+
+## 2026-07-13 — Publishing pseudonym adopted
+
+**Asked:** Publish the books under the pseudonym "Ashley Bennet".
+
+**Done:** Replaced the public site description and EPUB author metadata with Ashley Bennet. The GitHub Pages origin remains unchanged because it is the hosting address rather than displayed authorship.
+
+**Verification:** Added a focused publishing-metadata test and updated the generated-site and real-EPUB assertions to require the pseudonym.
