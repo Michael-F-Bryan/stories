@@ -6,8 +6,14 @@ import test from 'node:test';
 import { fileURLToPath } from 'node:url';
 
 import { assertSafeOutputDirectory, buildSite, readBuildConfiguration } from '../publishing/build-site.js';
+import { EPUB_AUTHOR, SITE_DESCRIPTION } from '../publishing/config.js';
 
 const repositoryRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+
+test('publishing metadata uses the Ashley Bennet pseudonym', () => {
+  assert.equal(SITE_DESCRIPTION, 'Sequential fiction by Ashley Bennet.');
+  assert.equal(EPUB_AUTHOR, 'Ashley Bennet');
+});
 
 async function withTempDir(run) {
   const root = await mkdtemp(path.join(os.tmpdir(), 'publish-site-'));
@@ -147,7 +153,7 @@ test('buildSite renders a prefix-aware editorial catalogue, book pages, and chap
 
     const catalogue = await readFile(path.join(outputDir, 'index.html'), 'utf8');
     assert.match(catalogue, /<title>Stories<\/title>/);
-    assert.match(catalogue, /<meta name="description" content="Sequential fiction by Michael F\. Bryan\.">/);
+    assert.match(catalogue, /<meta name="description" content="Sequential fiction by Ashley Bennet\.">/);
     assert.match(catalogue, /<link rel="canonical" href="https:\/\/example\.test\/stories\/index\.html">/);
     assert.match(catalogue, /<meta property="og:title" content="Stories">/);
     assert.match(catalogue, /<meta property="og:type" content="website">/);
