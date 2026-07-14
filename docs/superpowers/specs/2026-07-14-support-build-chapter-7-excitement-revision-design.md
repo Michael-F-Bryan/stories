@@ -8,7 +8,7 @@ Rewrite the end of Chapter 6 and Chapter 7 so the first C-grade clear ends with 
 
 The reader should enter Chapter 7 worried about getting Ilyas across the crane, then have that practical problem explode into a fight before the team can solve it safely. The pleasure should come from recognisable skills combining under Cass's command, Ren finding a useful support role inside that command, and the team earning the clear together.
 
-The chapter should feel quicker, less procedural, and more playful without turning the injured extraction into a joke.
+The chapter should feel quicker and less procedural. Any humour is limited to one or two dry, pressure-born lines after a turn; Ilyas remains an injured person in danger, never a comic prop.
 
 ## Scope
 
@@ -45,9 +45,9 @@ The Chapter 6 route reveal remains unchanged except for any trimming needed to p
 
 ### Opening: interruption, not inspection
 
-Open at or just before the crane approach. Establish the low hook, narrow stretcher route, and obscured far-side catwalk in a few concrete observations. Before the team can debate the full movement plan, the crane guardian attacks through the trolley and hook.
+Open on the first forced movement: the guardian drives the hook at the team as they reach the crane. Reveal the low hook, narrow stretcher route, and obscured far-side catwalk only when each fact changes an immediate choice.
 
-The attack must create the stretcher problem rather than pause for it. Ilyas and the stretcher are endangered immediately, forcing the team to work while the machinery is moving.
+The attack creates the stretcher problem. Ilyas and the stretcher are endangered immediately, forcing the team to work while the machinery is moving. There is no complete route inspection or settled lifting plan before the first attack.
 
 ### Command ownership
 
@@ -62,18 +62,17 @@ Ren may:
 
 Ren may not assign experienced fighters their attacks or issue the whole team a tactical sequence.
 
-### Skill-combo fight
+### Three-turn team fight
 
-Each established specialist skill must cause a necessary part of the victory:
+The fight has three load-bearing turns rather than six separate character demonstrations. Skills overlap inside those turns; the prose must not announce a roster checklist.
 
-- **Cass:** uses Draw Regard to make the guardian and hook prioritise her, Hold Fast when the moving machinery would otherwise displace her, and Shelter for one consequential save. Her injured shoulder limits how long she can hold the line.
-- **Pip:** uses Mark to make a moving mechanical weak point or guardian attachment visible to the party. Her observation determines where the combo can land.
-- **Juno:** uses Kindle and Shape Flame with precision, freeing or weakening the brake, harness, or control linkage without flooding the whole cab with fire.
-- **Theo:** uses Edge to cross a dangerous opening and Follow-Through to turn Pip and Juno's setup into a sustained attack. His movement should look skilled rather than merely quick.
-- **Doc:** protects Ilyas and controls whether the stretcher can tolerate the next movement. His medical judgement constrains the plan rather than becoming background commentary.
-- **Ren:** secures the stretcher and rope under attack, then uses one short Escort activation when Cass calls for it, enabling Theo to cross unstable or moving crane steel without stumbling. Ren accompanies the movement enough for Escort to remain honest. He reaches tunnel vision during or immediately after this assist, reports it, releases the skill, and remains physically useful without further System use.
+1. **Keep Ilyas on the crane.** The first hook strike threatens the stretcher. Cass takes command and pulls the guardian's attention with Draw Regard while Ren and Doc keep Ilyas level. Hold Fast or Shelter may answer the immediate impact if the spatial need earns it; do not include both merely to display them.
+2. **Take the machine away from the guardian.** Pip identifies and Marks the moving brake, harness, or control linkage. Ren makes one precise tactical observation within his competence: freeing or shifting that linkage changes the hook's path and the team's position. Cass accepts or rejects the observation, then gives the order. Juno's controlled heat creates the opening, and Ren uses one short Escort activation to accompany Theo across the moving steel so Theo can exploit it with Edge. Escort's drain must bite visibly because the terrain and speed make it work hard. It prevents a stumble while steel exists underfoot; it cannot preserve a collapsing surface or erase impact.
+3. **Break control and clear the Gate.** Theo converts the opening into a Follow-Through attack against the guardian or its attachment to the controls. Cass protects the decisive beat, Pip's mark keeps the target readable, and the exposed Core becomes reachable. The final break is shared work rather than a fresh round of individual demonstrations.
 
-No single skill wins alone. The Core becomes reachable only because the team combines attention control, marking, heat, movement, protection, medical timing, and support.
+Doc's medical judgement controls when the stretcher may move and when it must remain level, but he does not need to activate a System skill for the plan to count him as useful. Likewise, no character receives an isolated skill beat solely to satisfy coverage.
+
+Ren reaches tunnel vision during or immediately after the Escort window, reports it, releases the skill, and remains physically useful without further System use. After stopping, he still makes the costly counterweight save described below so his agency does not end with the activation.
 
 ### Counterweight payoff
 
@@ -83,7 +82,7 @@ The counterweight action must be essential to saving Ilyas or preserving the ope
 
 ### Fun and tonal relief
 
-Use two or three brief character-owned moments of humour under pressure, likely from Theo, Juno, Ilyas, or Doc. They should arise from the bad machinery, Ren's improvised rig, or the team's familiarity with one another. Do not turn the rescue into banter soup or give every exchange a punchline.
+Use at most one or two brief character-owned lines of humour, placed after a reversal rather than during Ilyas's worst danger. They should arise from the bad machinery, Ren's improvised rig, or the team's familiarity with one another. Do not turn the rescue into banter soup or give every exchange a punchline.
 
 The major genre pleasure is the combo itself: the reader recognises each skill, sees why it matters, and understands how the pieces interlock.
 
@@ -93,7 +92,9 @@ Keep the aperture crossing, official CLEAR, medical handoff, and the team-accoun
 
 ## Downstream continuity
 
-Later references must reflect that Ren used Escort at the crane and reached tunnel vision there, rather than arriving already stopped. Existing broadcast criticism can remain because it measures output poorly and lacks interior footage. Medical restriction until the next day remains valid.
+Later references must reflect that Ren used Escort at the crane and reached tunnel vision there, rather than arriving already stopped. Existing broadcast criticism remains because it measures output poorly and lacks interior footage. Medical restriction until the next day remains valid.
+
+Downstream prose changes are limited to the smallest bridge wording required for factual consistency. Do not reopen later public framing, technique-label, medical, or emotional beats unless the revised Chapters 6–7 make a sentence literally false.
 
 Ledger and handoff updates must describe only what the revised published chapters establish.
 
@@ -109,9 +110,11 @@ Ledger and handoff updates must describe only what the revised published chapter
 
 - The guardian attacks within the opening movement rather than after an extended logistics discussion.
 - Cass visibly commands the battle.
-- Every active combat specialist uses at least one established skill that changes the outcome.
+- The solution is impossible without several teammates' established skills and Ren's support action, but the fight reads as three escalating turns rather than a roster checklist.
 - Ren performs one decisive System support action and one decisive mundane support action.
+- Ren makes one precise tactical observation that changes positioning; Cass remains the person who turns it into the team order.
 - Ren's first-symptom stop occurs after his contribution and is obeyed.
+- Escort's terrain-scaled cost is visible, and its structural limit remains honest.
 - The stretcher problem remains clear but no longer dominates the chapter's first half.
 - A cold reader can explain the combo and why Grave Society won.
 - Chapters 6–9 remain mechanically and temporally consistent after the revision.
