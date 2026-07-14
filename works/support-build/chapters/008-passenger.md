@@ -170,7 +170,7 @@ His answer was quick, but complete. Ren could see the effort in the way Theo kep
 
 Ambrose asked Ren what an Attendant contributed once the broadcast camera was lost.
 
-“I shared our scout’s sight during the underwater rescue,” Ren said. “I escorted her across the damaged racking, and I carried the Focus cost of Cass’s Hold Fast at the sluice. After I reached tunnel vision, I stopped using skills and helped move the stretcher.”
+“I shared our scout’s sight during the underwater rescue,” Ren said. “I escorted her across the damaged racking, carried the Focus cost of Cass’s Hold Fast at the sluice, and escorted Theo onto the crane roof. I stopped when tunnel vision hit and held the stretcher by hand.”
 
 The producer’s eyes moved to the tablet. She had not known most of that.
 

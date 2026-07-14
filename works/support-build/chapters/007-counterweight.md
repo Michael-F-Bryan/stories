@@ -1,189 +1,157 @@
 ---
 index: 7
 title: Counterweight
-description: "A blocked crane route forces Grave Society to clear the last stretch out of the Stacks without Ren's skills."
+description: "A crane guardian turns the last stretch of the Stacks into a fight for the stretcher, the machine, and the way out."
 ---
 
-Ren stopped where the upper gantry joined the crane structure and checked the route before he looked at the cab.
+The hook came out of the dark and tore the handrail off the catwalk.
 
-Two rails ran out over the warehouse on concrete pillars stained black by runoff. The crane's main beam crossed between them, with a trolley underneath and its hook block hanging almost to shoulder height. The wire rope creaked whenever the trolley shifted. Water struck the lower braces below them.
+Cass got her shield up a half beat before it should have mattered. The hook screamed across the steel, struck the shield edge, and drove a shudder through the crane frame instead of through Ilyas's stretcher.
 
-The dark rim around Ren's sight had narrowed since the tower, but it had not disappeared. He turned his head to check each rail in full.
+The impact slammed Ren's boots against the grating. Water shook loose from the beam above them. The trolley shrieked on the rail, dragged by something in the cab that had both hands on the controls and no intention of letting them past.
 
-Pip stood one span ahead with her binoculars up, one thumb hooked through the strap of her stopwatch. "The catwalk reaches the receiving platform. I can see the far end. The cab and the crane frame hide the first section."
+Doc had one hand on Ilyas's chest and one on the stretcher rail. Ilyas was awake, pale under the blanket, and trying not to cough. The strap across his ribs held him flat, but the jolts were still ugly.
 
-Ren looked where she meant. The far-side maintenance walk reappeared through the gloom near the receiving platform. The cab blocked their view of the section that joined it to the crane. The hook block hung low enough to catch a shoulder if they tried to keep the stretcher flat.
+"Hold him," Doc said. "Nobody moves him unless I say."
 
-"The stretcher won't clear that," he said.
+Cass stepped into the next swing before the hook could come back high. It hit her shield again, hard enough to rattle her shoulder, and the sound went up through the crane like a struck beam.
 
-Doc glanced at the frame. "How much won't?"
+Ren looked past the moving hook, past the cab door, and saw enough to understand the shape of the problem. The hook was following the trolley. The trolley was still free. There was a brake housing on the near side of the cab roof, half hidden by the doorway frame.
 
-Ren stepped closer to the line and measured it with his eyes, from the rail to the hook, from the hook to Ilyas's shoulder, from the shoulder to the edge of the catwalk. "Enough. If we leave it as it is, the front end catches before the turn and the back end swings."
+"The hook's on the trolley, not the cab," he said. "If Theo gets the roof lip, he can reach the brake box."
 
-Cass checked her shield strap with her right hand. She kept her injured shoulder close to her body. "Then we change the angle."
+Cass's eyes cut to the roof and back. "Theo, up. Ren, take him. Juno, warm the brake when Pip marks it. Pip, mark the housing. Doc, keep the stretcher still until I say otherwise."
 
-Ilyas lay strapped on the stretcher with the blanket tucked around his chest. His shoulder camera was still transmitting from the flooded junction far below, though it no longer showed the team. Ilyas coughed into the blanket and turned his head when the sound caught in his chest. His injured leg remained secured at the knee.
+Theo was already moving, but he waited for the order before he stepped off the wider span and onto the narrow crane access. Ren caught his sleeve and matched his pace.
 
-Doc put one hand on the stretcher rail and one on Ilyas's shoulder. "Breathe slow. Tell me if it gets worse."
+"Escort on you," Ren said.
 
-"Good to know," Ilyas rasped.
+Theo grunted once and put his weight on the moving steel.
 
-Theo looked from the crane to the cab and back. "We going through the cab or over it?"
+The catwalk flexed under them. The crane beam did not sit still the way a bridge did. It shifted with the load, with the trolley, with every strike of the hook against the rail. Escort kept Theo's boots under him on the wet grating and nothing more. It did not take the shake out of the structure. It did not stop a hook.
 
-Pip lowered the binoculars. "Through it. The route beyond it is the only solid thing I can see."
+Theo used [EDGE]. His next step snapped forward. Escort kept the wet grating from taking his feet when he landed. Ren kept one hand on the rail and one on Theo's shoulder while the hook came back across the beam behind them.
 
-Ren took the rope from the stretcher harness and fed it through the lower rung of the crane rail, then doubled it back around the front frame. He checked the knot twice, then a third time when his fingers wanted to stop. The line would let them tip the stretcher nose-up without dumping Ilyas sideways into the steel. He pulled until the rope sang taut and handed one end to Doc.
+Cass caught it on the shield edge and forced it wide.
 
-Doc read the motion immediately. "You want this to become a lift, not a drag."
+Ren felt the Focus cost climb. It was not the same pressure he had carried in the sluice tower. This one sat sharp behind his eyes and kept tightening.
 
-"Yes."
+Theo reached the ladder lip at the cab roof. The hook swung back again, low enough to take his knee if he hesitated.
 
-"Good. I dislike dragging injured men over bad steel."
+"Now," Ren said.
 
-Cass watched him finish the rig. "Do it. One person at a time if you have to. We are not forcing the stretcher through that gap."
+Theo took the ladder in one burst and went up before the hook could return. Ren's sight pinched hard at the edges a breath later.
 
-Ren almost reached for Escort on instinct. His hands stayed on the rope. He checked the knot again and moved to the front of the stretcher.
+"Tunnel vision," he said. "I'm off it."
 
-The first attempt began with Pip going ahead to the cab ladder.
+He let Escort go. The drain stopped. The dark rim around his sight did not.
 
-She climbed lightly, one hand on the rail, the other on the ladder side, and stopped two rungs up to look back. "The service ledge is narrow," she said. "There is a concrete stop under the cab door. The stretcher won't turn there unless we get the nose up first."
+The hook hit the catwalk rail where Theo had just been and bent it outward over the water. The crane frame kicked sideways. Ilyas's stretcher rolled towards the gap in the rail.
 
-Ren had already seen the stop. It was a slab of concrete about knee-high, cast into the frame to keep machinery from wandering when the crane was parked. It sat exactly where the stretcher would need to pivot.
+Ren snatched the rope from the stretcher harness, took one turn around the nearest upright, and leaned back before the front wheels reached the gap.
 
-"We do it before the turn," he said.
+The dressings on his palms split under the strain. Rope burned into raw skin.
 
-Cass put her shield forward and started onto the lower catwalk that led to the crane's central access point. The metal rang under her boots. Theo took the right side of the stretcher. Doc took the left. Juno, coal satchel tight against her hip, stayed at the rear and kept her eyes on the hooks and rails above them. Ren kept the rope in his hands and walked with the front edge, watching the clearance, watching the hook, watching the way Ilyas's weight shifted when the stretcher moved.
+"Easy," Doc said, without taking his hand off Ilyas. "Keep him level."
 
-The crane frame shook under their combined weight.
+Ren braced one boot against the upright and put his weight on the rope. His pull opposed the stretcher's slide and kept the frame level. Ilyas hissed through his teeth and went white around the mouth, but the wheels stopped on the steel.
 
-Something moved in the cab.
+On the roof, Theo was already down to one knee beside the brake housing. Pip had her bow up from the catwalk and one eye on the seam where the rust had eaten through the plate. She marked it without looking away from the guardian, and the red line appeared on the roof in front of Theo's hand.
 
-A scrape came from inside the cab, followed by a dull knock. Water slid from the door seam and dripped onto the walkway. The door opened another few centimetres.
+"There," she called.
 
-A face appeared in the gap, swollen with black water and white where its skin had gone thin. A shoulder followed, then an arm bound tight in a cracked orange harness that had grown into the flesh beneath it. Its torso was roughly human-shaped. A black growth covered one ear and curved towards its mouth, and long strips of soaked webbing hung from the harness. One hand stayed on the control lever inside the cab while the other wrapped around the hook chain.
+Juno lifted her hand from the coal satchel. A narrow ribbon of heat shimmered across the marked seam, no wider than Theo's thumb. It made the rust go dull and then black.
 
-Pip swallowed. "Crane guardian."
+Theo set his sword tip into the line and levered.
 
-It lifted its head towards them and opened its mouth. Water ran over its teeth.
+The brake housing gave with a short metallic crack.
 
-Then it yanked the lever.
+The trolley jerked.
 
-The trolley rolled three metres along the beam with a shriek of metal on metal, and the hook block dropped towards the catwalk in a heavy, swinging arc.
+For one beat it held, then rolled half a metre downbeam, just far enough to break the guardian's perfect line on the catwalk. The hook came back wider than before and missed the stretcher by a handspan.
 
-Cass slammed her shield up. "Down."
+The cab door opened fully.
 
-The hook missed her by less than a handspan and smashed the rail behind her instead, bending the handrail out over the water. Theo swore once and shoved the stretcher back before it could roll into the swing path. Ren threw his weight into the rope and stopped Ilyas from pitching forward when the frame lurched.
+A rough human shape hauled itself into the gap, one arm still bound into the orange harness that had grown into its flesh. The other hand snapped on the hook chain. Water ran from the harness straps and from its open mouth. A black growth covered one ear and split along the edge of its jaw.
 
-The guardian stayed beside the cab and used the crane controls to keep them away.
+Cass dropped her shield into the doorway and took the attention as soon as it turned.
 
-The hook hung too low, the trolley was still moving, and the concrete stop under the cab door meant the stretcher had to tilt before it could pass. They could not lift the front while the hook kept crossing above it. "We need the trolley stopped."
+"Over here," she said.
 
-The guardian turned towards Ren and pulled the lever again.
+The guardian came for her.
 
-It hauled the lever again. The hook came back across the catwalk, low and fast, and clipped the edge of the stretcher rail hard enough to jar Ilyas's whole body. He coughed with the shock. Ren caught the frame with his forearm and took the force through the muscle instead of the bolt.
+Its hook missed the shield edge and hammered the cab frame instead. Cass planted with [HOLD FAST] and let the blow take her whole body without giving ground. The impact ran through her injured shoulder, but she stayed upright. The hook tried again. She used [DRAW REGARD] and made the guardian choose her over the stretcher.
 
-The stretcher had less than half a metre of clearance on either side. The hook had already used most of it.
+That was enough to pull the machine away from the route for one clean moment.
 
-"Pip," Cass said, "what's the crane sitting on?"
+"Pip, seam behind the console," Cass snapped. "Juno, keep the heat short. Theo, stay on the roof until I call you down. Ren, keep Ilyas level. Doc, move him only when I tell you."
 
-Pip had her bow out now. She followed the rails to the trolley, then checked the cab roof. "Two side rails. The trolley runs on the main span. There is a brake box on the near side of the cab roof."
+The guardian lunged into the doorway and got its chain trapped against the frame. Cass drove the shield into its chest and pinned it where it stood. Theo came down from the roof edge with [FOLLOW-THROUGH] carrying his first cut into the second. The blade bit the chain near the guardian's wrist, and the next strike went exactly where the first had opened space.
 
-"Can you reach it?"
+Juno fed heat into the webbing that bound the harness to the cab controls. The straps smoked and tightened, then snapped free in one strip.
 
-"Not without getting past the hook."
+Pip marked the seam behind the operator console as soon as it became visible. Juno moved her heat onto the marked floorplate, and the rust around its bolts blackened. Ren could see the pale knot of the Core now, half buried in the floor under the controls and threaded with black cable.
 
-Theo stepped forward and drew one sword. "I can reach it."
+"Core," he said.
 
-Cass caught his wrist before he took another step. "Not yet."
+Cass saw the mark and moved.
 
-The guardian jerked the chain again, and the hook block swung back through the gap at knee height. Juno flinched, planted both feet, and opened one hand over the coal satchel. A narrow line of heat shimmered above her palm.
+The guardian twisted towards Theo, trying to pull the chain back through the gap. Cass used [SHELTER] and put the blow onto herself before it could take Theo in the ribs. The hook slammed into her shield instead of his side. The impact drove her injured shoulder back against the cab frame, but it bought Theo the breath he needed.
 
-"If Theo gets me a clear line to the brake housing, I can heat the rust around the latch. It might free the stop."
+Theo cut again. The chain parted.
 
-Ren looked at the line, the hook, the cab, the concrete stop, and the space under Ilyas's stretcher. There was a way through if the front could be lifted and the swing cut off for one clean moment.
+The guardian lurched away from the shield and slammed both hands against the console. The heated floorplate shifted, and the remaining bolts shuddered under Theo's blade.
 
-"On my count," he said. "Doc, take the left. Theo, right. Juno, stay ready. Pip, watch the hook. Cass, if it comes through again, hit the rail and make it choose you."
+Ren kept the stretcher steady while the crane bucked around them. The hook swung back once more. He had no skill left to spend. He dropped his weight onto the rope again and held the front wheels away from the broken rail while the frame tried to twist.
 
-Cass gave him a single nod.
+Raw skin met frayed cord and held.
 
-Ren adjusted the rope so the stretcher nose could come up against the rail. The rough weave bit into his palms. Escort would have held Theo's footing during the climb and made the transfer faster. Ren had already called his stop. He took another turn of rope around the rail.
+Doc glanced at him once, then back to Ilyas. "Still good?"
 
-"Now," he said.
+Ilyas coughed into the blanket. "No," he rasped. "Still alive."
 
-Doc and Theo lifted the front of the stretcher together. Juno shifted to the rear and kept the line from twisting. Ren fed rope through the rail and took the tension by hand while they raised the nose over the concrete stop. The frame cleared by a fraction. Ilyas hissed through his teeth and grabbed the blanket with both hands.
+"Good enough," Doc said, and meant it.
 
-The guardian struck.
+Cass took the hammer in both hands. Her injured shoulder stopped the head short of a full raise. She changed her grip and used the whole length of her body to bring it down once.
 
-Cass caught the hook on her shield edge and forced it sideways. The impact drove her boots into the catwalk and bought Ren the half-second he needed. A rusted bracket with a red-painted wedge held the trolley stop under the cab roof. The stretcher would clear once the trolley could move past it.
+The floorplate cracked around the Core.
 
-"Stop the trolley," he snapped. "The brake's binding on the stop bracket. It won't clear until it's moved by hand."
+Theo got in beside her, took the haft with both hands, and drove the hammer into the split. Cass held the pressure steady. Theo struck again. The pale knot of the Core broke loose from the floor.
 
-Pip swung her bow up. One arrow struck the chain below the hook block and knocked it away from the ladder. Theo went up while it swung wide, then crossed onto the cab roof with one hand on the rail.
+It cracked with a dry sound that Ren felt through the crane beam.
 
-The guardian turned the crane to meet him.
+The guardian spasmed, released the chain, and sagged against the console. Water poured from the cab floor around the broken Core. The trolley gave one final shudder and settled into stillness.
 
-It hauled itself halfway out of the cab and onto the roof. Its ribs spread too wide under the harness, and the straps pulled both shoulders high. It swung the chain at Theo's head. Theo ducked, and the hook struck the cab roof hard enough to dent the sheet and throw water over the edge.
+For a second nobody moved.
 
-Juno sent a narrow burst of heat through the brake housing.
+Then Pip looked past the cab door and said, "There is a catwalk on the far side."
 
-The rust popped.
+Ren turned his head.
 
-Theo drove his sword into the gap the heat opened and levered sideways. The brake stop shifted a finger's width. The trolley squealed, just enough to tell Ren the line had moved.
+Beyond the crane cab, a narrower maintenance walk ran along the outer wall towards the receiving platform. The section hidden behind the crane frame was still there, intact, with a waist-high rail and enough width for the stretcher.
 
-"Again," Cass said.
+Doc had already been looking that way. "We move when I say."
 
-Ren kept the rope taut and moved with the stretcher instead of against it. Doc and Theo lifted. Juno steadied the rear. The frame rolled past the concrete stop at last, nose high, then settled back level on the catwalk beyond it. Ren felt the whole load come cleanly onto his hands and then onto the steel again. Ilyas coughed, but the frame stayed true.
+Cass wiped water and grime from her face with the back of her wrist. Her left shoulder stayed close to her body, but she picked up her shield again.
 
-The guardian dropped from the roof into the cab entrance with the chain in one hand. It blocked the door and pulled the hook back towards Theo.
+"Now," Doc said, after one more breath over Ilyas's back.
 
-Cass stepped in close and raised her shield. The guardian struck it, driving the shield against the cab frame and trapping its own arm between them. Theo came in from the side and cut the chain near its hand. Juno burned through the webbing that bound its harness to the controls. Pip marked the seam behind the console.
+Theo took the front corner of the stretcher. Juno took the rear. Ren stayed on the rope and the rail and walked where Doc pointed. Pip went ahead and tested the sound of the steel with her hand and the flat of one arrow. Cass kept the guardian's body between them and the cab until the stretcher had clear space.
 
-When the guardian twisted towards Theo, Ren could see behind the control console.
+The maintenance walk crossed the last flooded aisle and joined the receiving platform. The aperture stood open in the far wall, a clean door shape through the old container port. Rain had started outside. League staff and medics waited behind the painted line.
 
-The Core sat half-buried under the operator console, a dense pale knot grown into the cab floor and threaded through with black cable.
+Ren kept one hand on the stretcher until the team reached the aperture. Cass went through first and turned back. Theo and Juno carried Ilyas through next, one careful step at a time. Doc waited until the stretcher was halfway through before he let go and followed.
 
-"There," Ren said.
+Cold rain hit Ren's face as he stepped out of the Gate.
 
-Cass saw Pip's mark and moved towards it.
+The warehouse fell away behind him. Medics moved in fast. They took the stretcher from Theo and Juno and rolled Ilyas towards the ambulance line.
 
-Theo held the guardian against the cab frame while Juno heated the floorplate and Pip kept the seam marked. Ren and Doc shifted the stretcher clear of the swing path and moved Ilyas back against the safer rail. That left Cass free to work.
+Above the League station, a horn sounded once.
 
-She dropped the shield inside the door and took the hammer in both hands. Her injured shoulder stopped the head halfway up. Cass changed her grip, raised it as far as she could, and brought it down. The floorplate cracked around the Core.
+The status board changed from LIVE to CLEAR.
 
-Theo caught the hammer before it hit the floor. Cass kept her right hand on the haft, and together they drove the head into the cracked plate again. The pale knot broke in its socket.
+The crowd behind the barriers began to cheer.
 
-The Core broke with a dry crack. The guardian spasmed and released the chain. The lever dropped. The trolley shuddered and came to rest with a long metallic groan.
-
-Water poured from the cab floor around the broken Core. The guardian sagged against the console and stopped moving. The hook slowed until it hung above the water.
-
-Ren's palms had gone numb around the rope. He loosened his grip and checked Ilyas.
-
-Ilyas was coughing, rough but upright enough to keep his head up.
-
-Doc had a hand on his back already. "Still breathing. Stay with me, child."
-
-Cass wiped water and grime from her cheek with the back of her wrist. She retrieved her shield with her right hand and looked at the far-side catwalk.
-
-Ren looked too.
-
-Beyond the cab, a narrow maintenance walk ran along the outer wall towards the receiving platform. The hidden section of grating and its waist-high rail were intact.
-
-"Move the stretcher," Cass said.
-
-With the hook out of the way, the front of the stretcher passed through the cab opening. Ren walked with one hand on the frame and one on the rail. He counted the steps between support points, kept the load flat where the steel narrowed, and lifted only when the catwalk dipped under a brace.
-
-Theo took the front corner and kept pace with Ren's count. Juno stayed at the rear with the coal satchel tight against her hip. Pip went ahead, tested the rail, and marked the sound sections of steel. Doc walked beside Ilyas and told him when to breathe and when to leave the coughing alone.
-
-The maintenance walk crossed the last flooded aisle and joined the receiving platform. The aperture showed the old container port through its door-shaped opening. Rain had started outside. League staff and medics waited behind the painted entry line.
-
-Ren kept his hand on the stretcher until they reached the aperture. Cass went through first and turned to help from the port side. Theo and Juno carried Ilyas across next. The stretcher vanished through the opening one end at a time.
-
-Pip followed with the stopwatch still in her fist. Doc pushed Ren towards the aperture before stepping through after him.
-
-Cold rain struck Ren's face. The warehouse disappeared behind him, replaced by the port, the barriers, and people shouting for room. Medics took the stretcher from Theo and Juno and wheeled Ilyas towards an ambulance.
-
-A horn sounded above the League station. The status board changed from LIVE to CLEAR, and the crowd behind the barriers began to cheer.
-
-Ren checked the painted line. Cass, Theo, Juno, Pip, and Doc were all on the same side of it. His hands had started shaking, and the rope had rubbed both palms raw.
+Ren looked down at his hands. The dressings had split open and the skin underneath was rubbed raw by rope and steel. Cass, Theo, Juno, Pip, and Doc were all on the same side of the painted line.
 
 Grave Society had brought everyone back.
