@@ -86,7 +86,13 @@ A red mark appeared over the joint.
 
 The doorkeeper hit Cass. Through Carry, Hold Fast began taking Focus from Ren much faster.
 
-His vision narrowed. He could hear Juno calling the angle, but he lost half the words and had to drag his attention back to the bridge.
+A hard pressure settled behind Ren's eyes.
+
+"Pressure behind my eyes," he said. "I'm releasing it."
+
+He let Carry go.
+
+The upkeep returned to Cass while the doorkeeper was still pressing against her shield. Her head jerked once as the Focus cost arrived. She did not move her feet.
 
 Juno opened her hand. A thin line of fire crossed beside Cass's shield and struck the marked joint. She held it there just long enough for the dark hide to pull tight.
 
@@ -100,15 +106,7 @@ Theo used [EDGE]. The burst carried his first step to Cass's shoulder. His secon
 
 The doorkeeper swung its free arm across the bridge.
 
-Cass moved her shield over Theo and used [SHELTER]. The blow that would have reached him struck her instead. Her body turned with it. Hold Fast kept her feet on the deck, and Carry made the skill cost her nothing, but neither skill softened the impact. She hit the handrail with her left shoulder and stayed upright.
-
-Ren's vision tightened at the edges.
-
-"Tunnel vision," he said. "I'm releasing it."
-
-He let Carry go.
-
-The upkeep returned to Cass while the doorkeeper was still pressing against her shield. Her head jerked once as the Focus cost arrived. She did not move her feet.
+Cass moved her shield over Theo and used [SHELTER]. The blow that would have reached him struck her instead. Her body turned with it. Hold Fast kept her feet on the deck, but neither skill softened the impact. She hit the handrail with her left shoulder and stayed upright.
 
 Theo's second cut landed beside the first. The chain made his third faster. The doorkeeper dropped its weight towards him, and Cass shoved the shield between them before it could pin him against the rail.
 
@@ -120,15 +118,13 @@ Juno closed her hand. The flame went out. She wrapped the coal while she watched
 
 "I can make the opening bigger," she said. "Give me another pass."
 
-"No," Ren said.
+"No," Cass said. "We do the next one without planting."
 
-He had one hand on the bridge rail. His sight had stopped narrowing after he released Carry, but the dark rim had not gone away.
+The pressure behind Ren's eyes had eased, but it had not vanished. Cass pointed behind Doc.
 
-"I called first symptom. I'm done with skills for the day."
+"Stay back until it clears."
 
-Cass pointed behind Doc. "Then you're done. Get back there."
-
-Ren wanted to argue. The dark rim around his sight was still there, so he stepped behind Doc.
+Ren stepped behind Doc.
 
 Doc moved between Ren and the fight. "Keep telling me if it changes."
 
@@ -170,7 +166,7 @@ Theo sheathed one sword. He held the hammer across his body and tested the space
 
 Cass walked onto the bridge for the third time.
 
-Ren stood behind Doc with nothing running. He reached for Escort by reflex. The dark rim around his sight was still there, so he stopped.
+Ren stood behind Doc with nothing running. He reached for Escort by reflex, felt the pressure still sitting behind his eyes, and stopped.
 
 The doorkeeper charged.
 
@@ -228,17 +224,17 @@ Doc made everyone stop on the first landing. He checked Cass's shoulder while sh
 
 Cass adjusted the shield strap so it sat farther from the joint.
 
-Doc turned to Ren. The dark rim around Ren's sight had begun to recede, but it was still there when he looked towards the corners of the room.
+Doc turned to Ren. The pressure behind Ren's eyes had begun to recede, but it was still there when he looked towards the corners of the room.
 
 "Better," Ren said before Doc asked. "Not gone. Hearing is normal."
 
-"You stay off your skills until tomorrow."
+"No skills while you can still feel it," Doc said.
 
-"I know."
+"And if it clears?"
 
-"Say it anyway."
+Doc looked at Cass before answering. "One short use if your captain calls for it. First symptom, you stop."
 
-"I'm done until tomorrow."
+"First symptom, I stop."
 
 Doc nodded and went back to Ilyas.
 

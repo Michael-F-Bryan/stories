@@ -24,22 +24,22 @@
 
 ## As of ch. 7 (outside the Stacks after the clear)
 
-- **Ren:** Remains off all skills and still has a narrowing rim of tunnel vision at the crane. Rigs the stretcher through the crane access, identifies the jammed trolley stop, directs the transfer, and keeps working by hand. Exits with rope-burned palms and shaking hands after confirming the whole team is outside.
-- **Cass:** Keeps her injured left shoulder close, redirects the crane hook with her shield, and pins the guardian at the cab. Cannot raise the Core hammer normally; cracks the floorplate with a limited two-handed strike, then combines with Theo for the breaking blow. Exits with shield and hammer.
-- **Theo:** Carries the stretcher, climbs onto the cab roof after Pip redirects the hook, levers the heated brake stop, cuts the guardian's chain, and helps Cass break the Core. Retains both swords.
-- **Juno:** Keeps the stretcher stable and uses narrow, controlled heat on the brake housing, guardian webbing, and Core floorplate. No overcast or grey-out.
-- **Pip:** Confirms the far catwalk reaches the receiving platform, redirects the hook chain with one arrow, marks the Core seam and sound catwalk sections, and carries the stopwatch outside.
-- **Doc:** Monitors Ilyas throughout the crane transfer, helps lift the stretcher, and keeps Ren off skills. Exits with the team.
+- **Ren:** Uses one short Escort activation on Theo across the moving catwalk, reaches tunnel vision during it, reports the stop, and uses no more skills. After that he counterweights Ilyas's stretcher by hand under repeated hook swings and exits with raw, rope-burned palms.
+- **Cass:** Keeps her injured left shoulder close, orders the crane sequence, redirects the guardian's attention with Draw Regard, anchors the line with Hold Fast, and uses Shelter when the hook comes for Theo. Exits with shield and hammer after helping break the Core.
+- **Theo:** Uses Edge to exploit the roof opening, reaches the brake housing, frees the stop, cuts the guardian's chain with Follow-Through, and helps Cass break the Core. Retains both swords.
+- **Juno:** Uses short, controlled heat on the brake seam, the control webbing, and the Core-floorplate edge. No overcast or grey-out.
+- **Pip:** Marks the brake housing and the Core seam, confirms the hidden catwalk beyond the cab, and carries the stopwatch outside.
+- **Doc:** Controls when the stretcher can move, monitors Ilyas throughout the crane transfer, and keeps Ren honest about stopping skills. Exits with the team.
 - **Ilyas:** Remains conscious, coughing, and strapped to the stretcher until the port medics take him to an ambulance. His knee remains non-weight-bearing; the detached shoulder camera is still transmitting from the flooded junction.
 
 ## As of ch. 6 (inside the Stacks, upper gantry after 18:08 elapsed)
 
-- **Ren:** Releases Carry from Doc's pack and, with Cass's explicit consent, takes the upkeep of Hold Fast for one doorkeeper charge. The Rank VII upkeep drives him to tunnel vision; he reports it immediately, releases Carry, and stops all skills for the day. He later wants to use Escort on Theo and deliberately obeys the stop instead. Tunnel vision is receding but remains present at the tower; he physically carries Doc's pack up the stairs.
+- **Ren:** Releases Carry from Doc's pack and, with Cass's explicit consent, takes the upkeep of Hold Fast for one doorkeeper charge. The Rank VII upkeep produces pressure behind his eyes rather than tunnel vision; he reports it immediately and releases Carry. He avoids further use while the pressure remains. At the tower, Doc allows one short activation if the pressure clears and Cass calls for it. Ren physically carries Doc's pack up the stairs.
 - **Cass:** Tanks the doorkeeper's first charges, authorizes one Carry transfer, and uses Shelter to take a blow meant for Theo. Her left shoulder is bruised and possibly cracked, with reduced movement; Mend cannot treat it. She changes tactics instead of planting for another charge, uses the bridge rail to expose the gaunt, and retains shield and hammer. At the broken upper gantry, she keeps extraction as the job and turns the team towards the crane cab route.
 - **Theo:** Uses Edge and Follow-Through against the doorkeeper's marked, heated shoulder joint. Swings Cass's heavy Core hammer once to break an armour plate, then returns to his sword chain. Retains both swords and resumes the front of Ilyas's stretcher.
 - **Juno:** Uses one banked coal in two short, narrow bursts against the marked joint and stops cleanly both times. Carries the rear of Ilyas's stretcher up the tower.
 - **Pip:** Marks the doorkeeper's exposed joint, adds one arrow to the opening, checks the tower landings, and confirms that the mapped return gantry has collapsed beyond rope range. Cannot yet see whether the catwalk beyond the crane cab remains connected.
-- **Doc:** Takes back the physical pack when Ren changes Carry burdens, monitors Ilyas, assesses Cass's shoulder, and rules Ren off skills until the next day. Hands Ren the physical pack for the tower climb.
+- **Doc:** Takes back the physical pack when Ren changes Carry burdens, monitors Ilyas, and assesses Cass's shoulder. He bars further skill use while Ren still feels the pressure, then permits one short activation if it clears and Cass calls for it. Hands Ren the physical pack for the tower climb.
 - **Ilyas:** Conscious and still strapped to the stretcher. Coughing recurs on the climb, and his breathing sounds rougher in the enclosed stairwell. The damaged knee remains non-weight-bearing.
 
 ## As of ch. 5 (inside the Stacks, 18:08 elapsed)

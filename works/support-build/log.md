@@ -325,3 +325,27 @@ Comment 3 is a second reader-taught style rule → encoded in authors-voice ("nu
 **Ground:** Checked medical recovery, Cass's two-week shield restriction, one-burden Carry, sequential Escort/Carry use, Escort's structural boundary, [LOOSE], bell-jelly behaviour, physical belay geometry, camera-operator party boundaries, Core closure, qualifier structure, and Marc's established role. Replaced an unsafe belt clip with a rope seat sling and top-anchored belay. No sealed information appears in the chapter.
 
 **Audit and verification:** Replaced one fragment-list score line, removed an interpretive statement about Cass's role change, grounded [LOOSE] on first named use, and kept the technique names descriptive rather than load-bearing. Final high-signal scans returned zero hits. `pnpm test` passed all 28 tests, `pnpm build` passed site, EPUB, and output verification, chapter 9 was generated in the EPUB, and `git diff --check` passed.
+
+## 2026-07-14 — Owner review: chapter 7
+
+**Owner feedback:** The first half is boring because it spends too long debating stretcher clearance, the crane route, and whether the far side is visible. The boss fight does not make the team's skills feel decisive. Ren implausibly takes command and assigns the team despite having no live-fight experience. He then taps out early and contributes too little during the actual fight, which frustrates the serial's central support-build promise.
+
+**Initial diagnosis:** This is structural, not a line-edit problem. The previous gates overvalued route/mechanics correctness and the clean mini-resolution while missing excitement, character authority, and protagonist participation. The revision needs to compress pre-fight logistics, restore Cass as field commander, build the guardian fight around each specialist's established skills, and make Ren materially necessary without casually breaking the first-symptom stop rule.
+
+**Approved direction:** Michael approved revising Chapter 6 so Ren reaches the crane with enough Focus for one bounded activation. The selected Chapter 7 shape is a team-combo set piece: the guardian attacks before the route is solved; Cass commands; each specialist's established skills cause part of the win; Ren secures Ilyas physically and uses one decisive Escort activation before calling the first-symptom stop. Design recorded in `docs/superpowers/specs/2026-07-14-support-build-chapter-7-excitement-revision-design.md`.
+
+**Adversarial design review:** The reviewer found two high-level risks worth correcting: the six-role design could become a visible checklist fight, and the opening could remain logistics-led despite moving the attack earlier. It also flagged Escort's terrain-scaled Focus cost, the risk of making Ren useful equipment rather than an active protagonist, humour around an injured Ilyas, and fragile downstream wording. The spec now starts on the first attack, collapses the encounter into three causal turns, gives Ren one precise tactical observation under Cass's command plus a post-stop physical save, makes Escort's cost and structural limit explicit, limits humour to one or two pressure-release lines, and confines downstream edits to literally false bridge wording. Cass's command, exact skill-text honesty, first-symptom discipline, Ilyas's seriousness, and the earned clear remain protected.
+
+## 2026-07-14 — Support Build excitement revision: chapters 6–7 + downstream fixes
+
+**Owner feedback:** Chapter 7 was too logistics-heavy, the guardian fight underused the team's skills, Ren was over-commanding veteran fighters, and he tapped out before contributing enough. Asked for a more exciting, fun version while keeping the existing safety and extraction beats.
+
+**Done:** Revised chapter 6 so Ren releases Carry at ordinary pressure before formal tunnel vision and can preserve one bounded activation if the pressure clears. Rewrote chapter 7 so it opens on the hook attack, keeps Cass in command, uses one short Escort activation on Theo, makes Pip's marking and Juno's heat causally necessary, gives Theo Edge and Follow-Through a real opening, and pays Ren's post-stop rope save with raw palms. Applied the smallest literal continuity fix in chapter 8 by adding the crane Escort and moving the formal tunnel-vision stop to its correct point. Chapter 9 was inspected and left unchanged.
+
+**Checks:** Independent Develop, Ground, authors-voice, and blind ordinary-reader gates pass. `pnpm test` passes 28/28; `pnpm build` completes the site, EPUB, and output verification; the generated Chapter 7 page exists; `git diff --check` passes.
+
+## 2026-07-15 — Grounding report recreation
+
+**Done:** Re-read the story-engine skill, the developmental-read guidance, chapters 6–9, the relevant bible files, the ledgers, and the handoff to verify the revised Support Build grounding state.
+
+**Result:** The independent grounding report was written and returned PASS. A controller search then caught one stale Chapter 6 character-state sentence that still barred Ren until the next day; the row now matches Doc's bounded-use ruling. Grounding is PASS after that repair.
